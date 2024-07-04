@@ -11,6 +11,14 @@ const browserLang = navigator.language;
 // Quitar el guion bajo del lang del navegador
 const browserLangWithoutUnderscore = browserLang.split("-")[0];
 
+// Verificar si el lang esta en el localStorage
+const localStorageLang = localStorage.getItem("lang");
+
+// Si no hay lang en el localStorage, se guarda el lang del navegador en localStorage
+if (!localStorageLang) {
+	localStorage.setItem("lang", browserLangWithoutUnderscore);
+}
+
 // Add event listener to the language select dropdown
 const selectedLanguage = document.querySelector("#selectedLanguage");
 
@@ -18,6 +26,10 @@ const selectedLanguage = document.querySelector("#selectedLanguage");
 selectedLanguage.value = browserLangWithoutUnderscore;
 
 let language = browserLangWithoutUnderscore;
+if (localStorageLang) {
+	language = localStorage.getItem("lang");
+	selectedLanguage.value = language;
+}
 
 // If `?lang=` exists in URL params & is valid, then use that instead.
 const urlParams = new URLSearchParams(window.location.search);
@@ -80,5 +92,7 @@ updateContent(language);
 
 selectedLanguage.addEventListener("change", (event) => {
 	const selectedLanguage = event.target.value;
+	//guardar en el localStorage
+	localStorage.setItem("lang", selectedLanguage);
 	updateContent(selectedLanguage);
 });
