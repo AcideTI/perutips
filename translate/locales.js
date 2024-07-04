@@ -23,6 +23,7 @@ export const locales = {
 		breadcrumb: {
 			home: "Inicio",
 			agency: "Agencia Autorizada",
+			contact: "Consultas y Reservas",
 		},
 		home: {
 			carousel: {
@@ -61,6 +62,15 @@ export const locales = {
 			description:
 				"Somos una empresa turística, boutique de viajes en el Perú y en el mundo, brindando servicios de calidad",
 		},
+		contact: {
+			title: "Contacto",
+			subtitle: "Consultas y Reservas",
+			description:
+				"Para más información de nuestros servicios o si desea reservar un tour puede hacerlo a través de:",
+			wsp: "Escríbanos",
+			phone: "Llámenos",
+			email: "Envíenos un correo",
+		},
 	},
 	en: {
 		nav: {
@@ -86,6 +96,7 @@ export const locales = {
 		breadcrumb: {
 			home: "Home",
 			agency: "Authorized agency",
+			contact: "Consults and Reservations",
 		},
 		home: {
 			carousel: {
@@ -123,6 +134,15 @@ export const locales = {
 			tag: "Who we are",
 			description:
 				"We are a tourist company, travel boutique in Peru and in the world, providing quality services",
+		},
+		contact: {
+			title: "Contact",
+			subtitle: "Consults and Reservations",
+			description:
+				"For more information about our services or if you want to book a tour you can do so through:",
+			wsp: "Write us",
+			phone: "Call us",
+			email: "Send us an email",
 		},
 	},
 };
