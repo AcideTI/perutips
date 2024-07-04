@@ -20,6 +20,10 @@ export const locales = {
 			service04: "Tours al Caribe",
 			service05: "Tours especiales",
 		},
+		breadcrumb: {
+			home: "Inicio",
+			agency: "Agencia Autorizada",
+		},
 		home: {
 			carousel: {
 				tag: "perú tips",
@@ -51,6 +55,12 @@ export const locales = {
 				btn_consult: "Consultas",
 			},
 		},
+		about: {
+			title: "Nosotros",
+			tag: "Quienes somos",
+			description:
+				"Somos una empresa turística, boutique de viajes en el Perú y en el mundo, brindando servicios de calidad",
+		},
 	},
 	en: {
 		nav: {
@@ -72,6 +82,10 @@ export const locales = {
 			service03: "Tours to Europe",
 			service04: "Tours to the Caribbean",
 			service05: "Special tours",
+		},
+		breadcrumb: {
+			home: "Home",
+			agency: "Authorized agency",
 		},
 		home: {
 			carousel: {
@@ -103,6 +117,12 @@ export const locales = {
 					"For reservations or more information about our services...",
 				btn_consult: "Consults",
 			},
+		},
+		about: {
+			title: "About us",
+			tag: "Who we are",
+			description:
+				"We are a tourist company, travel boutique in Peru and in the world, providing quality services",
 		},
 	},
 };
