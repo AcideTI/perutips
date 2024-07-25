@@ -53,7 +53,7 @@
                 </div>
                 <div class="h-100 d-inline-flex align-items-center border-end px-3">
                     <small class="far fa-envelope me-2"></small>
-                    <small>ventas1@perutipsoperador.com</small>
+                    <small>gerencia@perutipsoperador.com</small>
                 </div>
             </div>
             <div class="col-lg-5 px-5 text-end">
@@ -69,7 +69,7 @@
 
 
     <!-- Navbar Start -->
-    <nav class="navbar navbar-expand-lg bg-white navbar-light sticky-top px-4 px-lg-5 py-lg-0">
+    <nav class="navbar navbar-expand-xxl bg-white navbar-light sticky-top px-4 px-lg-5 py-lg-0">
         <a href="index.html" class="navbar-brand d-flex align-items-center">
             <img class="img-fluid" src="img/logo.png" style="height:65px;">
         </a>
@@ -78,21 +78,26 @@
         </button>
         <div class="collapse navbar-collapse" id="navbarCollapse">
             <div class="navbar-nav ms-auto py-3 py-lg-0">
-                <a href="index.html" class="nav-item nav-link active" data-i18n="nav.inicio">Inicio</a>
-                <a href="nosotros.html" class="nav-item nav-link" data-i18n="nav.nosotros">Nosotros</a>
-                <a href="folac-2024-arequipa.html" class="nav-item nav-link" data-i18n="nav.folan">FOLAC 2024</a>
-				<a target="_blank" href="https://www.bookingswl.com/?agentID=2672" class="nav-item nav-link" data-i18n="nav.tour">Tours USA</a>
-                <!-- <div class="nav-item dropdown">
-                    <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Pogramas</a>
+                <a href="index.html" class="nav-item nav-link active text-truncate" data-i18n="nav.inicio">Inicio</a>
+                <a href="nosotros.html" class="nav-item nav-link text-truncate" data-i18n="nav.nosotros">Nosotros</a>
+                <div class="nav-item dropdown">
+                    <a href="#" class="nav-link dropdown-toggle text-truncate" data-i18n="nav.lion" data-bs-toggle="dropdown">Lions Internacional</a>
                     <div class="dropdown-menu bg-light m-0">
-                        <a href="#" class="dropdown-item">USA</a>
-                        <a href="#" class="dropdown-item">Europa</a>
-                        <a href="#" class="dropdown-item">Peru</a>
-						<a href="#" class="dropdown-item">Internacionales</a>
-                        <a href="#" class="dropdown-item">Estudiantes</a>
-                        <a href="#" class="dropdown-item">Bodas</a>
+                        <a href="#" class="dropdown-item text-capitalize">FOLAC 2025</a>
+                        <a href="#" class="dropdown-item text-capitalize" data-i18n="nav.mexico">Convención Mexico</a>
                     </div>
-                </div> -->
+                </div>
+                <a href="folac-2024-arequipa.html" class="nav-item nav-link text-truncate" data-i18n="nav.peru">Conoce el Perú</a>
+                <a href="folac-2024-arequipa.html" class="nav-item nav-link text-truncate" data-i18n="nav.paquetes">Paquetes Internacionales</a>
+                <div class="nav-item dropdown">
+                    <a href="#" class="nav-link dropdown-toggle text-truncate" data-bs-toggle="dropdown" data-i18n="nav.adicionales">Servicios Adicionales</a>
+                    <div class="dropdown-menu bg-light m-0">
+                        <a href="#" class="dropdown-item text-capitalize" data-i18n="nav.turismo">Turismo</a>
+                        <a href="#" class="dropdown-item text-capitalize" data-i18n="nav.estudiantil">Estudiantil</a>
+                        <a href="#" class="dropdown-item text-capitalize" data-i18n="nav.bodas">Bodas</a>
+                        <a href="#" class="dropdown-item text-capitalize">Visas</a>
+                    </div>
+                </div>
                 <a href="contacto.html" class="nav-item nav-link" data-i18n="nav.contacto">Contactos</a>
                 <!-- Select to idioma -->
                 <select id="selectedLanguage" class="nav-item nav-link border-0">
@@ -122,7 +127,11 @@
                                         <li class="breadcrumb-item fs-5 text-light">Europa</li>
                                         <li class="breadcrumb-item fs-5 text-light">Peru</li>
                                     </ol>
-                                    <!--<a href="" class="btn btn-primary py-3 px-5">More Details</a>-->
+                                    <a href="/contacto.html" alt="Contáctanos" class="btn btn-primary py-3 px-5">
+                                        <i class="fab fa-whatsapp me-2"></i><span data-i18n="home.carousel.contact">
+                                            Contáctanos
+                                        </span>
+                                    </a>
                                 </div>
                             </div>
                         </div>
@@ -188,12 +197,12 @@
             <div class="row g-5">
                 <div class="col-lg-6 wow fadeInUp" data-wow-delay="0.1s">
                     <div class="position-relative overflow-hidden ps-5 pt-5 h-100" style="min-height: 400px;">
-                        <img class="position-absolute w-100 h-100" src="img/about.jpg" alt="" style="object-fit: cover;">
+                        <img class="position-absolute w-100 h-100" src="img/home/brasil_folan.webp" alt="" style="object-fit: cover;">
                         <div class="position-absolute top-0 start-0 bg-white pe-3 pb-3" style="width: 200px; height: 200px;">
                             <div class="d-flex flex-column justify-content-center text-center bg-primary h-100 p-3">
-                                <h1 class="text-white">2024</h1>
-                                <h2 class="text-white">FOLAN</h2>
-                                <h5 class="text-white mb-0">Arequipa</h5>
+                                <h1 class="text-white">2025</h1>
+                                <h2 class="text-white">FOLAC</h2>
+                                <h5 class="text-white mb-0">Brasil</h5>
                             </div>
                         </div>
                     </div>
@@ -202,11 +211,10 @@
                     <div class="h-100">
                         <div class="border-start border-5 border-primary ps-4 mb-5">
                             <h6 class="text-body text-uppercase mb-2" data-i18n="home.about.tag">Bienvenidos</h6>
-                            <h1 class="display-6 mb-0" data-i18n="home.about.title">52º Folac Arequipa 2024</h1>
+                            <h1 class="display-6 mb-0" data-i18n="home.about.title">53º Folac Brasil 2025</h1>
 
                         </div>
-                        <p data-i18n="home.about.text">El Distrito Múltiple H, Perú viene preparándose con muchísima emoción y entusiasmo, al haber sido designado como anfitrión del 52° FOLAC, siendo sede la hermosa y blanca ciudad de Arequipa que se encuentra a 1,012 kilómetros de distancia de la capital Lima; es la segunda urbe más importante del país y los peruanos nos sentimos orgullosos de recibirlos en esta bella ciudad que tiene como guardián al Volcán Misti y la hermosa Catedral de la Plaza de Armas, los aguardamos deseosos de celebrar el Foro este 2024.</p>
-                        <!--<p class="mb-4">Tempor erat elitr rebum at clita. Somos una empresa turistica, boutique de viajes en el Perú y en el mundo, brindando servicios de calidad. duo justo magna dolore erat amet</p>-->
+                        <p data-i18n="home.about.text">Brasil viene preparándose para dar la mejor impresión y brindar un evento grandioso, ya que ha sido designado como anfitrión del 53° FOLAC, en el cual se conocerá la ciudad de Fortaleza, uno de sus atractivos más hermosos y denominado la ciudad de Luz. Brasil es un país con bellezas y riquezas naturales, un clima agradable, una gastronomía variada y una cultura diversa, y debe ser bien disfrutado por los participantes de FOLAC.</p>
                         <div class="border-top mt-4 pt-4">
                             <div class="row g-4">
                                 <div class="col-sm-4 d-flex wow fadeIn" data-wow-delay="0.1s">
@@ -230,461 +238,94 @@
     </div>
     <!-- About End -->
 
-	<!-- Team Start --
-    <div class="container-xxl py-5">
-        <div class="container">
-            <div class="row g-5 align-items-end mb-5">
-                <div class="col-lg-6 wow fadeInUp" data-wow-delay="0.1s">
-                    <div class="border-start border-5 border-primary ps-4">
-                        <h6 class="text-body text-uppercase mb-2">Perú</h6>
-                        <h1 class="display-6 mb-0">Paquetes turisticos</h1>
-                    </div>
-                </div>
-                <div class="col-lg-6 wow fadeInUp" data-wow-delay="0.3s">
-                    <p class="mb-0">Tempor erat elitr rebum at clita. Somos una empresa turistica, boutique de viajes en el Perú y en el mundo, brindando servicios de calidad. duo justo magna dolore erat amet</p>
-                </div>
-            </div>
-            <div class="row g-4">
-                <div class="row g-0">
-					<div class="col-xl-3 col-sm-6 wow fadeIn" data-wow-delay="0.1s">
-						<div class="position-relative">
-							<img class="img-fluid w-100" src="img/fact-1.jpg" alt="">
-							<div class="facts-overlay">
-								<h1 class="display-1">01</h1>
-								<h4 class="text-white mb-3">Ruta Norte</h4>
-								<p class="text-white">Aliqu diam amet diam et eos erat ipsum lorem stet lorem sit clita duo justo erat amet</p>
-								<a class="text-white small" href="">VER PROGRAMAS<i class="fa fa-arrow-right ms-3"></i></a>
-							</div>
-						</div>
-					</div>
-					<div class="col-xl-3 col-sm-6 wow fadeIn" data-wow-delay="0.3s">
-						<div class="position-relative">
-							<img class="img-fluid w-100" src="img/fact-2.jpg" alt="">
-							<div class="facts-overlay">
-								<h1 class="display-1">02</h1>
-								<h4 class="text-white mb-3">Ruta Sur</h4>
-								<p class="text-white">Aliqu diam amet diam et eos erat ipsum lorem stet lorem sit clita duo justo erat amet</p>
-								<a class="text-white small" href="">VER PROGRAMAS<i class="fa fa-arrow-right ms-3"></i></a>
-							</div>
-						</div>
-					</div>
-					<div class="col-xl-3 col-sm-6 wow fadeIn" data-wow-delay="0.5s">
-						<div class="position-relative">
-							<img class="img-fluid w-100" src="img/fact-3.jpg" alt="">
-							<div class="facts-overlay">
-								<h1 class="display-1">03</h1>
-								<h4 class="text-white mb-3">Ruta Centro</h4>
-								<p class="text-white">Aliqu diam amet diam et eos erat ipsum lorem stet lorem sit clita duo justo erat amet</p>
-								<a class="text-white small" href="">VER PROGRAMAS<i class="fa fa-arrow-right ms-3"></i></a>
-							</div>
-						</div>
-					</div>
-					<div class="col-xl-3 col-sm-6 wow fadeIn" data-wow-delay="0.7s">
-						<div class="position-relative">
-							<img class="img-fluid w-100" src="img/fact-4.jpg" alt="">
-							<div class="facts-overlay">
-								<h1 class="display-1">04</h1>
-								<h4 class="text-white mb-3">Ruta Oriente</h4>
-								<p class="text-white">Aliqu diam amet diam et eos erat ipsum lorem stet lorem sit clita duo justo erat amet</p>
-								<a class="text-white small" href="">VER PROGRAMAS<i class="fa fa-arrow-right ms-3"></i></a>
-							</div>
-						</div>
-					</div>
-				</div>
-            </div>
-        </div>
-    </div>
-    <!-- Team End -->
-	
-    <!-- Facts Start --
-    <div class="container-fluid my-5 p-0">
-        <div class="row g-0">
-            <div class="col-xl-3 col-sm-6 wow fadeIn" data-wow-delay="0.1s">
-                <div class="position-relative">
-                    <img class="img-fluid w-100" src="img/fact-1.jpg" alt="">
-                    <div class="facts-overlay">
-                        <h1 class="display-1">01</h1>
-                        <h4 class="text-white mb-3">Construction</h4>
-                        <p class="text-white">Aliqu diam amet diam et eos erat ipsum lorem stet lorem sit clita duo justo erat amet</p>
-                        <a class="text-white small" href="">READ MORE<i class="fa fa-arrow-right ms-3"></i></a>
-                    </div>
-                </div>
-            </div>
-            <div class="col-xl-3 col-sm-6 wow fadeIn" data-wow-delay="0.3s">
-                <div class="position-relative">
-                    <img class="img-fluid w-100" src="img/fact-2.jpg" alt="">
-                    <div class="facts-overlay">
-                        <h1 class="display-1">02</h1>
-                        <h4 class="text-white mb-3">Mechanical</h4>
-                        <p class="text-white">Aliqu diam amet diam et eos erat ipsum lorem stet lorem sit clita duo justo erat amet</p>
-                        <a class="text-white small" href="">READ MORE<i class="fa fa-arrow-right ms-3"></i></a>
-                    </div>
-                </div>
-            </div>
-            <div class="col-xl-3 col-sm-6 wow fadeIn" data-wow-delay="0.5s">
-                <div class="position-relative">
-                    <img class="img-fluid w-100" src="img/fact-3.jpg" alt="">
-                    <div class="facts-overlay">
-                        <h1 class="display-1">03</h1>
-                        <h4 class="text-white mb-3">Architecture</h4>
-                        <p class="text-white">Aliqu diam amet diam et eos erat ipsum lorem stet lorem sit clita duo justo erat amet</p>
-                        <a class="text-white small" href="">READ MORE<i class="fa fa-arrow-right ms-3"></i></a>
-                    </div>
-                </div>
-            </div>
-            <div class="col-xl-3 col-sm-6 wow fadeIn" data-wow-delay="0.7s">
-                <div class="position-relative">
-                    <img class="img-fluid w-100" src="img/fact-4.jpg" alt="">
-                    <div class="facts-overlay">
-                        <h1 class="display-1">04</h1>
-                        <h4 class="text-white mb-3">Interior Design</h4>
-                        <p class="text-white">Aliqu diam amet diam et eos erat ipsum lorem stet lorem sit clita duo justo erat amet</p>
-                        <a class="text-white small" href="">READ MORE<i class="fa fa-arrow-right ms-3"></i></a>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <!-- Facts End -->
-
-
-    
-
-
     <!-- Service Start -->
     <div class="container-xxl py-5">
         <div class="container">
             <div class="row g-5 align-items-end mb-5">
                 <div class="col-lg-6 wow fadeInUp" data-wow-delay="0.1s">
                     <div class="border-start border-5 border-primary ps-4">
-                        <h6 class="text-body text-uppercase mb-2">FOLAC, Arequipa - Perú 2024</h6>
-                        <h1 class="display-6 mb-0" data-i18n="home.service.title">Tours y programas</h1>
-                    </div>
-                </div>
-                <div class="col-lg-6 text-lg-end wow fadeInUp" data-wow-delay="0.3s">
-                    <a class="btn btn-primary py-3 px-5" target="_blank" href="https://api.whatsapp.com/send?phone=51949932534&text=Hola%20necesito%20informacion%20sobre%20tours%20FOLAC"> <span data-i18n="home.service.consults">Consultas</span> <small class="fab fa-whatsapp me-2 fa-1x"></small></a>
-                </div>
-            </div>
-            <div class="row g-4 justify-content-center">
-                <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
-                    <div class="service-item bg-light overflow-hidden h-100">
-                        <img class="img-fluid" src="img/folac-arequipa-2024-1.jpg" alt="">
-                        <div class="service-text position-relative text-center h-100 p-4">
-                            <h5 class="mb-3" data-i18n="home.service.program01">FOLAC Arequipa 5 Dias</h5>
-                            <!--<p>Tempor erat elitr rebum at clita dolor diam ipsum sit diam amet diam et eos</p>-->
-                            <a class="small text-uppercase" href="folac-2024-arequipa-5-dias.html" data-i18n="home.service.see">VER PROGRAMA<i class="fa fa-arrow-right ms-3"></i></a>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
-                    <div class="service-item bg-light overflow-hidden h-100">
-                        <img class="img-fluid" src="img/folac-arequipa-2024-2.jpg" alt="">
-                        <div class="service-text position-relative text-center h-100 p-4">
-                            <h5 class="mb-3" data-i18n="home.service.program02">FOLAC Arequipa 7 Dias</h5>
-                            <!--<p>Tempor erat elitr rebum at clita dolor diam ipsum sit diam amet diam et eos</p>-->
-                            <a class="small text-uppercase href="folac-2024-arequipa-7-dias.html" data-i18n="home.service.see">VER PROGRAMA<i class="fa fa-arrow-right ms-3"></i></a>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.5s">
-                    <div class="service-item bg-light overflow-hidden h-100">
-                        <img class="img-fluid" src="img/folac-arequipa-2024-3.jpg" alt="">
-                        <div class="service-text position-relative text-center h-100 p-4">
-                            <h5 class="mb-3" data-i18n="home.service.program03">FOLAC Lima y Arequipa 8 Dias</h5>
-                            <!--<p>Tempor erat elitr rebum at clita dolor diam ipsum sit diam amet diam et eos</p>-->
-                            <a class="small text-uppercase href="folac-2024-lima-arequipa-8-dias.html" data-i18n="home.service.see">VER PROGRAMA<i class="fa fa-arrow-right ms-3"></i></a>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
-                    <div class="service-item bg-light overflow-hidden h-100">
-                        <img class="img-fluid" src="img/folac-arequipa-2024-4.jpg" alt="">
-                        <div class="service-text position-relative text-center h-100 p-4">
-                            <h5 class="mb-3" data-i18n="home.service.program04">FOLAC Arequipa y Cusco 8 Dias</h5>
-                            <!--<p>Tempor erat elitr rebum at clita dolor diam ipsum sit diam amet diam et eos</p>-->
-                            <a class="small text-uppercase href="folac-2024-arequipa-cusco-8-dias.html" data-i18n="home.service.see">VER PROGRAMA<i class="fa fa-arrow-right ms-3"></i></a>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
-                    <div class="service-item bg-light overflow-hidden h-100">
-                        <img class="img-fluid" src="img/folac-arequipa-2024-5.jpg" alt="">
-                        <div class="service-text position-relative text-center h-100 p-4">
-                            <h5 class="mb-3" data-i18n="home.service.program05">FOLAC Arequipa y Cusco 9 Dias</h5>
-                            <!--<p>Tempor erat elitr rebum at clita dolor diam ipsum sit diam amet diam et eos</p>-->
-                            <a class="small text-uppercase" href="folac-2024-arequipa-cusco-9-dias.html" data-i18n="home.service.see">VER PROGRAMA<i class="fa fa-arrow-right ms-3"></i></a>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.5s">
-                    <div class="service-item bg-light overflow-hidden h-100">
-                        <img class="img-fluid" src="img/folac-arequipa-2024-6.jpg" alt="">
-                        <div class="service-text position-relative text-center h-100 p-4">
-                            <h5 class="mb-3" data-i18n="home.service.program06">FOLAC Lima, Arequipa y Cusco 11 Dias</h5>
-                            <!--<p>Tempor erat elitr rebum at clita dolor diam ipsum sit diam amet diam et eos</p>-->
-                            <a class="small text-uppercase" href="folac-2024-lima-arequipa-cusco-11-dias.html" data-i18n="home.service.see">VER PROGRAMA<i class="fa fa-arrow-right ms-3"></i></a>
-                        </div>
+                        <h6 class="text-body text-uppercase mb-2" data-i18n="home.service.subtitle">Conoce el Perú</h6>
+                        <h1 class="display-6 mb-0" data-i18n="home.service.title">Tours Nacionales</h1>
                     </div>
                 </div>
             </div>
+            <div class="justify-content-center row g-4">
+                <a href="" class="col-lg-4 col-md-6 fadeInUp ">
+                    <div class="card-service" data-wow-delay="0.1s">
+                        <div class="service-item bg-light overflow-hidden h-100">
+                            <img class="img-fluid" src="img/services/arequipa3dias3noches.webp" alt="Arequipa 3 días 2 noches">
+                            <div class="service-text position-relative text-center h-100 p-4">
+                                <h5 class="mb-3 text-uppercase d-flex flex-column">
+                                <span>
+                                    Arequipa
+                                </span>
+                                <span data-i18n="home.service.program01">3 Días 2 Noches</span>
+                                </h5>
+                                <div class="text-uppercase">
+                                    <span data-i18n="home.service.see">
+                                        VER PROGRAMA
+                                    </span>
+                                    <i class="fas fa-long-arrow-alt-right"></i>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </a>
+                <a href="" class="col-lg-4 col-md-6 fadeInUp ">
+                    <div class="card-service" data-wow-delay="0.1s">
+                        <div class="service-item bg-light overflow-hidden h-100">
+                            <img class="img-fluid" src="img/services/cusco4dias3noches.webp" alt="Cusco 4 días 3 noches">
+                            <div class="service-text position-relative text-center h-100 p-4">
+                                <h5 class="mb-3 text-uppercase d-flex flex-column">
+                                <span>
+                                    Cusco
+                                </span>
+                                <span data-i18n="home.service.program02">4 Días 3 Noches</span>
+                                </h5>
+                                <div class="text-uppercase">
+                                    <span data-i18n="home.service.see">
+                                        VER PROGRAMA
+                                    </span>
+                                    <i class="fas fa-long-arrow-alt-right"></i>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </a>
+                <a href="" class="col-lg-4 col-md-6 fadeInUp ">
+                    <div class="card-service" data-wow-delay="0.1s">
+                        <div class="service-item bg-light overflow-hidden h-100">
+                            <img class="ratio ratio-1x1 img-fluid" src="img/services/ayacucho4dias3noches.webp" alt="Ayacucho 4 días 3 noches">
+                            <div class="service-text position-relative text-center h-100 p-4">
+                                <h5 class="mb-3 text-uppercase d-flex flex-column">
+                                <span>
+                                    Ayacucho
+                                </span>
+                                <span data-i18n="home.service.program03">4 Días 3 Noches</span>
+                                </h5>
+                                <div class="text-uppercase">
+                                    <span data-i18n="home.service.see">
+                                        VER PROGRAMA
+                                    </span>
+                                    <i class="fas fa-long-arrow-alt-right"></i>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </a>
+            </div>
+        </div>
+    </div>  
+	
+	<!-- Service Start -->
+    <div class="d-flex align-items-center justify-content-center position-relative bg-dark" style="height: 450px;">
+        <img src="img/quote/proximoviaje.webp" class="position-absolute top-0 start-0" style="object-fit: cover; width: 100%; height: 100%; opacity: 0.3;">
+        <div class="container position-absolute text-uppercase text-light z-10 text-center d-flex flex-column"> 
+            <span style="font-size: 4.5rem; font-weight: 800;" data-i18n="home.quote.title">¿Cuál es tu próximo destino?</span>
+            <span style="font-size: 2rem; font-weight: 200;" data-i18n="home.quote.subtitle">Personalizamos tu viaje</span>
         </div>
     </div>
     <!-- Service End -->
-	
-    <!-- Appointment Start --
-    <div class="container-fluid appointment my-5 py-5 wow fadeIn" data-wow-delay="0.1s">
-        <div class="container py-5">
-            <div class="row g-5">
-                <div class="col-lg-6 col-md-6 wow fadeIn" data-wow-delay="0.3s">
-                    <div class="border-start border-5 border-primary ps-4 mb-5">
-                        <h6 class="text-white text-uppercase mb-2">EUROPA</h6>
-                        <h1 class="display-6 text-white mb-0">Tours y paquetes en Europa</h1>
-                    </div>
-                    <p class="text-white mb-0">Tempor erat elitr rebum at clita. Somos una empresa turistica, boutique de viajes en el Perú y en el mundo, brindando servicios de calidad. duo justo magna dolore erat amet</p>
-					<a class="btn btn-primary py-3 px-5" href="">Ver programas</a>
-                </div>
-                <div class="col-lg-6 col-md-6 wow fadeIn" data-wow-delay="0.5s">
-                    
-                </div>
-            </div>
-        </div>
-    </div>
-    <!-- Appointment End -->
-
-    <!-- Team Start --
-    <div class="container-xxl py-5">
-        <div class="container">
-            <div class="row g-5 align-items-end mb-5">
-                <div class="col-lg-6 wow fadeInUp" data-wow-delay="0.1s">
-                    <div class="border-start border-5 border-primary ps-4">
-                        <h6 class="text-body text-uppercase mb-2">Internacionales</h6>
-                        <h1 class="display-6 mb-0">Playas del Caribe</h1>
-                    </div>
-                </div>
-                <div class="col-lg-6 wow fadeInUp" data-wow-delay="0.3s">
-                    <p class="mb-0">Tempor erat elitr rebum at clita. Somos una empresa turistica, boutique de viajes en el Perú y en el mundo, brindando servicios de calidad. duo justo magna dolore erat amet</p>
-                </div>
-            </div>
-            <div class="row g-4">
-                <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
-                    <div class="team-item position-relative">
-                        <img class="img-fluid" src="img/team-1.jpg" alt="">
-                        <div class="team-text bg-white p-4">
-                            <h5>Colombia</h5>
-                            <span>Santa Marta</span>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
-                    <div class="team-item position-relative">
-                        <img class="img-fluid" src="img/team-2.jpg" alt="">
-                        <div class="team-text bg-white p-4">
-                            <h5>Mexico</h5>
-                            <span>Cancun</span>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.5s">
-                    <div class="team-item position-relative">
-                        <img class="img-fluid" src="img/team-3.jpg" alt="">
-                        <div class="team-text bg-white p-4">
-                            <h5>Costa Rica</h5>
-                            <span>Puerto Viejo</span>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <!-- Team End -->
-
-	<!-- Features Start --
-    <div class="container-xxl py-5">
-        <div class="container">
-            <div class="row g-5">
-                <div class="col-lg-6 wow fadeInUp" data-wow-delay="0.1s">
-                    <div class="border-start border-5 border-primary ps-4 mb-5">
-                        <h6 class="text-body text-uppercase mb-2">Especiales</h6>
-                        <h1 class="display-6 mb-0">Bodas</h1>
-                    </div>
-                    <p class="mb-5">Tempor erat elitr rebum at clita. Somos una empresa turistica, boutique de viajes en el Perú y en el mundo, brindando servicios de calidad. duo justo magna dolore erat amet</p>
-                    <div class="row gy-5 gx-4">
-                        <div class="col-sm-6 wow fadeIn" data-wow-delay="0.1s">
-                            <div class="d-flex align-items-center mb-3">
-                                <i class="fa fa-check fa-2x text-primary flex-shrink-0 me-3"></i>
-                                <h6 class="mb-0">Organización</h6>
-                            </div>
-                            <span>Magna sea eos sit dolor, ipsum amet ipsum lorem diam</span>
-                        </div>
-                        <div class="col-sm-6 wow fadeIn" data-wow-delay="0.2s">
-                            <div class="d-flex align-items-center mb-3">
-                                <i class="fa fa-check fa-2x text-primary flex-shrink-0 me-3"></i>
-                                <h6 class="mb-0">Reservas</h6>
-                            </div>
-                            <span>Magna sea eos sit dolor, ipsum amet ipsum lorem diam</span>
-                        </div>
-                        <div class="col-sm-6 wow fadeIn" data-wow-delay="0.3s">
-                            <div class="d-flex align-items-center mb-3">
-                                <i class="fa fa-check fa-2x text-primary flex-shrink-0 me-3"></i>
-                                <h6 class="mb-0">Recepcion</h6>
-                            </div>
-                            <span>Magna sea eos sit dolor, ipsum amet ipsum lorem diam</span>
-                        </div>
-                        <div class="col-sm-6 wow fadeIn" data-wow-delay="0.4s">
-                            <div class="d-flex align-items-center mb-3">
-                                <i class="fa fa-check fa-2x text-primary flex-shrink-0 me-3"></i>
-                                <h6 class="mb-0">Ideas</h6>
-                            </div>
-                            <span>Magna sea eos sit dolor, ipsum amet ipsum lorem diam</span>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-6 wow fadeInUp" data-wow-delay="0.5s">
-                    <div class="position-relative overflow-hidden ps-5 pt-5 h-100" style="min-height: 400px;">
-                        <img class="position-absolute w-100 h-100" src="img/feature.jpg" alt="" style="object-fit: cover;">
-                        <!--<div class="position-absolute top-0 start-0 bg-white pe-3 pb-3" style="width: 200px; height: 200px;">
-                            <div class="d-flex flex-column justify-content-center text-center bg-primary h-100 p-3">
-                                <h1 class="text-white">25</h1>
-                                <h2 class="text-white">Years</h2>
-                                <h5 class="text-white mb-0">Experience</h5>
-                            </div>
-                        </div>--
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <!-- Features End -->
-	
-	<!-- Features Start --
-    <div class="container-xxl py-5">
-        <div class="container">
-            <div class="row g-5">
-				<div class="col-lg-6 wow fadeInUp" data-wow-delay="0.5s">
-                    <div class="position-relative overflow-hidden ps-5 pt-5 h-100" style="min-height: 400px;">
-                        <img class="position-absolute w-100 h-100" src="img/feature2.jpg" alt="" style="object-fit: cover;">
-                        <!--<div class="position-absolute top-0 start-0 bg-white pe-3 pb-3" style="width: 200px; height: 200px;">
-                            <div class="d-flex flex-column justify-content-center text-center bg-primary h-100 p-3">
-                                <h1 class="text-white">25</h1>
-                                <h2 class="text-white">Years</h2>
-                                <h5 class="text-white mb-0">Experience</h5>
-                            </div>
-                        </div>--
-                    </div>
-                </div>
-				<div class="col-lg-6 wow fadeInUp" data-wow-delay="0.1s">
-                    <div class="border-start border-5 border-primary ps-4 mb-5">
-                        <h6 class="text-body text-uppercase mb-2">Especiales</h6>
-                        <h1 class="display-6 mb-0">Estudiantes</h1>
-                    </div>
-                    <p class="mb-5">Tempor erat elitr rebum at clita. Somos una empresa turistica, boutique de viajes en el Perú y en el mundo, brindando servicios de calidad. duo justo magna dolore erat amet</p>
-                    <div class="row gy-5 gx-4">
-                        <div class="col-sm-6 wow fadeIn" data-wow-delay="0.1s">
-                            <div class="d-flex align-items-center mb-3">
-                                <i class="fa fa-check fa-2x text-primary flex-shrink-0 me-3"></i>
-                                <h6 class="mb-0">Organización</h6>
-                            </div>
-                            <span>Magna sea eos sit dolor, ipsum amet ipsum lorem diam</span>
-                        </div>
-                        <div class="col-sm-6 wow fadeIn" data-wow-delay="0.2s">
-                            <div class="d-flex align-items-center mb-3">
-                                <i class="fa fa-check fa-2x text-primary flex-shrink-0 me-3"></i>
-                                <h6 class="mb-0">Reservas</h6>
-                            </div>
-                            <span>Magna sea eos sit dolor, ipsum amet ipsum lorem diam</span>
-                        </div>
-                        <div class="col-sm-6 wow fadeIn" data-wow-delay="0.3s">
-                            <div class="d-flex align-items-center mb-3">
-                                <i class="fa fa-check fa-2x text-primary flex-shrink-0 me-3"></i>
-                                <h6 class="mb-0">Recepcion</h6>
-                            </div>
-                            <span>Magna sea eos sit dolor, ipsum amet ipsum lorem diam</span>
-                        </div>
-                        <div class="col-sm-6 wow fadeIn" data-wow-delay="0.4s">
-                            <div class="d-flex align-items-center mb-3">
-                                <i class="fa fa-check fa-2x text-primary flex-shrink-0 me-3"></i>
-                                <h6 class="mb-0">Ideas</h6>
-                            </div>
-                            <span>Magna sea eos sit dolor, ipsum amet ipsum lorem diam</span>
-                        </div>
-                    </div>
-                </div>
-                
-            </div>
-        </div>
-    </div>
-    <!-- Features End -->
-	
-		<!-- Service Start -->
-    <div class="container-xxl py-5" style="background: #DDDDDD;">
-        <div class="container">
-            <div class="row g-5 align-items-end mb-5">
-                <div class="col-lg-6 wow fadeInUp" data-wow-delay="0.1s">
-                    <div class="border-start border-5 border-primary ps-4">
-                        <h6 class="text-body text-uppercase mb-2" data-i18n="home.consult.title">Consultas y Reservas</h6>
-                        <h1 class="display-6 mb-0" data-i18n="home.consult.subtitle">Para reservas ó más información de nuestros servicios...</h1>
-                    </div>
-                </div>
-                <div class="col-lg-6 text-lg-end wow fadeInUp" data-wow-delay="0.3s">
-                    <a class="btn btn-primary py-3 px-5" target="_blank" href="https://api.whatsapp.com/send?phone=51949932534&text=Hola%20necesito%20informacion%20sobre%20tours%20FOLAC"><span data-i18n="home.consult.btn_consult">Consultas</span> <small class="fab fa-whatsapp me-2 fa-1x"></small></a>
-                </div>
-            </div>
-
-        </div>
-    </div>
-    <!-- Service End -->
-	
-    <!-- Testimonial Start --
-    <div class="container-xxl py-5">
-        <div class="container">
-            <div class="row g-5">
-                <div class="col-lg-5 wow fadeInUp" data-wow-delay="0.1s">
-                    <div class="border-start border-5 border-primary ps-4 mb-5">
-                        <h6 class="text-body text-uppercase mb-2">Testimonios</h6>
-                        <h1 class="display-6 mb-0">Que dicen nuestros clientes!</h1>
-                    </div>
-                    <p class="mb-4">Somos una empresa turistica, boutique de viajes en el Perú y en el mundo, brindando servicios de calidad. duo justo magna dolore erat amet</p>
-                    <!--<div class="row g-4">
-                        <div class="col-sm-6">
-                            <div class="d-flex align-items-center mb-2">
-                                <i class="fa fa-users fa-2x text-primary flex-shrink-0"></i>
-                                <h1 class="ms-3 mb-0">123+</h1>
-                            </div>
-                            <h5 class="mb-0">Happy Clients</h5>
-                        </div>
-                        <div class="col-sm-6">
-                            <div class="d-flex align-items-center mb-2">
-                                <i class="fa fa-check fa-2x text-primary flex-shrink-0"></i>
-                                <h1 class="ms-3 mb-0">123+</h1>
-                            </div>
-                            <h5 class="mb-0">Projects Done</h5>
-                        </div>
-                    </div>--
-                </div>
-                <div class="col-lg-7 wow fadeInUp" data-wow-delay="0.5s">
-                    <div class="owl-carousel testimonial-carousel">
-                        <div class="testimonial-item">
-                            <img class="img-fluid mb-4" src="img/testimonial-1.jpg" alt="">
-                            <p class="fs-5">Dolores sed duo clita tempor justo dolor et stet lorem kasd labore dolore lorem ipsum. At lorem lorem magna ut et, nonumy et labore et tempor diam tempor erat.</p>
-                            <div class="bg-primary mb-3" style="width: 60px; height: 5px"></div>
-                            <h5>Cliente</h5>
-                            <span>Pais</span>
-                        </div>
-                        <div class="testimonial-item">
-                            <img class="img-fluid mb-4" src="img/testimonial-2.jpg" alt="">
-                            <p class="fs-5">Dolores sed duo clita tempor justo dolor et stet lorem kasd labore dolore lorem ipsum. At lorem lorem magna ut et, nonumy et labore et tempor diam tempor erat.</p>
-                            <div class="bg-primary mb-3" style="width: 60px; height: 5px"></div>
-                            <h5>Cliente</h5>
-                            <span>Pais</span>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <!-- Testimonial End -->
-	
-
 
     <!-- Footer Start -->
     <div class="container-fluid bg-dark footer mt-5 pt-5 wow fadeIn" data-wow-delay="0.1s">
@@ -704,15 +345,22 @@
                     <p><i class="fa fa-map-marker-alt me-3"></i>Pedro Diez Canseco G-16, Arequipa, Peru</p>
                     <p><i class="fab fa-whatsapp me-3"></i>+51 949 932 534</p>
 					<p><i class="fa fa-mobile-alt me-3"></i>+51 993 419 703</p>
-                    <p><i class="fa fa-envelope me-3"></i>gerencia@perutipsoperador.com</p>
+                    <div class="d-flex flex-row"><i class="fa fa-envelope me-3"></i>
+                        <div class="d-flex flex-column">
+                            <span>gerencia@perutipsoperador.com</span>
+                            <span> perutips@hotmail.com</span>
+                            <span>reservas@perutipsoperador.com</span>
+                        </div>
+                    </div>
                 </div>
                 <div class="col-lg-4 col-md-6">
                     <h4 class="text-light mb-4" data-i18n="footer.service">Ofrecemos</h4>
-                    <a class="btn btn-link" href="" data-i18n="footer.service01">Tours y paquetes en Peru</a>
-                    <a class="btn btn-link" href="" data-i18n="footer.service02">Tours en USA</a>
-                    <a class="btn btn-link" href="" data-i18n="footer.service03">Tours a Europa</a>
-                    <a class="btn btn-link" href="" data-i18n="footer.service04">Tours al Caribe</a>
-                    <a class="btn btn-link" href="" data-i18n="footer.service05">Tours Especiales</a>
+                    <a href="/" class="btn btn-link" href="" data-i18n="footer.service01">Tours Nacionales</a>
+                    <a href="/" class="btn btn-link" href="" data-i18n="footer.service02">Tours Internacionales</a>
+                    <a href="/" class="btn btn-link" href="" data-i18n="footer.service03">Paquetes Escolares</a>
+                    <a href="/" class="btn btn-link" href="" data-i18n="footer.service04">Bodas</a>
+                    <a href="/" class="btn btn-link" href="" data-i18n="footer.service05">Visas</a>
+                    <a href="/" class="btn btn-link" href="" data-i18n="footer.service06">Lions Internacional</a>
                 </div>
             </div>
         </div>
@@ -720,10 +368,9 @@
             <div class="container">
                 <div class="row">
                     <div class="col-md-6 text-center text-md-start mb-3 mb-md-0">
-                        &copy; <a href="#">Peru Tips Operador</a>, All Right Reserved.
+                        &copy; <a href="#">Peru Tips Operador</a>, Todos los derechos reservados.
                     </div>
                     <div class="col-md-6 text-center text-md-end">
-                        <!--/*** This template is free as long as you keep the footer author’s credit link/attribution link/backlink. If you'd like to use the template without the footer author’s credit link/attribution link/backlink, you can purchase the Credit Removal License from "https://htmlcodex.com/credit-removal". Thank you for your support. ***/-->
                         Designed By <a href="#">WebSolutions</a>
                     </div>
                 </div>
