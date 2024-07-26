@@ -36,7 +36,7 @@ export const locales = {
 			carousel: {
 				tag: "perú tips",
 				"title-1": "Expertos en viajes",
-				contact: "Contáctenos",
+				contact: "Contáctanos",
 			},
 			about: {
 				tag: "Bienvenidos",
@@ -75,6 +75,17 @@ export const locales = {
 			wsp: "Escríbanos",
 			phone: "Llámenos",
 			email: "Envíenos un correo",
+		},
+		folac25: {
+			title: "Tours y Programas",
+			services: {
+				program01: "5 Días",
+			},
+			quote: {
+				title: "Consultas y Reservas",
+				subtitle:
+					"Para reservas y mayor información de nuestros servicios ....",
+			},
 		},
 	},
 	en: {
@@ -153,6 +164,17 @@ export const locales = {
 			wsp: "Write us",
 			phone: "Call us",
 			email: "Send us an email",
+		},
+		folac25: {
+			title: "Tours and Programs",
+			services: {
+				program01: "5 Days",
+			},
+			quote: {
+				title: "Consults and Reservations",
+				subtitle:
+					"For reservations and more information about our services ....",
+			},
 		},
 	},
 };
