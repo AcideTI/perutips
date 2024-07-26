@@ -119,6 +119,17 @@ export const locales = {
 				service07: "9 Días 8 Noches",
 			},
 		},
+		internacional: {
+			title: "Internacional",
+			about: {
+				description:
+					"Existen distintos lugares atractivos en el mundo, muchos de ellos brillan por sus culturas como FRANCIA, EE.UU., KOREA, ITALIA, entre otros; otros países que tiene una gastronomía espectacular como ESPAÑA, MÉXICO y otros; visita los mejores lugares acompañados de nosotros, no solo ofrecemos las comodidades adecuadas te brindamos la experiencia deseada.",
+			},
+			services: {
+				tag: "Conoce el Mundo",
+				title: "Tours Internacionales",
+			},
+		},
 	},
 	en: {
 		nav: {
@@ -238,6 +249,17 @@ export const locales = {
 				service05: "7 Days 6 Nights",
 				service06: "8 Days 7 Nights",
 				service07: "9 Days 8 Nights",
+			},
+		},
+		internacional: {
+			title: "International",
+			about: {
+				description:
+					"Visit iconic destinations known for their culture and cuisine, such as France, USA, Korea, Italy, Spain, and Mexico, with tailored experiences just for you.",
+			},
+			services: {
+				tag: "Know the World",
+				title: "International Tours",
 			},
 		},
 	},
