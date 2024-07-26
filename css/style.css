@@ -450,6 +450,11 @@
     font-weight: 900;
 }
 
+/* Font Rammetto */
+@font-face {
+    font-family: 'rammetto';
+    src: url('/fonts/rammetto.woff') format('woff');
+}
 
 .font-sansation{
     font-family: "sansation";
@@ -457,4 +462,8 @@
 
 .font-anybody{
     font-family: "anybody";
+}
+
+.font-rammetto{
+    font-family: "rammetto";
 }
