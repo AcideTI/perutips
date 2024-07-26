@@ -187,7 +187,7 @@
 }
 
 .page-header {
-    background: linear-gradient(rgba(0, 0, 0, .65), rgba(0, 0, 0, .65)), url(../img/cabecera.jpg) center center no-repeat;
+    background: linear-gradient(rgba(0, 0, 0, .4), rgba(0, 0, 0, .4)), url(../img/cabecera.jpg) center center no-repeat;
     background-size: cover;
 }
 
@@ -272,17 +272,27 @@
     transition: .5s;
 }
 
+.team-item{
+    border: 1px solid #00000070;
+    min-height: 450px;
+    display: flex;
+    justify-content: center;
+    padding: 20px;
+}
+.team-item img{
+    object-fit: cover;
+    height: auto;
+    width: 250px;
+}
+
 .team-item:hover .team-text {
-    width: 100%;
+    font-weight: 900;
 }
 
 .team-text * {
     transition: .5s;
 }
 
-.team-item:hover .team-text * {
-    letter-spacing: 2px;
-}
 
 
 /*** Testimonial ***/

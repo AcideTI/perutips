@@ -61,10 +61,11 @@ export const locales = {
 			},
 		},
 		about: {
-			title: "Nosotros",
+			title: "Operador de viajes",
 			tag: "Quienes somos",
 			description:
-				"Somos una empresa turística, boutique de viajes en el Perú y en el mundo, brindando servicios de calidad",
+				"Somos una empresa turística de viajes en el Perú y en el mundo, brindando servicios, con el reconocimiento de marcas reconocidas como nuestros aliados.",
+			cronograma: "Cronograma Anual",
 		},
 		contact: {
 			title: "Contacto",
@@ -138,10 +139,11 @@ export const locales = {
 			},
 		},
 		about: {
-			title: "About us",
+			title: "Travel Operator",
 			tag: "Who we are",
 			description:
-				"We are a tourist company, travel boutique in Peru and in the world, providing quality services",
+				"We are a tourist company in Peru and in the world, providing services recognized by well-known brands as our allies.",
+			cronograma: "Annual Schedule",
 		},
 		contact: {
 			title: "Contact",
