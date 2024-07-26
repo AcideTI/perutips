@@ -5,6 +5,10 @@
     --light: #F8F9FA;
     --dark: #182333;
 }
+*{
+    font-family: "sansation";
+    font-weight: 500;
+}
 
 .back-to-top {
     position: fixed;
@@ -77,8 +81,6 @@
     margin-left: 30px;
     padding: 25px 0;
     color: var(--secondary);
-    font-weight: 500;
-    text-transform: uppercase;
     outline: none;
 }
 
@@ -375,4 +377,84 @@
     left: 0;
     z-index: 1;
     background: rgba(0, 0, 0, .5);
+}
+
+/* Font Sansation */
+@font-face {
+    font-family: 'sansation';
+    src: url('/fonts/Sansation-Regular-webfont.woff') format('woff');
+    font-weight: 500;
+}
+
+@font-face {
+    font-family: 'sansation';
+    src: url('/fonts/Sansation-Light-webfont.woff') format('woff');
+    font-weight: light;
+}
+
+@font-face {
+    font-family: 'sansation';
+    src: url('/fonts/Sansation-Bold-webfont.woff') format('woff');
+    font-weight: bold;
+}
+
+/* Font Anybody */
+@font-face {
+    font-family: 'anybody';
+    src: url('/fonts/anybody-100.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'anybody';
+    src: url('/fonts/anybody-200.woff') format('woff');
+    font-weight: 200;
+}
+@font-face {
+    font-family: 'anybody';
+    src: url('/fonts/anybody-300.woff') format('woff');
+    font-weight: 300;
+}
+
+@font-face {
+    font-family: 'anybody';
+    src: url('/fonts/anybody-400.woff') format('woff');
+    font-weight: 400;
+}
+
+@font-face {
+    font-family: 'anybody';
+    src: url('/fonts/anybody-500.woff') format('woff');
+    font-weight: 500;
+}
+
+@font-face {
+    font-family: 'anybody';
+    src: url('/fonts/anybody-600.woff') format('woff');
+    font-weight: 600;
+}
+@font-face {
+    font-family: 'anybody';
+    src: url('/fonts/anybody-700.woff') format('woff');
+    font-weight: 700;
+}
+@font-face {
+    font-family: 'anybody';
+    src: url('/fonts/anybody-800.woff') format('woff');
+    font-weight: 800;
+}
+@font-face {
+    font-family: 'anybody';
+    src: url('/fonts/anybody-900.woff') format('woff');
+    font-weight: 900;
+}
+
+
+.font-sansation{
+    font-family: "sansation";
+}
+
+.font-anybody{
+    font-family: "anybody";
 }
