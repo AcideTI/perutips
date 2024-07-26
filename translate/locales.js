@@ -100,6 +100,25 @@ export const locales = {
 				service01: "Convención Internacional Ciudad de México",
 			},
 		},
+		peru: {
+			about: {
+				tag: "Lugares Populares",
+				description:
+					"Perú es más que un destino; es una experiencia sensorial que te envuelve con su música, colores y comida. Desde las misteriosas ruinas de Machu Picchu, una de las siete maravillas del mundo moderno, hasta la vibrante selva amazónica, hogar de una biodiversidad sin igual, Perú es un destino que promete aventuras inolvidables. Lima, la capital gastronómica de América Latina, te sorprenderá con su fusión de sabores y su rica herencia cultural. Relájate en las playas doradas del norte, donde el sol brilla todo el año, o explora el misterioso lago Titicaca, el lago navegable más alto del mundo, donde las tradiciones ancestrales viven en cada rincón.",
+			},
+			services: {
+				tag: "Conoce el Perú",
+				title: "Tours Nacionales",
+				service00: "2 Días 1 Noche",
+				service01: "3 Días 2 Noches",
+				service02: "4 Días 3 Noches",
+				service03: "5 Días 4 Noches",
+				service04: "6 Días 5 Noches",
+				service05: "7 Días 6 Noches",
+				service06: "8 Días 7 Noches",
+				service07: "9 Días 8 Noches",
+			},
+		},
 	},
 	en: {
 		nav: {
@@ -200,6 +219,25 @@ export const locales = {
 			services: {
 				tag: "INTERNATIONAL CONVENTION- MEXICO 2025",
 				service01: "International Convention Mexico City",
+			},
+		},
+		peru: {
+			about: {
+				tag: "Popular Places",
+				description:
+					"Peru is more than a destination; It is a sensory experience that envelops you with its music, colors and food. From the mysterious ruins of Machu Picchu, one of the seven wonders of the modern world, to the vibrant Amazon rainforest, home to unparalleled biodiversity, Peru is a destination that promises unforgettable adventures. Lima, the gastronomic capital of Latin America, will surprise you with its fusion of flavors and rich cultural heritage. Relax on the golden beaches of the north, where the sun shines all year round, or explore the mysterious Lake Titicaca, the highest navigable lake in the world, where ancestral traditions live in every corner.",
+			},
+			services: {
+				tag: "Know Perú",
+				title: "National Tours",
+				service00: "2 Days 1 Night",
+				service01: "3 Days 2 Nights",
+				service02: "4 Days 3 Nights",
+				service03: "5 Days 4 Nights",
+				service04: "6 Days 5 Nights",
+				service05: "7 Days 6 Nights",
+				service06: "8 Days 7 Nights",
+				service07: "9 Days 8 Nights",
 			},
 		},
 	},
