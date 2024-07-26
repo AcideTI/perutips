@@ -87,6 +87,19 @@ export const locales = {
 					"Para reservas y mayor información de nuestros servicios ....",
 			},
 		},
+		mexico: {
+			title: "Convención México",
+			about: {
+				tag: "Convención",
+				title: "107° CONVENCIÓN INTERNACIONAL DE MÉXICO",
+				description:
+					"Discovery le espera en la Ciudad de México, donde se reunirán miles de Leones y Leos de todo el mundo en el principal evento del año 2025. Como uno de los centros culturales más importantes del mundo, la Ciudad de México promete una cocina de categoría mundial, una vida urbana vibrante, monumentos históricos, arte, música y experiencias que no se pueden encontrar en ningún otro lugar. También es el hogar de algunas de las personas más amistosas del mundo. La ciudad de México está verdaderamente viva, y usted también la sentirá.",
+			},
+			services: {
+				tag: "CONVENCIÓN INTERNACIONAL- MÉXICO 2025",
+				service01: "Convención Internacional Ciudad de México",
+			},
+		},
 	},
 	en: {
 		nav: {
@@ -174,6 +187,19 @@ export const locales = {
 				title: "Consults and Reservations",
 				subtitle:
 					"For reservations and more information about our services ....",
+			},
+		},
+		mexico: {
+			title: "Mexico Convention",
+			about: {
+				tag: "Convention",
+				title: "107th INTERNATIONAL CONVENTION OF MEXICO",
+				description:
+					"Join thousands of Lions and Leos in Mexico City, a cultural hub with world-class cuisine, vibrant urban life, historic monuments, and friendly locals. It's also home to some of the friendliest people in the world. Mexico City is truly alive, and you will feel it too.",
+			},
+			services: {
+				tag: "INTERNATIONAL CONVENTION- MEXICO 2025",
+				service01: "International Convention Mexico City",
 			},
 		},
 	},
