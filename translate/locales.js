@@ -124,7 +124,7 @@ export const locales = {
 				tours: "Specialized tours",
 			},
 			service: {
-				subtitle: "Know Peru",
+				subtitle: "Know Perú",
 				title: "National Tours",
 				consults: "Consults",
 				see: "see program",

@@ -467,3 +467,9 @@
 .font-rammetto{
     font-family: "rammetto";
 }
+
+.title-program{
+    font-family: "anybody";
+    font-size: 18px;
+    font-weight: bold;
+}
