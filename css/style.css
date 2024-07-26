@@ -98,7 +98,7 @@
     margin-left: 8px;
 }
 
-@media (max-width: 991.98px) {
+@media (max-width:1400px) {
     .navbar .navbar-nav .nav-link  {
         margin-left: 0;
         padding: 10px 0;
@@ -110,7 +110,7 @@
     }
 }
 
-@media (min-width: 992px) {
+@media (min-width: 1400px) {
     .navbar .nav-item .dropdown-menu {
         display: block;
         border: none;
