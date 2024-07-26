@@ -118,13 +118,13 @@ export const locales = {
 			about: {
 				tag: "Welcome",
 				title: "53rd FOLAC Brasil 2025",
-				text: "Brazil has been preparing to give the best impression and provide a grand event, as it has been designated as the host of the 53rd FOLAC, in which the city of Fortaleza will be known, one of its most beautiful attractions and called the city of Light. Brazil is a country with natural beauties and riches, a pleasant climate, varied gastronomy and a diverse culture, and must be well enjoyed by the participants of FOLAC",
+				text: "Brazil is preparing to host the 53rd FOLAC, showcasing the beautiful city of Fortaleza, known as the 'City of Light'. Participants can enjoy Brazil's natural beauty, pleasant climate, diverse cuisine, and rich culture.",
 				agency: "Authorized agency",
-				prices: "Special prices",
-				tours: "Specialized tours",
+				prices: "Special pricing",
+				tours: "Personalized tours",
 			},
 			service: {
-				subtitle: "Know Perú",
+				subtitle: "Get to know Perú",
 				title: "National Tours",
 				consults: "Consults",
 				see: "see program",
@@ -133,7 +133,7 @@ export const locales = {
 				program03: "4 Days 3 Nights",
 			},
 			quote: {
-				title: "What is your next destination?",
+				title: "What's your next destination?",
 				subtitle: "We personalize your trip",
 			},
 		},
