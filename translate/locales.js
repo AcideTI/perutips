@@ -13,7 +13,7 @@ export const locales = {
 			bodas: "bodas",
 			contacto: "contacto",
 			español: "español",
-			ingles: "ingles",
+			ingles: "inglés",
 		},
 		footer: {
 			description:
