@@ -176,6 +176,30 @@ export const locales = {
 		},
 		itinerario: "Itinerario Completo",
 		descargar: "Descargar Brochure",
+		visa: {
+			descarga: {
+				tag: "Trámites VISA",
+				btn: "Asistencia VISA",
+			},
+			requisitos: {
+				title: "requisitos generales",
+				req1: "Formulario de solicitud",
+				req2: "Pasaporte",
+				req3: "Fotografía tamaño pasaporte",
+				req4: "Estado de cuenta bancarios",
+				req5: "Pagar la Tasa de Visa",
+				req6: "Entrevista (si aplica)",
+			},
+			tipos: {
+				title: "TIPOS DE VISADO",
+				tipo1: "Visa de turismo",
+				tipo2: "Visa de trabajo",
+				tipo3: "Visa de estudios",
+				tipo4: "Visa de negocios",
+				tipo5: "Visa de inmigrante",
+				tipo6: "Otros tipos de VISA",
+			},
+		},
 	},
 	en: {
 		nav: {
@@ -354,5 +378,29 @@ export const locales = {
 		},
 		itinerario: "Full Itinerary",
 		descargar: "Download Brochure",
+		visa: {
+			descarga: {
+				tag: "VISA Procedures",
+				btn: "VISA Assistance",
+			},
+			requisitos: {
+				title: "general requirements",
+				req1: "Application form",
+				req2: "Passport",
+				req3: "Passport size photo",
+				req4: "Bank statements",
+				req5: "Pay the Visa Fee",
+				req6: "Interview (if applicable)",
+			},
+			tipos: {
+				title: "VISA TYPES",
+				tipo1: "Tourist Visa",
+				tipo2: "Work Visa",
+				tipo3: "Study Visa",
+				tipo4: "Business Visa",
+				tipo5: "Immigrant visa",
+				tipo6: "Other types of VISA",
+			},
+		},
 	},
 };
