@@ -144,6 +144,20 @@ export const locales = {
 				title_int: "Tours Internacionales",
 			},
 		},
+		bodas: {
+			title: "Bodas",
+			about: {
+				tag1: "Bodas",
+				tag2: "Paquetes",
+				title: "Bodas de Ensueño",
+				description:
+					"En nuestra agencia de viajes, creemos que cada boda debe ser tan única y especial como la historia de amor que celebra. Nos especializamos en la organización de bodas de ensueño en los destinos más hermosos y románticos del mundo, creando momentos mágicos que recordarás para siempre.Imagina decir 'sí, acepto' en una playa de arena blanca con el mar turquesa como telón de fondo, en un elegante castillo europeo lleno de historia, o rodeado de la exuberante naturaleza de un paraíso tropical. No importa cuál sea tu visión de la boda perfecta, nuestro equipo de expertos se encargará de hacerla realidad.",
+			},
+			services: {
+				tag: "Bodas de Ensueño",
+				title: "Paquetes",
+			},
+		},
 	},
 	en: {
 		nav: {
@@ -288,6 +302,20 @@ export const locales = {
 				title_nac: "National Tours",
 				tag_int: "Know the World",
 				title_int: "International Tours",
+			},
+		},
+		bodas: {
+			title: "Weddings",
+			about: {
+				tag1: "Weddings",
+				tag2: "Packages",
+				title: "Dream Weddings",
+				description:
+					"At our travel agency, we believe that every wedding should be as unique and special as the love story it celebrates. We specialize in organizing dream weddings in the most beautiful and romantic destinations in the world, creating magical moments that you will remember forever. Imagine saying 'I do' on a white sand beach with the turquoise sea as a backdrop, in an elegant European castle steeped in history, or surrounded by the lush nature of a tropical paradise. No matter what your vision of the perfect wedding is, our team of experts will take care of making it a reality.",
+			},
+			services: {
+				tag: "Dream Weddings",
+				title: "Packages",
 			},
 		},
 	},
