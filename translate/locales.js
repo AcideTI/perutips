@@ -68,12 +68,16 @@ export const locales = {
 		},
 		contact: {
 			title: "Contacto",
-			subtitle: "Consultas y Reservas",
+			subtitle: "¿A dónde quiéres viajar?",
 			description:
-				"Para más información de nuestros servicios o si desea reservar un tour puede hacerlo a través de:",
-			wsp: "Escríbanos",
-			phone: "Llámenos",
-			email: "Envíenos un correo",
+				"Llena el siguiente formulario para saber un poco más de tus viajes soñados que tienes en mente y te contactaremos lo mas pronto posible.",
+			form: {
+				service: "Servicios",
+				name: "Ingrese su nombre",
+				email: "Ingrese su correo",
+				phone: "Ingrese su número de contacto",
+				message: "Describe el paquete que te gustaría tener...",
+			},
 		},
 		folac25: {
 			title: "Tours y Programas",
@@ -228,12 +232,16 @@ export const locales = {
 		},
 		contact: {
 			title: "Contact",
-			subtitle: "Consults and Reservations",
+			subtitle: "Where do you want to travel?",
 			description:
-				"For more information about our services or if you want to book a tour you can do so through:",
-			wsp: "Write us",
-			phone: "Call us",
-			email: "Send us an email",
+				"Fill out the following form to learn a little more about your dream trips and we will contact you as soon as possible.",
+			form: {
+				service: "Services",
+				name: "Enter your name",
+				email: "Enter your email",
+				phone: "Enter your contact number",
+				message: "Describe the package you would like to have ...",
+			},
 		},
 		folac25: {
 			title: "Tours and Programs",
