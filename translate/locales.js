@@ -129,6 +129,21 @@ export const locales = {
 				title: "Tours Internacionales",
 			},
 		},
+		estudiantil: {
+			title: "Turismo estudiantil",
+			about: {
+				tag: "paquetes",
+				title: "Viajes de promoción",
+				description:
+					"¿Buscas una manera especial de celebrar el final de una etapa académica? Nuestros viajes de promoción están diseñados para ofrecer experiencias inolvidables, llenas de aventura, diversión y momentos únicos que marcarán el comienzo de una nueva fase en tu vida. Cada detalle de nuestros viajes está cuidadosamente planificado para garantizar una experiencia segura y emocionante. Disfruta de actividades variadas, desde deportes acuáticos y tours culturales hasta fiestas temáticas y aventuras al aire libre. Además, contarás con el apoyo de guías expertos y coordinadores dedicados, que se asegurarán de que cada momento sea perfecto.",
+			},
+			services: {
+				tag_nac: "Conoce el Perú",
+				title_nac: "Tours Nacionales",
+				tag_int: "Conoce el Mundo",
+				title_int: "Tours Internacionales",
+			},
+		},
 	},
 	en: {
 		nav: {
@@ -258,6 +273,21 @@ export const locales = {
 			services: {
 				tag: "Know the World",
 				title: "International Tours",
+			},
+		},
+		estudiantil: {
+			title: "student tourism",
+			about: {
+				tag: "Packages",
+				title: "Promotional Trips",
+				description:
+					"Looking for a special way to celebrate the end of an academic stage? Our promotional trips are designed to offer unforgettable experiences, full of adventure, fun and unique moments that will mark the beginning of a new phase in your life. Every detail of our trips is carefully planned to ensure a safe and exciting experience. Enjoy a variety of activities, from water sports and cultural tours to theme parties and outdoor adventures. In addition, you will be supported by expert guides and dedicated coordinators, who will ensure that every moment is perfect.",
+			},
+			services: {
+				tag_nac: "Know Perú",
+				title_nac: "National Tours",
+				tag_int: "Know the World",
+				title_int: "International Tours",
 			},
 		},
 	},
