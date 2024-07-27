@@ -82,7 +82,15 @@ export const locales = {
 		folac25: {
 			title: "Tours y Programas",
 			services: {
-				program01: "5 Días",
+				program01: "5 Días 4 Noches",
+				fortaleza5_4: {
+					tag: "Del 15 al 18",
+					day1: "Día 1",
+					day2: "Día 2",
+					day3: "Día 3",
+					day4: "Día 4",
+					day5: "Día 5",
+				},
 			},
 			quote: {
 				title: "Consultas y Reservas",
@@ -90,6 +98,10 @@ export const locales = {
 					"Para reservas y mayor información de nuestros servicios ....",
 			},
 		},
+		meses: {
+			enero: "Enero",
+		},
+		horas: "Horas",
 		mexico: {
 			title: "Convención México",
 			about: {
@@ -162,6 +174,8 @@ export const locales = {
 				title: "Paquetes",
 			},
 		},
+		itinerario: "Itinerario Completo",
+		descargar: "Descargar Brochure",
 	},
 	en: {
 		nav: {
@@ -246,7 +260,15 @@ export const locales = {
 		folac25: {
 			title: "Tours and Programs",
 			services: {
-				program01: "5 Days",
+				program01: "5 Days 4 Nights",
+				fortaleza5_4: {
+					tag: "From 15 to 18",
+					day1: "Day 1",
+					day2: "Day 2",
+					day3: "Day 3",
+					day4: "Day 4",
+					day5: "Day 5",
+				},
 			},
 			quote: {
 				title: "Consults and Reservations",
@@ -254,6 +276,10 @@ export const locales = {
 					"For reservations and more information about our services ....",
 			},
 		},
+		meses: {
+			enero: "January",
+		},
+		horas: "Hours",
 		mexico: {
 			title: "Mexico Convention",
 			about: {
@@ -326,5 +352,7 @@ export const locales = {
 				title: "Packages",
 			},
 		},
+		itinerario: "Full Itinerary",
+		descargar: "Download Brochure",
 	},
 };
