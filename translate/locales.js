@@ -174,6 +174,11 @@ export const locales = {
 					act06: "Visitarás el Mirador de Yanahuara, el mirador de Carmen Alto, La Mansión del Fundador, Molino de Sabandía",
 					act07: "Conocerás la Cantera de Cortadores en Añashuayco",
 				},
+				limacuscopuno6d5n: {
+					act01: "Conocerás la Huaca Pucllana",
+					act02: "Conocerás el Qoricancha, Sacsayhuaman, Quenqo, Tambo Machay, Ollantaytambo",
+					act03: "Conocerás Machu Picchu, Aguas Calientes",
+				},
 			},
 		},
 		internacional: {
@@ -421,6 +426,11 @@ export const locales = {
 					act05: "You will get to know Chivay, the traditional towns of Maca, Pinchollo and Yanque, you will enjoy the thermal baths of Chacapi",
 					act06: "You will visit the Yanahuara Viewpoint, the Carmen Alto viewpoint, the Founder's Mansion, Molino de Sabandía",
 					act07: "You will visit the Quarry of Cutters in Añashuayco",
+				},
+				limacuscopuno6d5n: {
+					act01: "You will get to know the Huaca Pucllana",
+					act02: "You will get to know the Qoricancha, Sacsayhuaman, Quenqo, Tambo Machay, Ollantaytambo",
+					act03: "You will get to know Machu Picchu, Aguas Calientes",
 				},
 			},
 		},
