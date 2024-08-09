@@ -133,6 +133,14 @@ export const locales = {
 				service06: "8 Días 7 Noches",
 				service07: "9 Días 8 Noches",
 			},
+			tours: {
+				arequipa3d2n: {
+					act01: "Visita la Catedral y los Claustros de la Compañía de Jesús",
+					act02: "Visitará el Monasterio de Santa Catalina",
+					act03: "Conocerá Chivay, los tradicionales pueblos de Maca, Pinchollo y Yanque, disfrutará de los baños termales de Chacapi",
+					act04: "Conocerá la Cantera de Cortadores en Añashuayco",
+				},
+			},
 		},
 		internacional: {
 			title: "Internacional",
@@ -199,6 +207,10 @@ export const locales = {
 				tipo5: "Visa de inmigrante",
 				tipo6: "Otros tipos de VISA",
 			},
+		},
+		common: {
+			dias: "Días",
+			noches: "Noches",
 		},
 	},
 	en: {
@@ -335,6 +347,14 @@ export const locales = {
 				service06: "8 Days 7 Nights",
 				service07: "9 Days 8 Nights",
 			},
+			tours: {
+				arequipa3d2n: {
+					act01: "Visit the Cathedral and the Cloisters of the ¨Compañía de Jesús¨",
+					act02: "You will visit the Monastery of St. Catalina",
+					act03: "You will get to know Chivay, the traditional towns of Maca, Pinchollo and Yanque, you will enjoy the thermal baths of Chacapi",
+					act04: "You will visit the Quarry of Cutters in Añashuayco",
+				},
+			},
 		},
 		internacional: {
 			title: "International",
@@ -401,6 +421,10 @@ export const locales = {
 				tipo5: "Immigrant visa",
 				tipo6: "Other types of VISA",
 			},
+		},
+		common: {
+			dias: "Days",
+			noches: "Nights",
 		},
 	},
 };
