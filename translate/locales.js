@@ -224,6 +224,12 @@ export const locales = {
 					act02: "Visatarás Ollantaytambo, Pisac",
 					act03: "Conocerás Machu Picchu, donde observarás el jardín botánico, las tres ventanas, la roca sagrada, y otros; también visitarás Aguas Calientes",
 				},
+				cusco5d4n: {
+					act01: "Conocerás el Qoricancha, Sacsayhuaman, Quenqo",
+					act02: "Visatarás Ollantaytambo, Pisac",
+					act03: "Conocerás Machu Picchu, donde observarás el jardín botánico, las tres ventanas, la roca sagrada, y otros; también visitarás Aguas Calientes",
+					act04: "Conocerás Montaña 7 colores",
+				},
 			},
 		},
 		internacional: {
@@ -521,6 +527,12 @@ export const locales = {
 					act01: "You will get to know the Qoricancha, Sacsayhuaman, Quenqo ",
 					act02: "You Will get to know Ollantaytambo, Pisac",
 					act03: "You will visit Machu Picchu, where you will observe the botanical garden, the three windows, the sacred rock, and others; you will also visit Aguas Calientes",
+				},
+				cusco5d4n: {
+					act01: "You will get to know the Qoricancha, Sacsayhuaman, Quenqo ",
+					act02: "You Will get to know Ollantaytambo, Pisac",
+					act03: "You will visit Machu Picchu, where you will observe the botanical garden, the three windows, the sacred rock, and others; you will also visit Aguas Calientes",
+					act04: "You will get to know Mountain 7 colors",
 				},
 			},
 		},
