@@ -140,6 +140,13 @@ export const locales = {
 					act03: "Conocerá Chivay, los tradicionales pueblos de Maca, Pinchollo y Yanque, disfrutará de los baños termales de Chacapi",
 					act04: "Conocerá la Cantera de Cortadores en Añashuayco",
 				},
+				arequipa4d3n: {
+					act01: "Visita la Catedral y los Claustros de la Compañía de Jesús",
+					act02: "Visitará el Monasterio de Santa Catalina",
+					act03: "Conocerás el Pueblo de Chiguata, el Volcan Misti y el Bosque Queñuales",
+					act04: "Conocerá Chivay, los tradicionales pueblos de Maca, Pinchollo y Yanque, disfrutará de los baños termales de Chacapi",
+					act05: "Conocerá la Cantera de Cortadores en Añashuayco",
+				},
 			},
 		},
 		internacional: {
@@ -353,6 +360,13 @@ export const locales = {
 					act02: "You will visit the Monastery of St. Catalina",
 					act03: "You will get to know Chivay, the traditional towns of Maca, Pinchollo and Yanque, you will enjoy the thermal baths of Chacapi",
 					act04: "You will visit the Quarry of Cutters in Añashuayco",
+				},
+				arequipa4d3n: {
+					act01: "Visit the Cathedral and the Cloisters of the ¨Compañía de Jesús¨",
+					act02: "You will visit the Monastery of St. Catalina",
+					act03: "You will visit the town of Chiguata, the Misti Volcano and the Queñuales Forest",
+					act04: "You will get to know Chivay, the traditional towns of Maca, Pinchollo and Yanque, you will enjoy the thermal baths of Chacapi",
+					act05: "You will visit the Quarry of Cutters in Añashuayco",
 				},
 			},
 		},
