@@ -230,6 +230,12 @@ export const locales = {
 					act03: "Conocerás Machu Picchu, donde observarás el jardín botánico, las tres ventanas, la roca sagrada, y otros; también visitarás Aguas Calientes",
 					act04: "Conocerás Montaña 7 colores",
 				},
+				lima2d1n: {
+					act01: "Conocerás Oráculo de Pachacamac",
+					act02: "Conocerás la Pirámide Pucllana",
+					act03: "Visitarás el Centro Histórico de Lima, la Plaza San Martín, La Plaza Mayor, entre otros.",
+					act04: "Visitarás el circuito mágico del agua",
+				},
 			},
 		},
 		internacional: {
@@ -301,6 +307,7 @@ export const locales = {
 		common: {
 			dias: "Días",
 			noches: "Noches",
+			noche: "Noche",
 		},
 	},
 	en: {
@@ -534,6 +541,12 @@ export const locales = {
 					act03: "You will visit Machu Picchu, where you will observe the botanical garden, the three windows, the sacred rock, and others; you will also visit Aguas Calientes",
 					act04: "You will get to know Mountain 7 colors",
 				},
+				lima2d1n: {
+					act01: "You will know the Oracle of Pachacamac",
+					act02: "You will visit the Pucllana Pyramid",
+					act03: "You will visit the Historic Center of Lima, Plaza San Martín, Plaza Mayor, among others.",
+					act04: "You will visit the magical water circuit",
+				},
 			},
 		},
 		internacional: {
@@ -605,6 +618,7 @@ export const locales = {
 		common: {
 			dias: "Days",
 			noches: "Nights",
+			noche: "Night",
 		},
 	},
 };
