@@ -208,6 +208,11 @@ export const locales = {
 					act03: "Campiña de Moche, Huacas de Moche, Cultura Mochica, Museo de Sitio de Chan Chan",
 					act04: "Conocerás Puerto Malabriego",
 				},
+				ayacucho4d3n: {
+					act01: "Conocerás la Plaza Mayor, Casa Colonial Bosa y Solís, Templo y Convento Santa Teresa, y el Mirador Acuchimay",
+					act02: "Visitarás el Centro Arqueológico Wari",
+					act03: "Conocerás Vilcas Huamán, el mini bosque de puyas de Raimondi de Manallasaq, los baños del Inca y el Acllawasi",
+				},
 				ayacucho5d4n: {
 					act01: "Conocerás la Plaza Mayor, Casa Colonial Bosa y Solís, Templo y Convento Santa Teresa, y el Mirador Acuchimay",
 					act02: "Visitarás el Centro Arqueológico Wari",
@@ -495,6 +500,11 @@ export const locales = {
 					act02: "Chiclayo, Huaca Rajada, Royal Tombs of the Lord of Sipan, Brunning Museum",
 					act03: "Moche Countryside, Huacas de Moche, Mochica Culture, Chan Chan Site Museum",
 					act04: "You will get to know Puerto Malabriego",
+				},
+				ayacucho4d3n: {
+					act01: "You will visit the Plaza Mayor, Casa Colonial Bosa y Solís, Temple and Convent Santa Teresa, and the Acuchimay Viewpoint",
+					act02: "You will visit the Wari Archaeological Center",
+					act03: "You will get to know Vilcas Huamán, the mini forest of puyas of Raimondi de Manallasaq, the baths of the Inca and the Acllawasi",
 				},
 				ayacucho5d4n: {
 					act01: "You will visit the Plaza Mayor, Casa Colonial Bosa y Solís, Temple and Convent Santa Teresa, and the Acuchimay Viewpoint",
