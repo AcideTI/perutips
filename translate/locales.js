@@ -202,6 +202,12 @@ export const locales = {
 					act03: "Campiña de Moche, Huacas de Moche, Cultura Mochica, Museo de Sitio de Chan Chan",
 					act04: "Conocerás el Brujo y la Dama de Cao",
 				},
+				trujillopuertomalabriego5d4n: {
+					act01: "Museo de Arqueología de la UNT, Casa Urquiaga, Casa de la Emancipación",
+					act02: "Chiclayo, Huaca Rajada, Tumbas reales del Señor de Sipán, Museo Brunning",
+					act03: "Campiña de Moche, Huacas de Moche, Cultura Mochica, Museo de Sitio de Chan Chan",
+					act04: "Conocerás Puerto Malabriego",
+				},
 			},
 		},
 		internacional: {
@@ -477,6 +483,12 @@ export const locales = {
 					act02: "Chiclayo, Huaca Rajada, Royal Tombs of the Lord of Sipan, Brunning Museum",
 					act03: "Moche Countryside, Huacas de Moche, Mochica Culture, Chan Chan Site Museum",
 					act04: "You will meet the Warlock and The Lady of Cao",
+				},
+				trujillopuertomalabriego5d4n: {
+					act01: "UNT Museum of Archaeology, Casa Urquiaga, Casa de la Emancipación",
+					act02: "Chiclayo, Huaca Rajada, Royal Tombs of the Lord of Sipan, Brunning Museum",
+					act03: "Moche Countryside, Huacas de Moche, Mochica Culture, Chan Chan Site Museum",
+					act04: "You will get to know Puerto Malabriego",
 				},
 			},
 		},
