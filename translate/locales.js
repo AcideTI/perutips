@@ -153,7 +153,7 @@ export const locales = {
 					act03: "Conocerás el Pueblo de Chiguata, el Volcan Misti y el Bosque Queñuales",
 					act04: "Conocerás el volcán Chachani, Reserva Nacional de Salinas y Aguada Blanca",
 					act05: "Conocerá Chivay, los tradicionales pueblos de Maca, Pinchollo y Yanque, disfrutará de los baños termales de Chacapi",
-					act06: "Visitarás el Mirador de Yanahuaraa, el mirador de Carmen Alto, La Mansión del Fundador, Molino de Sabandía",
+					act06: "Visitarás el Mirador de Yanahuara, el mirador de Carmen Alto, La Mansión del Fundador, Molino de Sabandía",
 					act07: "Conocerás la Cantera de Cortadores en Añashuayco",
 				},
 				arequipa6d5n: {
@@ -162,7 +162,7 @@ export const locales = {
 					act03: "Conocerás el Pueblo de Chiguata, el Volcan Misti y el Bosque Queñuales",
 					act04: "Conocerás el volcán Chachani, Reserva Nacional de Salinas y Aguada Blanca",
 					act05: "Conocerá Chivay, los tradicionales pueblos de Maca, Pinchollo y Yanque, disfrutará de los baños termales de Chacapi",
-					act06: "Visitarás el Mirador de Yanahuaraa, el mirador de Carmen Alto, La Mansión del Fundador, Molino de Sabandía",
+					act06: "Visitarás el Mirador de Yanahuara, el mirador de Carmen Alto, La Mansión del Fundador, Molino de Sabandía",
 					act07: "Conocerás la Cantera de Cortadores en Añashuayco",
 				},
 			},
