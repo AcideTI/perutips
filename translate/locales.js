@@ -219,6 +219,11 @@ export const locales = {
 					act03: "Conocerás Millpu, Condorccocha, Patacocha",
 					act04: "Conocerás Vilcas Huamán, el mini bosque de puyas de Raimondi de Manallasaq, los baños del Inca y el Acllawasi",
 				},
+				cusco4d3n: {
+					act01: "Conocerás el Qoricancha, Sacsayhuaman, Quenqo",
+					act02: "Visatarás Ollantaytambo, Pisac",
+					act03: "Conocerás Machu Picchu, donde observarás el jardín botánico, las tres ventanas, la roca sagrada, y otros; también visitarás Aguas Calientes",
+				},
 			},
 		},
 		internacional: {
@@ -511,6 +516,11 @@ export const locales = {
 					act02: "You will visit the Wari Archaeological Center",
 					act03: "You will get to know Millpu, Condorccocha, Patacocha",
 					act04: "You will get to know Vilcas Huamán, the mini forest of puyas of Raimondi de Manallasaq, the baths of the Inca and the Acllawasi",
+				},
+				cusco4d3n: {
+					act01: "You will get to know the Qoricancha, Sacsayhuaman, Quenqo ",
+					act02: "You Will get to know Ollantaytambo, Pisac",
+					act03: "You will visit Machu Picchu, where you will observe the botanical garden, the three windows, the sacred rock, and others; you will also visit Aguas Calientes",
 				},
 			},
 		},
