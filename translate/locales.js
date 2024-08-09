@@ -156,6 +156,15 @@ export const locales = {
 					act06: "Visitarás el Mirador de Yanahuaraa, el mirador de Carmen Alto, La Mansión del Fundador, Molino de Sabandía",
 					act07: "Conocerás la Cantera de Cortadores en Añashuayco",
 				},
+				arequipa6d5n: {
+					act01: "Visita la Catedral y los Claustros de la Compañía de Jesús",
+					act02: "Visitará el Monasterio de Santa Catalina",
+					act03: "Conocerás el Pueblo de Chiguata, el Volcan Misti y el Bosque Queñuales",
+					act04: "Conocerás el volcán Chachani, Reserva Nacional de Salinas y Aguada Blanca",
+					act05: "Conocerá Chivay, los tradicionales pueblos de Maca, Pinchollo y Yanque, disfrutará de los baños termales de Chacapi",
+					act06: "Visitarás el Mirador de Yanahuaraa, el mirador de Carmen Alto, La Mansión del Fundador, Molino de Sabandía",
+					act07: "Conocerás la Cantera de Cortadores en Añashuayco",
+				},
 			},
 		},
 		internacional: {
@@ -378,6 +387,15 @@ export const locales = {
 					act05: "You will visit the Quarry of Cutters in Añashuayco",
 				},
 				arequipa5d4n: {
+					act01: "Visit the Cathedral and the Cloisters of the ¨Compañía de Jesús¨",
+					act02: "You will visit the Monastery of St. Catalina",
+					act03: "You will visit the town of Chiguata, the Misti Volcano and the Queñuales Forest",
+					act04: "You will visit the Chachani volcano, Salinas National Reserve and Aguada Blanca",
+					act05: "You will get to know Chivay, the traditional towns of Maca, Pinchollo and Yanque, you will enjoy the thermal baths of Chacapi",
+					act06: "You will visit the Yanahuara Viewpoint, the Carmen Alto viewpoint, the Founder's Mansion, Molino de Sabandía",
+					act07: "You will visit the Quarry of Cutters in Añashuayco",
+				},
+				arequipa6d5n: {
 					act01: "Visit the Cathedral and the Cloisters of the ¨Compañía de Jesús¨",
 					act02: "You will visit the Monastery of St. Catalina",
 					act03: "You will visit the town of Chiguata, the Misti Volcano and the Queñuales Forest",
