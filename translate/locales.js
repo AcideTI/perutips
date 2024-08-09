@@ -236,6 +236,13 @@ export const locales = {
 					act03: "Visitarás el Centro Histórico de Lima, la Plaza San Martín, La Plaza Mayor, entre otros.",
 					act04: "Visitarás el circuito mágico del agua",
 				},
+				lima3d2n: {
+					act01: "Apreciarás el arte culinario de Perú, visitarás el ¨Mercado Peruano¨",
+					act02: "Degustarán el Ceviche y se les obsequiará una foto de recuerdo",
+					act03: "Conocerás Oráculo de Pachacamac",
+					act04: "Conocerás la Pirámide Pucllana",
+					act05: "Visitarás el Centro Histórico de Lima, la Plaza San Martín, La Plaza Mayor, entre otros.",
+				},
 			},
 		},
 		internacional: {
@@ -546,6 +553,13 @@ export const locales = {
 					act02: "You will visit the Pucllana Pyramid",
 					act03: "You will visit the Historic Center of Lima, Plaza San Martín, Plaza Mayor, among others.",
 					act04: "You will visit the magical water circuit",
+				},
+				lima3d2n: {
+					act01: "You will appreciate the culinary art of Peru, you will visit the ̈Peruvian Market ̈",
+					act02: "They will taste the Ceviche and will be given a souvenir photo",
+					act03: "You will know the Oracle of Pachacamac",
+					act04: "You will visit the Pucllana Pyramid",
+					act05: "You will visit the Historic Center of Lima, Plaza San Martín, Plaza Mayor, among others.",
 				},
 			},
 		},
