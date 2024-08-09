@@ -196,6 +196,12 @@ export const locales = {
 					act06: "Conocerás el Qoricancha, Sacsayhuaman, Quenqo, Tambo Machay, Ollantaytambo, Pisac",
 					act07: "Conocerás Machu Picchu, Aguas Calientes",
 				},
+				trujillochiclayo4d3n: {
+					act01: "Museo de Arqueología de la UNT, Casa Urquiaga, Casa de la Emancipación",
+					act02: "Chiclayo, Huaca Rajada, Tumbas reales del Señor de Sipán, Museo Brunning",
+					act03: "Campiña de Moche, Huacas de Moche, Cultura Mochica, Museo de Sitio de Chan Chan",
+					act04: "Conocerás el Brujo y la Dama de Cao",
+				},
 			},
 		},
 		internacional: {
@@ -465,6 +471,12 @@ export const locales = {
 					act05: "Full day Colca, Conocerás Chivay, Mirador Wayra Punku, Mirador Antahuilque, baños termo medicinales",
 					act06: "You will get to know the Qoricancha, Sacsayhuaman, Quenqo, Tambo Machay, Ollantaytambo",
 					act07: "You will get to know Machu Picchu, Aguas Calientes",
+				},
+				trujillochiclayo4d3n: {
+					act01: "UNT Museum of Archaeology, Casa Urquiaga, Casa de la Emancipación",
+					act02: "Chiclayo, Huaca Rajada, Royal Tombs of the Lord of Sipan, Brunning Museum",
+					act03: "Moche Countryside, Huacas de Moche, Mochica Culture, Chan Chan Site Museum",
+					act04: "You will meet the Warlock and The Lady of Cao",
 				},
 			},
 		},
