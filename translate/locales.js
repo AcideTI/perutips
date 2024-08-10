@@ -288,6 +288,12 @@ export const locales = {
 					act06: "Tour Costero, Humedales del Te, Museo del desierto y el Mar, Museo de Chiribaya, Balnearios Puerto Inglés",
 					act07: "Tour Moquegua",
 				},
+				huaraz4d3n: {
+					act01: "Conocerás Chavín de Huántar",
+					act02: "Visitarás el Glaciar de Pastorori",
+					act03: "Conocerás Llanganuco",
+					act04: "Conocerás la Laguna Paroni",
+				},
 			},
 		},
 		internacional: {
@@ -650,6 +656,12 @@ export const locales = {
 					act05: "Tour Tarata Ticaco",
 					act06: "Coastal Tour, Tea Wetlands, Museum of the Desert and the Sea, Museum of Chiribaya, Puerto Inglés Spas",
 					act07: "Tour Moquegua",
+				},
+				huaraz4d3n: {
+					act01: "You will get to know Chavín de Huántar",
+					act02: "You will visit the Pastorori Glacier",
+					act03: "You will get to know Llanganuco",
+					act04: "You will get to know the Paroni Lagoon",
 				},
 			},
 		},
