@@ -294,6 +294,13 @@ export const locales = {
 					act03: "Conocerás Llanganuco",
 					act04: "Conocerás la Laguna Paroni",
 				},
+				huaraz5d4n: {
+					act01: "Concoerás la Plaza Mayor de Huaraz, la Iglesia del Señor de la Soledad, el Mirador el Pinar",
+					act02: "Conocerás Chavín de Huántar",
+					act03: "Visitarás el Glaciar de Pastorori",
+					act04: "Conocerás Llanganuco",
+					act05: "Conocerás la Laguna Paroni",
+				},
 			},
 		},
 		internacional: {
@@ -662,6 +669,13 @@ export const locales = {
 					act02: "You will visit the Pastorori Glacier",
 					act03: "You will get to know Llanganuco",
 					act04: "You will get to know the Paroni Lagoon",
+				},
+				huaraz5d4n: {
+					act01: "You will visit the Plaza Mayor of Huaraz, the Church of the Lord of Solitude, the Mirador el Pinar",
+					act02: "You will get to know Chavín de Huántar",
+					act03: "You will visit the Pastorori Glacier",
+					act04: "You will get to know Llanganuco",
+					act05: "You will get to know the Paroni Lagoon",
 				},
 			},
 		},
