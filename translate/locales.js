@@ -273,6 +273,12 @@ export const locales = {
 					act02: "Visita al balneario de Calientes",
 					act03: "Tour Binacional a Arica ",
 				},
+				tacna4d3n: {
+					act01: "Tour al Campo de la Alianza, El Museo ferroviario, teatro municipal",
+					act02: "Visita al Centro Histórico de Tacna, degustación de distintas delicias",
+					act03: "Visita al balneario de Calientes",
+					act04: "Tour Binacional a Arica",
+				},
 			},
 		},
 		internacional: {
@@ -620,6 +626,12 @@ export const locales = {
 					act01: "Visit to the Historic Center of Tacna, tasting of different delicacies",
 					act02: "Visit to the Calientes spa",
 					act03: "Binational Tour to Arica",
+				},
+				tacna4d3n: {
+					act01: "Tour to the Campo de la Alianza, The Railway Museum, Municipal Theater",
+					act02: "Visit to the Historic Center of Tacna, tasting of different delicacies",
+					act03: "Visit to the Calientes spa",
+					act04: "Binational Tour to Arica",
 				},
 			},
 		},
