@@ -268,6 +268,11 @@ export const locales = {
 					act03: "Visita a Tingo María, Visita a la Catarata Santa Carmen",
 					act04: "Visita a la Laguna Pichgacocha, Ciudad de Huayllay",
 				},
+				tacna3d2n: {
+					act01: "Visita al Centro Histórico de Tacna, degustación de distintas delicias",
+					act02: "Visita al balneario de Calientes",
+					act03: "Tour Binacional a Arica ",
+				},
 			},
 		},
 		internacional: {
@@ -610,6 +615,11 @@ export const locales = {
 					act02: "You will visit the Pilco Mozo, the Casa de la Perricholi, Hacienda Cachigaga, Ermita de las Pampas, Casa de los Artesanos",
 					act03: "Visit to Tingo María, Visit to the Santa Carmen Waterfall",
 					act04: "Visit to the Pichgacocha Lagoon, Huayllay City",
+				},
+				tacna3d2n: {
+					act01: "Visit to the Historic Center of Tacna, tasting of different delicacies",
+					act02: "Visit to the Calientes spa",
+					act03: "Binational Tour to Arica",
 				},
 			},
 		},
