@@ -262,6 +262,12 @@ export const locales = {
 					act08: "Parada en Chincha, donde podrás degustar Vinos y Piscos en la Bodega Racimo de Uvas",
 					act09: "Conocerás Oráculo de Pachacamac",
 				},
+				huanuco4d3n: {
+					act01: "Visita a Centro Arqueológico de Kotosh",
+					act02: "Conocerás el Pilco Mozo, la Casa de la Perricholi, Hacienda Cachigaga, Ermita de las Pampas, Casa de los Artesanos",
+					act03: "Visita a Tingo María, Visita a la Catarata Santa Carmen",
+					act04: "Visita a la Laguna Pichgacocha, Ciudad de Huayllay",
+				},
 			},
 		},
 		internacional: {
@@ -598,6 +604,12 @@ export const locales = {
 					act07: "Huacachina Oasis Excursion",
 					act08: "Stop in Chincha, where you can taste Wines and Pisco at the Racimo de Uvas Winery",
 					act09: "You will know the Oracle of Pachacamac",
+				},
+				huanuco4d3n: {
+					act01: "Visit to Kotosh Archaeological Center",
+					act02: "You will visit the Pilco Mozo, the Casa de la Perricholi, Hacienda Cachigaga, Ermita de las Pampas, Casa de los Artesanos",
+					act03: "Visit to Tingo María, Visit to the Santa Carmen Waterfall",
+					act04: "Visit to the Pichgacocha Lagoon, Huayllay City",
 				},
 			},
 		},
