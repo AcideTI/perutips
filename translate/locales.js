@@ -221,12 +221,12 @@ export const locales = {
 				},
 				cusco4d3n: {
 					act01: "Conocerás el Qoricancha, Sacsayhuaman, Quenqo",
-					act02: "Visatarás Ollantaytambo, Pisac",
+					act02: "Visitarás Ollantaytambo, Pisac",
 					act03: "Conocerás Machu Picchu, donde observarás el jardín botánico, las tres ventanas, la roca sagrada, y otros; también visitarás Aguas Calientes",
 				},
 				cusco5d4n: {
 					act01: "Conocerás el Qoricancha, Sacsayhuaman, Quenqo",
-					act02: "Visatarás Ollantaytambo, Pisac",
+					act02: "Visitarás Ollantaytambo, Pisac",
 					act03: "Conocerás Machu Picchu, donde observarás el jardín botánico, las tres ventanas, la roca sagrada, y otros; también visitarás Aguas Calientes",
 					act04: "Conocerás Montaña 7 colores",
 				},
