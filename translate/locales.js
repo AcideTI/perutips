@@ -288,6 +288,12 @@ export const locales = {
 					act06: "Tour Costero, Humedales del Te, Museo del desierto y el Mar, Museo de Chiribaya, Balnearios Puerto Inglés",
 					act07: "Tour Moquegua",
 				},
+        huaraz3d2n: {
+					act01: "Característica 1",
+					act02: "Característica 2",
+					act03: "Característica 3",
+					act04: "Característica 4",
+				},
 				huaraz4d3n: {
 					act01: "Conocerás Chavín de Huántar",
 					act02: "Visitarás el Glaciar de Pastorori",
@@ -295,11 +301,59 @@ export const locales = {
 					act04: "Conocerás la Laguna Paroni",
 				},
 				huaraz5d4n: {
-					act01: "Concoerás la Plaza Mayor de Huaraz, la Iglesia del Señor de la Soledad, el Mirador el Pinar",
+					act01: "Conocerás la Plaza Mayor de Huaraz, la Iglesia del Señor de la Soledad, el Mirador el Pinar",
 					act02: "Conocerás Chavín de Huántar",
 					act03: "Visitarás el Glaciar de Pastorori",
 					act04: "Conocerás Llanganuco",
 					act05: "Conocerás la Laguna Paroni",
+				},
+        mddios4d3n: {
+					act01: "Característica 1",
+					act02: "Característica 2",
+					act03: "Característica 3",
+					act04: "Característica 4",
+				},
+        pmaldonado6d5n: {
+					act01: "Característica 1",
+					act02: "Característica 2",
+					act03: "Característica 3",
+					act04: "Característica 4",
+				},
+        selva3d2n: {
+					act01: "Característica 1",
+					act02: "Característica 2",
+					act03: "Característica 3",
+					act04: "Característica 4",
+				},
+        tarapoto4d3n: {
+					act01: "Característica 1",
+					act02: "Característica 2",
+					act03: "Característica 3",
+					act04: "Característica 4",
+				},
+        chanchamayo6d5n: {
+					act01: "Característica 1",
+					act02: "Característica 2",
+					act03: "Característica 3",
+					act04: "Característica 4",
+				},
+        tumbes3d2n: {
+					act01: "Característica 1",
+					act02: "Característica 2",
+					act03: "Característica 3",
+					act04: "Característica 4",
+				},
+        huancavelica4d3n: {
+					act01: "Característica 1",
+					act02: "Característica 2",
+					act03: "Característica 3",
+					act04: "Característica 4",
+				},
+        tmaria4d3n: {
+					act01: "Característica 1",
+					act02: "Característica 2",
+					act03: "Característica 3",
+					act04: "Característica 4",
 				},
 			},
 		},
@@ -313,6 +367,14 @@ export const locales = {
 				tag: "Conoce el Mundo",
 				title: "Tours Internacionales",
 			},
+      tours: {
+        mexico6d5n: {
+          act01: "Característica 1",
+          act02: "Característica 2",
+          act03: "Característica 3",
+          act04: "Característica 4",
+        },
+      },
 		},
 		estudiantil: {
 			title: "Turismo estudiantil",
@@ -664,6 +726,12 @@ export const locales = {
 					act06: "Coastal Tour, Tea Wetlands, Museum of the Desert and the Sea, Museum of Chiribaya, Puerto Inglés Spas",
 					act07: "Tour Moquegua",
 				},
+        huaraz3d2n: {
+					act01: "Característica Inglés 1",
+					act02: "Característica Inglés 2",
+					act03: "Característica Inglés 3",
+					act04: "Característica Inglés 4",
+				},
 				huaraz4d3n: {
 					act01: "You will get to know Chavín de Huántar",
 					act02: "You will visit the Pastorori Glacier",
@@ -677,6 +745,54 @@ export const locales = {
 					act04: "You will get to know Llanganuco",
 					act05: "You will get to know the Paroni Lagoon",
 				},
+        mddios4d3n: {
+					act01: "Característica 1",
+					act02: "Característica 2",
+					act03: "Característica 3",
+					act04: "Característica 4",
+				},
+        pmaldonado6d5n: {
+					act01: "Característica 1",
+					act02: "Característica 2",
+					act03: "Característica 3",
+					act04: "Característica 4",
+				},
+        selva3d2n: {
+					act01: "Característica 1",
+					act02: "Característica 2",
+					act03: "Característica 3",
+					act04: "Característica 4",
+				},
+        tarapoto4d3n: {
+					act01: "Característica 1",
+					act02: "Característica 2",
+					act03: "Característica 3",
+					act04: "Característica 4",
+				},
+        chanchamayo6d5n: {
+					act01: "Característica 1",
+					act02: "Característica 2",
+					act03: "Característica 3",
+					act04: "Característica 4",
+				},
+        tumbes3d2n: {
+					act01: "Característica 1",
+					act02: "Característica 2",
+					act03: "Característica 3",
+					act04: "Característica 4",
+				},
+        huancavelica4d3n: {
+					act01: "Característica 1",
+					act02: "Característica 2",
+					act03: "Característica 3",
+					act04: "Característica 4",
+				},
+        tmaria4d3n: {
+					act01: "Característica 1",
+					act02: "Característica 2",
+					act03: "Característica 3",
+					act04: "Característica 4",
+				},
 			},
 		},
 		internacional: {
@@ -689,6 +805,14 @@ export const locales = {
 				tag: "Know the World",
 				title: "International Tours",
 			},
+      tours: {
+        mexico6d5n: {
+          act01: "Característica 1",
+          act02: "Característica 2",
+          act03: "Característica 3",
+          act04: "Característica 4",
+        },
+      },
 		},
 		estudiantil: {
 			title: "student tourism",
