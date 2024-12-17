@@ -368,11 +368,11 @@ export const locales = {
 				title: "Tours Internacionales",
 			},
       tours: {
-        mexico6d5n: {
-          act01: "Característica 1",
-          act02: "Característica 2",
-          act03: "Característica 3",
-          act04: "Característica 4",
+        tacnaArica6d5n: {
+          act01: "Conocerás la Catedral, La Fuente Ornamental, El Arco de los Héroes, Museo ferroviario, Mezquita Musulmana, Alameda Bolognesi, El Zoológico de Plantas en el paseo de las aguas, Ruta del Pisco con Cata y degustación de macerados de Damascos y vinos, degustación del pastel de Choclo en Pachia",
+          act02: "Visitarás La plaza Colon, La catedral San Marcos, La casa de la Respuesta de Bolognesi",
+          act03: "Visitarás el Mirador Natural Apacheta, Iglesias coloniales, Matrimonio de Piedra, Plaza de Armas de Tarata, Trekking por camino Inca, Ciudadela Pre inca Santa María, Bosque de piedras de Kala Kala, Baños termales de Ticaco, Andenerías Pre hispánicas, Caídas de Agua",
+          act04: "Visitarás los Humedales deI Te , Museo del desierto y del Mar, En ILO se visita el museo el Museo Chiribaya, Plaza de Armas, la iglesia San Gerónimo, El histórico Muelle fiscal, la glorieta José Gálvez, Malecón, Balnearios como Puerto Ingles",
         },
       },
 		},
