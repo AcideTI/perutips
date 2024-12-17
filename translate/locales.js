@@ -403,6 +403,11 @@ export const locales = {
           act02: "Traslado al Complejo Turístico Panorámico CRISTO LUZ, para disfrutar de una maravillosa Cena de Velas con una majestuosa vista de Camboriú",
           act03: "Paseo al mayor Parque Temático de América Latina con sus juegos radicales, show, zoológico, aérea temática Dream Word Madagascar, junto a los personajes de la Universal",
         },
+        camboriuTradicional6n : {
+          act01: "Paseo a la playa de LARANJEIRAS por Teleférico UNIPRAIAS",
+          act02: "Traslado al Complejo Turístico Panorámico CRISTO LUZ, para disfrutar de una maravillosa Cena de Velas con una majestuosa vista de Camboriú",
+          act03: "Haremos clases de surf con surfistas profesionales",
+        }
       },
 		},
 		bodas: {
