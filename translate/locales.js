@@ -398,6 +398,11 @@ export const locales = {
           act04: "Visitarás Islas Ballestas Parque Acuático Yaku Park",
           act05: "Visitarás la Reserva de Paracas y Playa la Mina",
         },
+        camboriu6d5n: {
+          act01: "Paseo a la playa de Laranjeiras por Teleférico UNIPAIAS",
+          act02: "Traslado al Complejo Turístico Panorámico CRISTO LUZ, para disfrutar de una maravillosa Cena de Velas con una majestuosa vista de Camboriú",
+          act03: "Paseo al mayor Parque Temático de América Latina con sus juegos radicales, show, zoológico, aérea temática Dream Word Madagascar, junto a los personajes de la Universal",
+        },
       },
 		},
 		bodas: {
