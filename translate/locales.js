@@ -868,6 +868,32 @@ export const locales = {
 				tag_int: "Know the World",
 				title_int: "International Tours",
 			},
+      tours: {
+        ica3d2n: {
+          act01: "You will visit the historic center of Ica, including La Casona del Marqués - Torre Hermosa (Bolívar's House), the Señor de Lúren Sanctuary, and enjoy a tasting of Ica's traditional sweets",
+          act02: "We will enter the Dromedarius compound",
+          act03: "Tour to Huacachina",
+          act04: "You will visit Ballestas Islands and Yaku Park Water Park",
+          act05: "You will visit Paracas National Reserve and Playa la Mina",
+        },
+        camboriu6d5n: {
+          act01: "Trip to Laranjeiras Beach via UNIPAIAS Cable Car",
+          act02: "Transfer to the Panoramic Tourist Complex CRISTO LUZ for a delightful Candlelight Dinner with a breathtaking view of Camboriú",
+          act03: "Visit the largest Theme Park in Latin America, featuring thrilling rides, shows, a zoo, and the Dream World Madagascar thematic area with Universal characters",
+        },
+        camboriuTradicional6n: {
+          act01: "Trip to Laranjeiras Beach via UNIPRAIAS Cable Car.",
+          act02: "Transfer to the Panoramic Tourist Complex CRISTO LUZ for a delightful Candlelight Dinner with a breathtaking view of Camboriú",
+          act03: "Surfing lessons with professional surfers",
+        },
+        playaNorte5d4n: {
+          act01: "Tour to Zorritos and Tumbes Mangroves",
+          act02: "Visit the fishing port of Puerto Pizarro",
+          act03: "Motorboat tour through the mangrove area and its islands: Bird Island, Love Island, and Whale Bone Island",
+          act04: "Tour: Swimming with turtles and visit to Punta Veleros",
+          act05: "Visit El Ñuro Cove or Los Órganos Pier",
+        },
+      },
 		},
 		bodas: {
 			title: "Weddings",
