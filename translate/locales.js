@@ -404,7 +404,13 @@ export const locales = {
 				tag: "Bodas de Ensueño",
 				title: "Paquetes",
 			},
+      tours: {
+        bodasInclusive: {
+          act01: "Hemos creado nuestras colecciones de bodas para acentuar perfectamente nuestros hermosos lugares y que sean completamente personalizables",
+        },
+      },
 		},
+    
 		itinerario: "Itinerario Completo",
 		descargar: "Descargar Brochure",
 		visa: {
@@ -842,7 +848,13 @@ export const locales = {
 				tag: "Dream Weddings",
 				title: "Packages",
 			},
+      tours: {
+        bodasInclusive: {
+          act01: "Hemos creado nuestras colecciones de bodas para acentuar perfectamente nuestros hermosos lugares y que sean completamente personalizables",
+        },
+      },
 		},
+    
 		itinerario: "Full Itinerary",
 		descargar: "Download Brochure",
 		visa: {
