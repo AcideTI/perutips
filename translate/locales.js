@@ -407,7 +407,14 @@ export const locales = {
           act01: "Paseo a la playa de LARANJEIRAS por Teleférico UNIPRAIAS",
           act02: "Traslado al Complejo Turístico Panorámico CRISTO LUZ, para disfrutar de una maravillosa Cena de Velas con una majestuosa vista de Camboriú",
           act03: "Haremos clases de surf con surfistas profesionales",
-        }
+        },
+        playaNorte5d4n : {
+          act01: "Tour Zorritos / Manglares de Tumbes",
+          act02: "Visita al puerto de pescadores de Puerto Pizarro",
+          act03: "Recorrido en bote a motor por la zona de manglar y sus islas, Isla de los Pájaros, Isla del Amor, Isla Hueso de Ballena",
+          act04: "Tour Nado con tortugas y Punta Veleros",
+          act05: "Visita a caleta El Ñuro o muelle Los Órganos",
+        },
       },
 		},
 		bodas: {
