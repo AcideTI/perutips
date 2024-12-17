@@ -409,8 +409,8 @@ export const locales = {
           act01: "Hemos creado nuestras colecciones de bodas para acentuar perfectamente nuestros hermosos lugares y que sean completamente personalizables",
         },
         montaje : {
-          act01: "La pareja recibirá una (1) noche de hotel en cortesía por cada diez (10) noches pagadas, hasta un máximo de siete (7) noches.",
-          act02: "Los novios recibirán una (1) categoría superior de habitación a la ya reservada",
+          act01: "Incluye 32 sillas avant garde blancas",
+          act02: "Mesas cocteleras bajas con sillas avant garde blancas y mesas cocteleras altas, con mantelería blanca",
         },
       },
 		},
