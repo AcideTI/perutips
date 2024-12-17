@@ -850,7 +850,7 @@ export const locales = {
 			},
       tours: {
         bodasInclusive: {
-          act01: "Hemos creado nuestras colecciones de bodas para acentuar perfectamente nuestros hermosos lugares y que sean completamente personalizables",
+          act01: "We have created our wedding collections to perfectly highlight our beautiful venues, making them fully customizable.",
         },
       },
 		},
