@@ -390,6 +390,15 @@ export const locales = {
 				tag_int: "Conoce el Mundo",
 				title_int: "Tours Internacionales",
 			},
+      tours: {
+        ica3d2n: {
+          act01: "Visitarás El centro histórico de Ica. La Casona del Marqués - Torre Hermosa (La Casa de Bolívar). El santuario Señor de Lúren. Degustación de dulces típicos de Ica",
+          act02: "Ingresaremos al recinto de Dromedarius",
+          act03: "Tours Huacachina",
+          act04: "Visitarás Islas Ballestas Parque Acuático Yaku Park",
+          act05: "Visitarás la Reserva de Paracas y Playa la Mina",
+        },
+      },
 		},
 		bodas: {
 			title: "Bodas",
