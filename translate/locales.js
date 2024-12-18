@@ -419,6 +419,14 @@ export const locales = {
           act04: "Visita a Volendam y Marken y almuerzo incluidos en el Europack",
           act05: "Recorrido el pintoresco Barrio Pequeño 'Malá Strana', la Iglesia de la Victoria del Niño Jesús de Praga, el Puente de Carlos, la Ciudad Vieja y su Reloj Astronómico",
         },
+        oxapampa: {
+          act01: "Recorrido en el Tirolés",
+          act02: "Conocerás el distrito de Oxapampa, Río Chontabamba, El Río Tigre y el barrio privado El Alpental",
+          act03: "Visitarás el Wharapo",
+          act04: "Conocerás la Catarata Rayantambo, la Cascada Yulitunki, el Barrio Prusia, la Plaza Colonos, la Dorcher Bier, las Pozas de Agua Salda y el Parque Nacional Yanachaga Chemillen",
+          act05: "Haremos deporte extremo, visitaremos el Mariposario de Perene, el Zoológico, el Velo de novia, la Comunidad Nativa Ashaninka y la Catara Bayoz",
+          act06: "Conocerás la plaza principal de Villa Rica, la Laguna El Ocononal, se realizará la catación de café y la chocolatería, el Mirador La Cumbre y la Cascada de León",
+        },
       },
 		},
 		estudiantil: {
