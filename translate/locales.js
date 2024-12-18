@@ -366,6 +366,9 @@ export const locales = {
 			services: {
 				tag: "Conoce el Mundo",
 				title: "Tours Internacionales",
+        service01: "6 Días 5 Noches",
+        service02: "17 Días 15 Noches",
+        service03: "5 Días 4 Noches",
 			},
       tours: {
         tacnaArica6d5n: {
@@ -373,6 +376,13 @@ export const locales = {
           act02: "Visitarás La plaza Colon, La catedral San Marcos, La casa de la Respuesta de Bolognesi",
           act03: "Visitarás el Mirador Natural Apacheta, Iglesias coloniales, Matrimonio de Piedra, Plaza de Armas de Tarata, Trekking por camino Inca, Ciudadela Pre inca Santa María, Bosque de piedras de Kala Kala, Baños termales de Ticaco, Andenerías Pre hispánicas, Caídas de Agua",
           act04: "Visitarás los Humedales deI Te , Museo del desierto y del Mar, En ILO se visita el museo el Museo Chiribaya, Plaza de Armas, la iglesia San Gerónimo, El histórico Muelle fiscal, la glorieta José Gálvez, Malecón, Balnearios como Puerto Ingles",
+        },
+        bogota6d5n: {
+          act01: "Visita a la Ciudad con Monserrate",
+          act02: "Conocerás la Casa de los Comuneros; la Casa de Nariño",
+          act03: "Aprenderás el proceso del café en 'La Finca del Café'",
+          act04: "Conocerás el Mirador de Cocora",
+          act05: "Visitarás el Valle del Cocora y Salento",
         },
       },
 		},
@@ -844,6 +854,9 @@ export const locales = {
 			services: {
 				tag: "Know the World",
 				title: "International Tours",
+        service01: "6 Days 5 Nights",
+        service02: "17 Days 15 Nights",
+        service03: "5 Days 4 Nights",
 			},
       tours: {
         mexico6d5n: {
