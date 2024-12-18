@@ -308,6 +308,12 @@ export const locales = {
 					act04: "Avistaje de aves",
 					act05: "Visita a la comunidad nativa Bora Boraa nocturna",
         },
+        tourCuenca6d5n: {
+          act01: "Conocerás mirador de Turín Barranco de Tomebamba, el barrio de las herrerías, puente roto, parque de las flores",
+					act02: "Conocerás la plaza seminario al parque de las iguanas, El cerro Santa Ana",
+					act03: "Paseo en el barco pirata el Morgan",
+					act04: "Visita a Puerto Pizarro, conocerás los manglares, la isla de los pájaros, el zoocriadero de cocodrilos, la isla del amor",
+        },
 			},
 		},
 		internacional: {
