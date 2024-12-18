@@ -314,6 +314,12 @@ export const locales = {
 					act03: "Paseo en el barco pirata el Morgan",
 					act04: "Visita a Puerto Pizarro, conocerás los manglares, la isla de los pájaros, el zoocriadero de cocodrilos, la isla del amor",
         },
+        tarapoto5d4n: {
+          act01: "Visitarás el castillo NICOLA FELICE, visita el Barrio Nativo el Wayku",
+					act02: "Tours hacia la Ciudad de las Orquídeas Moyobamba",
+					act03: "Visitarás el Orquideario el Oriente, Chacra Vieja",
+					act04: "Rescate URKU, donde podrán observar algunos animales silvestres, como aves, tigrillo, monos, loros",
+        },
 			},
 		},
 		internacional: {
