@@ -337,6 +337,12 @@ export const locales = {
 					act03: "Caminata a la Catarata Velo de la Novia. Catarata Bayoz",
 					act04: "Paseo en bote por el río Perene",
         },
+        cumacebaCuraka4d3n: {
+          act01: "Navegaremos el Amazonas rio arriba hasta el Cumaceba Curaka Inn",
+					act02: "Pesca a orillas del rio Amazonas, pez gato, pirañas entre otros",
+					act03: "Excursión en canoa a orillas del Amazonas observando aves, iguanas",
+					act04: "Caminata por la selva conociendo flora y fauna y la biodiversidad existente en el área",
+        },
 			},
 		},
 		internacional: {
