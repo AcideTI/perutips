@@ -412,6 +412,13 @@ export const locales = {
           act03: "Compras en Dolphin Mall",
           act04: "City Tour + Paseo en Yate por Biscayne Bay",
         },
+        capEuropa: {
+          act01: "Recorrido por las principales avenidas y monumentos, Piccadilly Circus, Oxford Street, Trafalgar Square, la Abadía de Westminster",
+          act02: "Visita panorámica por la Ópera, el Museo de Orsay, la Plaza de la Concordia, los Campos Elíseos, el Arco del Triunfo, los Inválidos",
+          act03: "Conocerás el Mont Saint Michel",
+          act04: "Visita a Volendam y Marken y almuerzo incluidos en el Europack",
+          act05: "Recorrido el pintoresco Barrio Pequeño 'Malá Strana', la Iglesia de la Victoria del Niño Jesús de Praga, el Puente de Carlos, la Ciudad Vieja y su Reloj Astronómico",
+        },
       },
 		},
 		estudiantil: {
