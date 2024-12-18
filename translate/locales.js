@@ -320,6 +320,11 @@ export const locales = {
 					act03: "Visitarás el Orquideario el Oriente, Chacra Vieja",
 					act04: "Rescate URKU, donde podrán observar algunos animales silvestres, como aves, tigrillo, monos, loros",
         },
+        icaDromedario: {
+          act01: "Visitarás El centro histórico de Ica. La Casona del Marqués - Torre Hermosa (La Casa de Bolívar). El santuario Señor de Lúren",
+					act02: "Degustación de dulces típicos de Ica",
+					act03: "Visita a la Reserva Nacional de Paracas",
+        },
 			},
 		},
 		internacional: {
