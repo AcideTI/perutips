@@ -406,6 +406,12 @@ export const locales = {
           act02: "Recorrido en bote a motor por la zona de manglar y sus islas, Isla de los Pájaros, Isla del Amor, Isla Hueso de Ballena",
           act03: "Visita a caleta el Ñuro o muelle Los Órganos",
         },
+        miamiDiversion: {
+          act01: "Traslados en Miami: Aeropuerto - Hotel - Aeropuerto",
+          act02: "Cuatro (4) noches de alojamiento en hotel seleccionado",
+          act03: "Compras en Dolphin Mall",
+          act04: "City Tour + Paseo en Yate por Biscayne Bay",
+        },
       },
 		},
 		estudiantil: {
