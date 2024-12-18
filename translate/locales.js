@@ -439,6 +439,13 @@ export const locales = {
           act04: "Conocerás Mykonos - Grecia",
           act05: "Conocerás Nápoles y Capri - Italia",
         },
+        habanaVaradero: {
+          act01: "Traslado aeropuerto La Habana / hotel en La Habana",
+          act02: "02 noches de alojamiento en La Habana",
+          act03: "Desayunos diarios en La Habana",
+          act04: "Traslado hotel La Habana / hotel en Varadero / aeropuerto La Habana",
+          act05: "03 noches de alojamiento en Varadero",
+        },
       },
 		},
 		estudiantil: {
