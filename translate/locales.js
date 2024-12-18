@@ -384,6 +384,11 @@ export const locales = {
           act04: "Conocerás el Mirador de Cocora",
           act05: "Visitarás el Valle del Cocora y Salento",
         },
+        miamiOrlando: {
+          act01: "Incluye Traslados en Miami: Aeropuerto - Hotel - Aeropuerto",
+          act02: "Incluye Transporte ida y vuelta a Orlando en buses de lujo con aire acondicionado",
+          act03: "Incluye Almuerzo Buffet en Premium Outlet Mall",
+        },
       },
 		},
 		estudiantil: {
