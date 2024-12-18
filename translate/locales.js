@@ -401,6 +401,11 @@ export const locales = {
           act09: "Visitarás los Museos Vaticanos hasta llegar a la Capilla Sixtina",
           act10: "Disfrutarás del Baptisterio y sus célebres Puertas del Paraíso",
         },
+        playaNorte5d4n: {
+          act01: "Disfrutarás las playas de Punta Sal y Zorritos",
+          act02: "Recorrido en bote a motor por la zona de manglar y sus islas, Isla de los Pájaros, Isla del Amor, Isla Hueso de Ballena",
+          act03: "Visita a caleta el Ñuro o muelle Los Órganos",
+        },
       },
 		},
 		estudiantil: {
