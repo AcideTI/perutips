@@ -301,9 +301,13 @@ export const locales = {
 					act04: "Conocerás Llanganuco",
 					act05: "Conocerás la Laguna Paroni",
 				},
-        mddios4d3n: {
-
-				},
+        curakaLodge: {
+          act01: "02 noches en Curaka Lodge + 02 noches en Ciudad",
+					act02: "Navegaremos el Amazonas rio arriba hasta el Cumaceba Curaka Inn",
+					act03: "Asignación de bungalows privados.",
+					act04: "Avistaje de aves",
+					act05: "Visita a la comunidad nativa Bora Boraa nocturna",
+        },
 			},
 		},
 		internacional: {
