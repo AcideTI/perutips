@@ -427,6 +427,11 @@ export const locales = {
           act05: "Haremos deporte extremo, visitaremos el Mariposario de Perene, el Zoológico, el Velo de novia, la Comunidad Nativa Ashaninka y la Catara Bayoz",
           act06: "Conocerás la plaza principal de Villa Rica, la Laguna El Ocononal, se realizará la catación de café y la chocolatería, el Mirador La Cumbre y la Cascada de León",
         },
+        crucero: {
+          act01: "Disfrutarás de comida, las especialidades del crucero; de bebidas en el bar del crucero",
+          act02: "Disfrutarás del entretenimiento como mini golf, películas al aire libre, gimnasio, pared de escalar, entre otros",
+          act03: "Disfrutarás entre otras amenidades como piscinas, jacuzzis, teatro, casino, entre otros",
+        },
       },
 		},
 		estudiantil: {
