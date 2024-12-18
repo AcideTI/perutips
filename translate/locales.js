@@ -331,6 +331,12 @@ export const locales = {
 					act03: "Visitarás las majestuosas Ruinas de Pisac, Ciudadela de Machupicchu",
 					act04: "Conocerás la Ciudadela de Machupicchu, El jardín botánico, La Plaza de los templos, tres Ventanas, el reloj solar o intihuatana, la Roca sagrada, entre otros",
         },
+        selvaCentral4d3n: {
+          act01: "Visitarás Catarata del Tirol",
+					act02: "Visitarás al Puente Colgante Kimiri, el Jardín Botánico El Perezoso y el Mariposario",
+					act03: "Caminata a la Catarata Velo de la Novia. Catarata Bayoz",
+					act04: "Paseo en bote por el río Perene",
+        },
 			},
 		},
 		internacional: {
