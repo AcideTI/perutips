@@ -432,6 +432,13 @@ export const locales = {
           act02: "Disfrutarás del entretenimiento como mini golf, películas al aire libre, gimnasio, pared de escalar, entre otros",
           act03: "Disfrutarás entre otras amenidades como piscinas, jacuzzis, teatro, casino, entre otros",
         },
+        islasGriegas: {
+          act01: "Visitarás Roma, estarás en un crucero",
+          act02: "Conocerás Santorini - Grecia",
+          act03: "Conocerás Ephesus - Turquía",
+          act04: "Conocerás Mykonos - Grecia",
+          act05: "Conocerás Nápoles y Capri - Italia",
+        },
       },
 		},
 		estudiantil: {
