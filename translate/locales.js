@@ -389,6 +389,18 @@ export const locales = {
           act02: "Incluye Transporte ida y vuelta a Orlando en buses de lujo con aire acondicionado",
           act03: "Incluye Almuerzo Buffet en Premium Outlet Mall",
         },
+        europa17d15n: {
+          act01: "Descubriremos lugares tales como la Plaza de España, la Gran Vía, la Fuente de la diosa Cibeles, la Puerta de Alcalá, la famosa plaza de toros de las Ventas, etc.",
+          act02: "Conocerás “Ciudad de la Luz”, realizando en el camino una parada en Blois",
+          act03: "Excursión en un crucero por el río Sena",
+          act04: "Descubriremos París desde el río y disfrutaremos de la impresionante iluminación de sus monumentos: el Ayuntamiento, los Inválidos, el Arco del Triunfo, la Ópera, la Torre Eiffel y los Campos Elíseos",
+          act05: "Recorrido por la 'Ciudad del Amor'",
+          act06: "Paseo por los Campos Elíseos, la Plaza de la Concordia, el Arco del Triunfo, la Asamblea Nacional, la Ópera, el Museo del Louvre, los Inválidos, el Campo de Marte, la Torre Eiffel",
+          act07: "Conocerás la Catedral de Notre Dame",
+          act08: "Recorreremos el Punte de los Suspiros y la Plaza de San Marcos",
+          act09: "Visitarás los Museos Vaticanos hasta llegar a la Capilla Sixtina",
+          act10: "Disfrutarás del Baptisterio y sus célebres Puertas del Paraíso",
+        },
       },
 		},
 		estudiantil: {
