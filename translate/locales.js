@@ -325,6 +325,12 @@ export const locales = {
 					act02: "Degustación de dulces típicos de Ica",
 					act03: "Visita a la Reserva Nacional de Paracas",
         },
+        cuscoEncantador5d4n: {
+          act01: "Visitarás QORICANCHA + PIEDRA 12 ANGULOS Y CALLES TIPICAS",
+					act02: "Concerás Sacsayhuamán, Q’enqo, Puca-pucara, el Valle de los Duendes",
+					act03: "Visitarás las majestuosas Ruinas de Pisac, Ciudadela de Machupicchu",
+					act04: "Conocerás la Ciudadela de Machupicchu, El jardín botánico, La Plaza de los templos, tres Ventanas, el reloj solar o intihuatana, la Roca sagrada, entre otros",
+        },
 			},
 		},
 		internacional: {
