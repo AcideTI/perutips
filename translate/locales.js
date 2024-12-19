@@ -343,6 +343,12 @@ export const locales = {
 					act03: "Excursión en canoa a orillas del Amazonas observando aves, iguanas",
 					act04: "Caminata por la selva conociendo flora y fauna y la biodiversidad existente en el área",
         },
+        tradicion4d3n: {
+          act01: "Caminata Catarata Bayoz, Catarata Velo de la Novia, Comunidad Asháninka",
+					act02: "Aprenderemos porqué Chanchamayo es llamada 'Capital cafetalera del Perú'",
+					act03: "Conoceremos el río Yezú",
+					act04: "Realizaremos un recorrido para conocer las plantaciones de café que se cultivan en Villa Rica",
+        },
 			},
 		},
 		internacional: {
