@@ -898,6 +898,107 @@ export const locales = {
 					act04: "You will get to know Llanganuco",
 					act05: "You will get to know the Paroni Lagoon",
 				},
+        curakaLodge: {
+          act01: "02 nights at Curaka Lodge + 02 nights in the City",
+          act02: "We will sail up the Amazon River to Cumaceba Curaka Inn",
+          act03: "Assignment of private bungalows.",
+          act04: "Birdwatching",
+          act05: "Visit to the Bora Bora native community at night"
+          },
+        tourCuenca6d5n: {
+          act01: "You will visit Turin Barranco viewpoint of Tomebamba, the Blacksmiths' neighborhood, Broken Bridge, Flower Park",
+          act02: "You will see the Seminar Square to the Iguanas Park, Santa Ana Hill",
+          act03: "Ride on the Morgan pirate ship",
+          act04: "Visit Puerto Pizarro, see the mangroves, Bird Island, Crocodile Hatchery, Love Island"
+        },
+        tarapoto5d4n: {
+          act01: "You will visit NICOLA FELICE Castle, the Wayku Native Neighborhood",
+          act02: "Tour to the City of Orchids Moyobamba",
+          act03: "Visit to Oriente Orchidarium, Chacra Vieja",
+          act04: "Rescue Center URKU, where you can observe some wildlife like birds, ocelots, monkeys, parrots"
+        },
+        icaDromedario: {
+          act01: "Visit Ica's historic center, The Marquis's Mansion - Torre Hermosa (Bolívar's House), Señor de Lúren Sanctuary",
+          act02: "Tasting typical Ica sweets",
+          act03: "Visit Paracas National Reserve"
+        },
+        cuscoEncantador5d4n: {
+          act01: "Visit QORICANCHA + 12-Angle Stone and Typical Streets",
+          act02: "Explore Sacsayhuamán, Q’enqo, Puca Pucara, the Valley of the Goblins",
+          act03: "Visit the majestic Pisac Ruins, Machu Picchu Citadel",
+          act04: "Discover Machu Picchu Citadel, Botanical Garden, Temples Plaza, Three Windows, Sun Clock or Intihuatana, Sacred Rock, among others"
+        },
+        selvaCentral4d3n: {
+          act01: "Visit Tirol Waterfall",
+          act02: "Visit Kimiri Hanging Bridge, El Perezoso Botanical Garden, and Butterfly Farm",
+          act03: "Hike to Velo de la Novia Waterfall, Bayoz Waterfall",
+          act04: "Boat ride on the Perene River"
+        },
+        cumacebaCuraka4d3n: {
+          act01: "We will sail up the Amazon River to Cumaceba Curaka Inn",
+          act02: "Fishing on the banks of the Amazon River, catfish, piranhas, among others",
+          act03: "Canoe excursion along the Amazon banks observing birds, iguanas",
+          act04: "Jungle walk exploring the flora, fauna, and biodiversity of the area"
+        },
+        tradicion4d3n: {
+          act01: "Hike to Bayoz Waterfall, Velo de la Novia Waterfall, Asháninka Community",
+          act02: "Learn why Chanchamayo is called the 'Coffee Capital of Peru'",
+          act03: "Explore the Yezú River",
+          act04: "Tour the coffee plantations cultivated in Villa Rica"
+        },
+        selvaTropical4d3n: {
+          act01: "Sail the Amazon River",
+          act02: "Discover flora and fauna",
+          act03: "Excursion to visit a riverside resident observing non-venomous boas, sloths, turtles, among others",
+          act04: "Observation of Victoria Regia, the world's largest aquatic plant"
+        },
+        cumacebCurakaInn: {
+          act01: "We will sail up the Amazon River to Cumaceba Curaka Inn",
+          act02: "Fishing on the banks of the Amazon River, catfish, piranhas, among others",
+          act03: "Canoe excursion along the Amazon banks observing birds, iguanas"
+        },
+        tarapoto6d5n: {
+          act01: "Visit the Main Square, NICOLA FELICE Castle, Wayku Native Neighborhood",
+          act02: "Tour Oriente Orchidarium, Chacra Vieja, Moyobamba Main Square",
+          act03: "Explore TAYTAMAKI Park",
+          act04: "Country lunch and pool time at HACIENDA VIMALU"
+        },
+        majestuosoRio5d4n: {
+          act01: "Visit Quistococha Zoo",
+          act02: "Explore the NANAY River to visit the Bora ethnic group and learn about their culture and folk dances",
+          act03: "Tour the Animal Rescue Center to see various species such as sloths, monkeys, anacondas, macaws, toucans, and others",
+          act04: "Visit the YAGUAS indigenous tribe"
+        },
+        icaParacas6d5n: {
+          act01: "Tour 'TACAMA' semi-industrial winery",
+          act02: "Learn to make traditional Ica sweets at Rosalía Tejas Workshop",
+          act03: "Visit 'The Oasis of America'",
+          act04: "Practice Sandboarding",
+          act05: "Discover the Ballestas Islands, Chaco Beach, San José Hacienda",
+          act06: "Tour weapons museum, King's Tower, Governor's House, Francisco Bolognesi's House Replica, Real Felipe Fortress",
+          act07: "Walk through Callao streets, Plaza Grau, Dársena Pier, Lighthouse, Monumental Callao, and its famous Gálvez Street, urban art, Constitution Plaza, among others"
+        },
+        iquitosCeiba5d4n: {
+          act01: "Explore the Huayo Forest",
+          act02: "Visit the iconic Iron House, Main Square, Church, Boulevard, and famous rubber-era mansions",
+          act03: "Tour Nanay Port",
+          act04: "Visit the Bora native community and Pilpintuwasi Butterfly Farm"
+        },
+        puno3d2n: {
+          act01: "Discover Destua Arch, Pino Park, Lima Street, Main Square, Cathedral, Dreyer Museum, Huajsapata Hill Viewpoint Park",
+          act02: "Visit Sillustani Archaeological Complex",
+          act03: "Explore Uros and Taquile Islands"
+        },
+        limaPiscoIca5d4n: {
+          act01: "Visit the Legends Park, Villa Farm",
+          act02: "Tour the Ballestas Islands and Yakupark",
+          act03: "Explore Huacachina Lagoon and Tubular rides"
+        },
+        aventuraAmazonica4d3n: {
+          act01: "Visit Quistococha Zoo",
+          act02: "Tour the Animal Rescue Center to learn about various species such as sloths, monkeys, anacondas, macaws, toucans, and others",
+          act03: "Visit the YAGUAS indigenous tribe"
+        },
 			},
 		},
 		internacional: {
