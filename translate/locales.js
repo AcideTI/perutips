@@ -366,6 +366,12 @@ export const locales = {
 					act03: "Conocerás Parque TAYTAMAKI",
           act04: "Almuerzo campestre y tarde de piscina en HACIENDA VIMALU",
         },
+        majestuosoRio5d4n: {
+          act01: "Conocerás el Zoológico de Quistococha",
+					act02: "Conocerás el rio NANAY para visitar al grupo étnico de los Boras, y conocer de su cultura y danzas folclóricas",
+					act03: "Tour de Visita al Centro de rescate de animales, donde podremos conocer diversas especies tales como: perezosos, monos, anacondas, guacamayos, tucanes y otros animales etc.",
+          act04: "Visita a la tribu indígena de los YAGUAS",
+        },
 			},
 		},
 		internacional: {
