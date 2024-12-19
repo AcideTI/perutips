@@ -355,6 +355,11 @@ export const locales = {
 					act03: "Excursión para visitar a morador ribereño donde apreciarán boas constrictoras no venenosas, oso perezoso, tortugas entre otros",
 					act04: "Observación de la Victoria Regia, planta acuática más grande del mundo",
         },
+        cumacebCurakaInn: {
+          act01: "Navegaremos el Amazonas rio arriba hasta el Cumaceba Curaka Inn",
+					act02: "Pesca a orillas del rio Amazonas, pez gato, pirañas entre otros",
+					act03: "Excursión en canoa a orillas del Amazonas observando aves, iguanas",
+        },
 			},
 		},
 		internacional: {
