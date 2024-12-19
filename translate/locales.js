@@ -360,6 +360,12 @@ export const locales = {
 					act02: "Pesca a orillas del rio Amazonas, pez gato, pirañas entre otros",
 					act03: "Excursión en canoa a orillas del Amazonas observando aves, iguanas",
         },
+        tarapoto6d5n: {
+          act01: "Visita a la Plaza de Armas, el CASTILLO NICOLA FELICE, visita el Barrio Nativo el Wayku.",
+					act02: "Recorrido por el Orquideario el Oriente, Chacra Vieja, la plaza de armas de Moyobamba",
+					act03: "Conocerás Parque TAYTAMAKI",
+          act04: "Almuerzo campestre y tarde de piscina en HACIENDA VIMALU",
+        },
 			},
 		},
 		internacional: {
