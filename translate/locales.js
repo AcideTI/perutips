@@ -387,6 +387,11 @@ export const locales = {
 					act03: "Recorrido por el puerto de Nanay",
           act04: "Tour conociendo la comunidad nativa Los Bora, conocer el Mariposario Pilpintuwasi",
         },
+        puno3d2n: {
+          act01: "Conocerás Arco Destua, el Parque Pino, Calle Lima, la Plaza de Armas, la Catedral, museo Dreyer, Parque Mirador del Cerrito Huajsapata",
+					act02: "Visitarás el complejo arqueológico de Sillustani",
+					act03: "Conocerás la Isla de los Uros, Taquile",
+        },
 			},
 		},
 		internacional: {
