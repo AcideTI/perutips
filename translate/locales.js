@@ -392,6 +392,11 @@ export const locales = {
 					act02: "Visitarás el complejo arqueológico de Sillustani",
 					act03: "Conocerás la Isla de los Uros, Taquile",
         },
+        limaPiscoIca5d4n: {
+          act01: "Visitarás el Parque de las Leyendas, la Granja Villa",
+					act02: "Visitarán las Islas Ballestas Yakupark",
+					act03: "Conocerás la Laguna de la Huacachina y Tubulares",
+        },
 			},
 		},
 		internacional: {
