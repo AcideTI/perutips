@@ -397,6 +397,11 @@ export const locales = {
 					act02: "Visitarán las Islas Ballestas Yakupark",
 					act03: "Conocerás la Laguna de la Huacachina y Tubulares",
         },
+        aventuraAmazonica4d3n: {
+          act01: "Visita al Zoológico de Quistococha",
+					act02: "Tour de Visita al Centro de rescate de animales, donde podremos conocer diversas especies tales como: perezosos, monos, anacondas, guacamayos, tucanes y otros animales",
+					act03: "Visita a la tribu indígena de los YAGUAS",
+        },
 			},
 		},
 		internacional: {
