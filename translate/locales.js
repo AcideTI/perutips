@@ -349,6 +349,12 @@ export const locales = {
 					act03: "Conoceremos el río Yezú",
 					act04: "Realizaremos un recorrido para conocer las plantaciones de café que se cultivan en Villa Rica",
         },
+        selvaTropical4d3n: {
+          act01: "Navegarán el Amazonas",
+					act02: "Conocerán la flora y fauna",
+					act03: "Excursión para visitar a morador ribereño donde apreciarán boas constrictoras no venenosas, oso perezoso, tortugas entre otros",
+					act04: "Observación de la Victoria Regia, planta acuática más grande del mundo",
+        },
 			},
 		},
 		internacional: {
