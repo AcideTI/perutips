@@ -372,6 +372,15 @@ export const locales = {
 					act03: "Tour de Visita al Centro de rescate de animales, donde podremos conocer diversas especies tales como: perezosos, monos, anacondas, guacamayos, tucanes y otros animales etc.",
           act04: "Visita a la tribu indígena de los YAGUAS",
         },
+        icaParacas6d5n: {
+          act01: "Recorrido en la Bodega semi industrial 'TACAMA'",
+					act02: "Conocerás el Taller De Tejas Rosalía, en donde aprenderán la elaboración de las tejas y chocotejas tradicionales de Ica",
+					act03: "Visitarás 'El Oasis de América'",
+          act04: "Practicarán Sandboarding",
+          act05: "Conocerás las Islas Ballestas, la playa Chaco, la Casa Hacienda San José",
+          act06: "Recorrido por su museo de armas, torreón del rey, la casa del gobernador, replica de la casa de la respuesta donde Francisco Bolognesi y la Fortaleza Real Felipe",
+          act07: "Caminata por las calles del Callao, Plaza Grau, Muelle Dársena, el faro, Callao Monumental y su famosa Calle Gálvez, arte-urbano, Plaza Constitución, entre otros",
+        },
 			},
 		},
 		internacional: {
