@@ -381,6 +381,12 @@ export const locales = {
           act06: "Recorrido por su museo de armas, torreón del rey, la casa del gobernador, replica de la casa de la respuesta donde Francisco Bolognesi y la Fortaleza Real Felipe",
           act07: "Caminata por las calles del Callao, Plaza Grau, Muelle Dársena, el faro, Callao Monumental y su famosa Calle Gálvez, arte-urbano, Plaza Constitución, entre otros",
         },
+        iquitosCeiba5d4n: {
+          act01: "Conocerás el Bosque de Huayo",
+					act02: "Conocerás la icónica Casa de Fierro, Plaza de Armas, Iglesia Matriz, Boulevard y las famosas casonas de la época del caucho",
+					act03: "Recorrido por el puerto de Nanay",
+          act04: "Tour conociendo la comunidad nativa Los Bora, conocer el Mariposario Pilpintuwasi",
+        },
 			},
 		},
 		internacional: {
