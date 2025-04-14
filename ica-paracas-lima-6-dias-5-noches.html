@@ -69,69 +69,9 @@
   </div>
   <!-- Topbar End -->
 
-  <!-- Navbar Start -->
-  <nav class="navbar navbar-expand-xxl bg-white navbar-light sticky-top px-4 px-xxl-5 py-xxl-0">
-    <a href="index.html" class="navbar-brand d-flex align-items-center">
-      <img class="img-fluid" src="img/logo.png" style="height: 65px" />
-    </a>
-    <button type="button" class="navbar-toggler" data-bs-toggle="collapse" data-bs-target="#navbarCollapse">
-      <span class="navbar-toggler-icon"></span>
-    </button>
-    <div class="collapse navbar-collapse" id="navbarCollapse">
-      <div class="navbar-nav ms-auto py-3 py-xxl-0 text-capitalize">
-        <a href="index.html" class="nav-item nav-link text-truncate fw-bold" data-i18n="nav.inicio">Inicio</a>
-        <a href="nosotros.html" class="nav-item nav-link text-truncate fw-bold" data-i18n="nav.nosotros">Nosotros</a>
-        <div class="nav-item dropdown fw-bold">
-          <div style="cursor: pointer" class="nav-link dropdown-toggle text-truncate fw-bold" data-i18n="nav.lion"
-            data-bs-toggle="dropdown">
-            Lions Internacional
-          </div>
-          <div class="dropdown-menu bg-light m-0">
-            <a
-								href="folac-2025.html"
-								class="dropdown-item text-capitalize active fw-bold"
-								>FOLAC Costa Rica</a
-							>
-							<a
-								href="folac-2026-hong-kong.html"
-								class="dropdown-item text-capitalize active fw-bold"
-								>Convención Hong Kong</a
-							>
-            <a href="convencion-mexico.html" class="dropdown-item text-capitalize fw-bold"
-              data-i18n="nav.Orlando">Convención Orlando</a>
-          </div>
-        </div>
-        <a href="conoce-peru.html" class="nav-item nav-link text-truncate active fw-bold" data-i18n="nav.peru">Conoce el
-          Perú</a>
-        <a href="paquetes-internacionales.html" class="nav-item nav-link text-truncate fw-bold"
-          data-i18n="nav.paquetes">Paquetes Internacionales</a>
-        <div class="nav-item dropdown">
-          <div style="cursor: pointer" class="nav-link dropdown-toggle text-truncate fw-bold" data-bs-toggle="dropdown"
-            data-i18n="nav.adicionales">
-            Servicios Adicionales
-          </div>
-          <div class="dropdown-menu bg-light m-0">
-            <a href="turismo-estudiantil.html" class="dropdown-item text-capitalize fw-bold"
-              data-i18n="nav.estudiantil">Turismo Estudiantil</a>
-            <a href="bodas.html" class="dropdown-item text-capitalize fw-bold" data-i18n="nav.bodas">Bodas</a>
-            <a href="visas.html" class="dropdown-item text-capitalize fw-bold">Visas</a>
-          </div>
-        </div>
-        <a href="contacto.html" class="nav-item nav-link fw-bold" data-i18n="nav.contacto">Contacto</a>
-        <!-- Select to idioma -->
-        <select style="cursor: pointer" id="selectedLanguage"
-          class="nav-item nav-link border-0 fw-bold text-capitalize fw-bold">
-          <option value="en" data-i18n="nav.ingles">
-            English
-          </option>
-          <option value="es" data-i18n="nav.español">
-            Español
-          </option>
-        </select>
-      </div>
-    </div>
-  </nav>
-  <!-- Navbar End -->
+  <!-- Navbar Container -->
+    <div id="navbar-container"></div>
+    <!-- Navbar End -->
 
   <!-- Page Header Start -->
   <div class="container-fluid mb-5 wow fadeIn" data-wow-delay="0.1s" style="
@@ -382,6 +322,7 @@
 
   <!-- Translate Page -->
   <script type="module" src="js/translate.js"></script>
+    <script src="js/navbar.js"></script>
 </body>
 
 </html>
