@@ -4,7 +4,8 @@ export const locales = {
 			inicio: "inicio",
 			nosotros: "nosotros",
 			lion: "lions internacional",
-			mexico: "convención mexico",
+			Orlando: "convención Orlando",
+			hongkong: "Convención Hong Kong",
 			peru: "conoce el perú",
 			paquetes: "paquetes internacionales",
 			adicionales: "servicios adicionales",
@@ -39,8 +40,16 @@ export const locales = {
 			},
 			about: {
 				tag: "Bienvenidos",
-				title: "53º FOLAC Brasil 2025",
-				text: "Brasil viene preparándose para dar la mejor impresión y brindar un evento grandioso, ya que ha sido designado como anfitrión del 53° FOLAC, en el cual se conocerá la ciudad de Fortaleza, uno de sus atractivos más hermosos y denominado la ciudad de Luz. Brasil es un país con bellezas y riquezas naturales, un clima agradable, una gastronomía variada y una cultura diversa, y debe ser bien disfrutado por los participantes de FOLAC",
+				title: "54º FOLAC Costa Rica 2026",
+				text: "San José fue ratificada como sede del 54 Foro Leonístico de América Latina y el Caribe 2026. Será Costa Rica el próximo destino del Leonismo de nuestra Área Estatutaria III del 14 al 17 de enero de 2026. ¡Pura Vida!",
+				agency: "Agencia autorizada",
+				prices: "Precios especiales",
+				tours: "Tours especializados",
+			},
+			hong: {
+				tag: "Bienvenidos",
+				title: "Convención Hong Kong 2026",
+				text: "Situado en el corazón de Asia, Hong Kong es un centro financiero internacional que conecta el este y el oeste, y el pasado y el presente. Los rascacielos modernos se elevan sobre la ciudad de la nueva moda, que está llena de energía contemporánea y hospitalidad de renombre. Viajar en taxi, ferry, tren, autobús o tranvía es seguro y sencillo en Hong Kong, por lo que es fácil explorar los restaurantes galardonados de la ciudad, el próspero escenario artístico y cultural, las playas de arena y las rutas de senderismo. ¡Es la ciudad que nunca se detiene!",
 				agency: "Agencia autorizada",
 				prices: "Precios especiales",
 				tours: "Tours especializados",
@@ -102,17 +111,17 @@ export const locales = {
 			enero: "Enero",
 		},
 		horas: "Horas",
-		mexico: {
-			title: "Convención México",
+		Orlando: {
+			title: "Convención Orlando",
 			about: {
 				tag: "Convención",
-				title: "107° CONVENCIÓN INTERNACIONAL DE MÉXICO",
+				title: "107° CONVENCIÓN INTERNACIONAL DE Orlando",
 				description:
-					"Discovery le espera en la Ciudad de México, donde se reunirán miles de Leones y Leos de todo el mundo en el principal evento del año 2025. Como uno de los centros culturales más importantes del mundo, la Ciudad de México promete una cocina de categoría mundial, una vida urbana vibrante, monumentos históricos, arte, música y experiencias que no se pueden encontrar en ningún otro lugar. También es el hogar de algunas de las personas más amistosas del mundo. La ciudad de México está verdaderamente viva, y usted también la sentirá.",
+					"Discovery le espera en la Ciudad de Orlando, donde se reunirán miles de Leones y Leos de todo el mundo en el principal evento del año 2025. Como uno de los centros culturales más importantes del mundo, la Ciudad de Orlando promete una cocina de categoría mundial, una vida urbana vibrante, monumentos históricos, arte, música y experiencias que no se pueden encontrar en ningún otro lugar. También es el hogar de algunas de las personas más amistosas del mundo. La ciudad de Orlando está verdaderamente viva, y usted también la sentirá.",
 			},
 			services: {
-				tag: "CONVENCIÓN INTERNACIONAL- MÉXICO 2025",
-				service01: "Convención Internacional Ciudad de México",
+				tag: "CONVENCIÓN INTERNACIONAL- Orlando 2025",
+				service01: "Convención Internacional Ciudad de Orlando",
 			},
 		},
 		peru: {
@@ -408,7 +417,7 @@ export const locales = {
 			title: "Internacional",
 			about: {
 				description:
-					"Existen distintos lugares atractivos en el mundo, muchos de ellos brillan por sus culturas como FRANCIA, EE.UU., KOREA, ITALIA, entre otros; otros países que tiene una gastronomía espectacular como ESPAÑA, MÉXICO y otros; visita los mejores lugares acompañados de nosotros, no solo ofrecemos las comodidades adecuadas te brindamos la experiencia deseada.",
+					"Existen distintos lugares atractivos en el mundo, muchos de ellos brillan por sus culturas como FRANCIA, EE.UU., KOREA, ITALIA, entre otros; otros países que tiene una gastronomía espectacular como ESPAÑA, Orlando y otros; visita los mejores lugares acompañados de nosotros, no solo ofrecemos las comodidades adecuadas te brindamos la experiencia deseada.",
 			},
 			services: {
 				tag: "Conoce el Mundo",
@@ -601,7 +610,8 @@ export const locales = {
 			inicio: "home",
 			nosotros: "about us",
 			lion: "lions international",
-			mexico: "mexico convention",
+			Orlando: "Orlando convention",
+			hongkong: "Hong Kong convention",
 			peru: "know peru",
 			paquetes: "international packages",
 			adicionales: "additional services",
@@ -637,7 +647,15 @@ export const locales = {
 			about: {
 				tag: "Welcome",
 				title: "53rd FOLAC Brasil 2025",
-				text: "Brazil is preparing to host the 53rd FOLAC, showcasing the beautiful city of Fortaleza, known as the 'City of Light'. Participants can enjoy Brazil's natural beauty, pleasant climate, diverse cuisine, and rich culture.",
+				text: "San José was ratified as the site of the 54th Lions Forum of Latin America and the Caribbean 2026. Costa Rica will be the next destination for Lions in our Statutory Area III. Pura Vida!",
+				agency: "Authorized agency",
+				prices: "Special pricing",
+				tours: "Personalized tours",
+			},
+			hong: {
+				tag: "Welcome",
+				title: "Hong Kong Convention 2026",
+				text: "Located in the heart of Asia, Hong Kong is an international financial center that connects east and west, and past and present. Modern skyscrapers tower over the new fashion city, which is full of contemporary energy and renowned hospitality. Travel by cab, ferry, train, bus or streetcar is safe and simple in Hong Kong, making it easy to explore the city's award-winning restaurants, thriving arts and culture scene, sandy beaches and hiking trails. It's the city that never stops!",
 				agency: "Authorized agency",
 				prices: "Special pricing",
 				tours: "Personalized tours",
@@ -699,17 +717,17 @@ export const locales = {
 			enero: "January",
 		},
 		horas: "Hours",
-		mexico: {
-			title: "Mexico Convention",
+		Orlando: {
+			title: "Orlando Convention",
 			about: {
 				tag: "Convention",
-				title: "107th INTERNATIONAL CONVENTION OF MEXICO",
+				title: "107th INTERNATIONAL CONVENTION OF Orlando",
 				description:
-					"Join thousands of Lions and Leos in Mexico City, a cultural hub with world-class cuisine, vibrant urban life, historic monuments, and friendly locals. It's also home to some of the friendliest people in the world. Mexico City is truly alive, and you will feel it too.",
+					"Join thousands of Lions and Leos in Orlando City, a cultural hub with world-class cuisine, vibrant urban life, historic monuments, and friendly locals. It's also home to some of the friendliest people in the world. Orlando City is truly alive, and you will feel it too.",
 			},
 			services: {
-				tag: "INTERNATIONAL CONVENTION- MEXICO 2025",
-				service01: "International Convention Mexico City",
+				tag: "INTERNATIONAL CONVENTION- Orlando 2025",
+				service01: "International Convention Orlando City",
 			},
 		},
 		peru: {
@@ -1005,7 +1023,7 @@ export const locales = {
 			title: "International",
 			about: {
 				description:
-					"Visit iconic destinations known for their culture and cuisine, such as France, USA, Korea, Italy, Spain, and Mexico, with tailored experiences just for you.",
+					"Visit iconic destinations known for their culture and cuisine, such as France, USA, Korea, Italy, Spain, and Orlando, with tailored experiences just for you.",
 			},
 			services: {
 				tag: "Know the World",
@@ -1090,7 +1108,7 @@ export const locales = {
           act04: "Transfer from Havana hotel to Varadero hotel to Havana Airport.",
           act05: "03 nights of accommodation in Varadero.",
         },
-        mexico6d5n: {
+        Orlando6d5n: {
           act01: "Característica 1",
           act02: "Característica 2",
           act03: "Característica 3",
