@@ -31,11 +31,6 @@ function loadNavbar() {
                     </div>
                 </div>
                 <a href="contacto.html" class="nav-item nav-link fw-bold" data-i18n="nav.contacto">Contacto</a>
-                <!-- Select to idioma -->
-                <select style="cursor: pointer;" id="selectedLanguage" class="nav-item nav-link border-0 fw-bold text-capitalize fw-bold">
-                    <option value="en" data-i18n="nav.ingles">English</option>
-                    <option value="es" data-i18n="nav.español">Español</option>
-                </select>
             </div>
         </div>
     </nav>
@@ -77,6 +72,45 @@ function loadNavbar() {
             homeLink.classList.add('active');
         }
     }
+
+    // Crear contenedor para el selector de idioma
+    const languageContainer = document.createElement('div');
+    languageContainer.className = 'language-selector';
+    languageContainer.style.cssText = 'position: absolute; right: 20px; top: 20px; z-index: 1000;';
+
+    // Crear y agregar el select de idioma
+    const languageSelect = document.createElement('select');
+    languageSelect.id = 'selectedLanguage';
+    languageSelect.className = 'form-select form-select-sm';
+    languageSelect.style.cssText = 'cursor: pointer; background-color: transparent; border: none; font-weight: bold;';
+
+    const englishOption = document.createElement('option');
+    englishOption.value = 'en';
+    englishOption.setAttribute('data-i18n', 'nav.ingles');
+    englishOption.textContent = 'English';
+
+    const spanishOption = document.createElement('option');
+    spanishOption.value = 'es';
+    spanishOption.setAttribute('data-i18n', 'nav.español');
+    spanishOption.textContent = 'Español';
+
+    languageSelect.appendChild(englishOption);
+    languageSelect.appendChild(spanishOption);
+
+    // Agregar el select al contenedor
+    languageContainer.appendChild(languageSelect);
+
+    // Agregar el contenedor al navbar
+    const navbarElement = document.querySelector('.navbar');
+    navbarElement.appendChild(languageContainer);
+
+    // Establecer el idioma inicial del selector
+    const currentLang = localStorage.getItem('lang') || 'es';
+    languageSelect.value = currentLang;
+
+    // Disparar evento para que translate.js actualice las traducciones
+    const event = new CustomEvent('navbarLoaded');
+    document.dispatchEvent(event);
 }
 
 // Cargar el navbar cuando el documento esté listo
