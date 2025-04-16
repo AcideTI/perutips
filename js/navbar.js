@@ -76,7 +76,7 @@ function loadNavbar() {
     // Crear contenedor para el selector de idioma
     const languageContainer = document.createElement('div');
     languageContainer.className = 'language-selector';
-    languageContainer.style.cssText = 'position: absolute; right: 20px; top: 20px; z-index: 1000;';
+    languageContainer.style.cssText = 'position: absolute; right: 20px; top: 35px; z-index: 1000;';
 
     // Crear y agregar el select de idioma
     const languageSelect = document.createElement('select');

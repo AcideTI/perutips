@@ -77,6 +77,10 @@
     transition: .5s;
 }
 
+.navbar .navbar-nav {
+    margin-right: 100px;
+}
+
 .navbar .navbar-nav .nav-link {
     margin-left: 30px;
     padding: 25px 0;
@@ -96,6 +100,21 @@
     font-weight: 900;
     vertical-align: middle;
     margin-left: 8px;
+}
+
+.language-selector {
+    position: absolute;
+    right: 20px;
+    top: 50%;
+    transform: translateY(-50%);
+    z-index: 1000;
+}
+
+.language-selector select {
+    cursor: pointer;
+    background-color: transparent;
+    border: none;
+    font-weight: bold;
 }
 
 @media (max-width:1400px) {
