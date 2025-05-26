@@ -73,7 +73,7 @@ export const locales = {
 			title: "Operador de viajes",
 			tag: "Quienes somos",
 			description:
-				"Somos una empresa turística de viajes en el Perú y en el mundo, brindando servicios, con el reconocimiento de marcas reconocidas como nuestros aliados.",
+				"Somos una empresa turística de viajes en el Perú y en el Mundo, brindando servicios de lujo confort exclusivo a nivel nacional e internacional, respaldado con estas certificaciones.",
 			cronograma: "Cronograma Anual",
 		},
 		contact: {
