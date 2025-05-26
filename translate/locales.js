@@ -680,7 +680,7 @@ export const locales = {
 			title: "Travel Operator",
 			tag: "Who we are",
 			description:
-				"We are a tourist company in Peru and in the world, providing services recognized by well-known brands as our allies.",
+				"We are a tourist travel company in Peru and the world, providing luxury and exclusive comfort services at national and international level, supported with these certifications.",
 			cronograma: "Annual Schedule",
 		},
 		contact: {
