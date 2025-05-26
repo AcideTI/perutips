@@ -8,6 +8,7 @@ export const locales = {
 			hongkong: "Convención Hong Kong",
 			peru: "conoce el perú",
 			paquetes: "paquetes internacionales",
+			tours_usa: "tours usa",
 			adicionales: "servicios adicionales",
 			estudiantil: "turismo estudiantil",
 			bodas: "bodas",
@@ -310,107 +311,107 @@ export const locales = {
 					act04: "Conocerás Llanganuco",
 					act05: "Conocerás la Laguna Paroni",
 				},
-        curakaLodge: {
-          act01: "02 noches en Curaka Lodge + 02 noches en Ciudad",
+				curakaLodge: {
+					act01: "02 noches en Curaka Lodge + 02 noches en Ciudad",
 					act02: "Navegaremos el Amazonas rio arriba hasta el Cumaceba Curaka Inn",
 					act03: "Asignación de bungalows privados.",
 					act04: "Avistaje de aves",
 					act05: "Visita a la comunidad nativa Bora Boraa nocturna",
-        },
-        tourCuenca6d5n: {
-          act01: "Conocerás mirador de Turín Barranco de Tomebamba, el barrio de las herrerías, puente roto, parque de las flores",
+				},
+				tourCuenca6d5n: {
+					act01: "Conocerás mirador de Turín Barranco de Tomebamba, el barrio de las herrerías, puente roto, parque de las flores",
 					act02: "Conocerás la plaza seminario al parque de las iguanas, El cerro Santa Ana",
 					act03: "Paseo en el barco pirata el Morgan",
 					act04: "Visita a Puerto Pizarro, conocerás los manglares, la isla de los pájaros, el zoocriadero de cocodrilos, la isla del amor",
-        },
-        tarapoto5d4n: {
-          act01: "Visitarás el castillo NICOLA FELICE, visita el Barrio Nativo el Wayku",
+				},
+				tarapoto5d4n: {
+					act01: "Visitarás el castillo NICOLA FELICE, visita el Barrio Nativo el Wayku",
 					act02: "Tours hacia la Ciudad de las Orquídeas Moyobamba",
 					act03: "Visitarás el Orquideario el Oriente, Chacra Vieja",
 					act04: "Rescate URKU, donde podrán observar algunos animales silvestres, como aves, tigrillo, monos, loros",
-        },
-        icaDromedario: {
-          act01: "Visitarás El centro histórico de Ica. La Casona del Marqués - Torre Hermosa (La Casa de Bolívar). El santuario Señor de Lúren",
+				},
+				icaDromedario: {
+					act01: "Visitarás El centro histórico de Ica. La Casona del Marqués - Torre Hermosa (La Casa de Bolívar). El santuario Señor de Lúren",
 					act02: "Degustación de dulces típicos de Ica",
 					act03: "Visita a la Reserva Nacional de Paracas",
-        },
-        cuscoEncantador5d4n: {
-          act01: "Visitarás QORICANCHA + PIEDRA 12 ANGULOS Y CALLES TIPICAS",
+				},
+				cuscoEncantador5d4n: {
+					act01: "Visitarás QORICANCHA + PIEDRA 12 ANGULOS Y CALLES TIPICAS",
 					act02: "Concerás Sacsayhuamán, Q’enqo, Puca-pucara, el Valle de los Duendes",
 					act03: "Visitarás las majestuosas Ruinas de Pisac, Ciudadela de Machupicchu",
 					act04: "Conocerás la Ciudadela de Machupicchu, El jardín botánico, La Plaza de los templos, tres Ventanas, el reloj solar o intihuatana, la Roca sagrada, entre otros",
-        },
-        selvaCentral4d3n: {
-          act01: "Visitarás Catarata del Tirol",
+				},
+				selvaCentral4d3n: {
+					act01: "Visitarás Catarata del Tirol",
 					act02: "Visitarás al Puente Colgante Kimiri, el Jardín Botánico El Perezoso y el Mariposario",
 					act03: "Caminata a la Catarata Velo de la Novia. Catarata Bayoz",
 					act04: "Paseo en bote por el río Perene",
-        },
-        cumacebaCuraka4d3n: {
-          act01: "Navegaremos el Amazonas rio arriba hasta el Cumaceba Curaka Inn",
+				},
+				cumacebaCuraka4d3n: {
+					act01: "Navegaremos el Amazonas rio arriba hasta el Cumaceba Curaka Inn",
 					act02: "Pesca a orillas del rio Amazonas, pez gato, pirañas entre otros",
 					act03: "Excursión en canoa a orillas del Amazonas observando aves, iguanas",
 					act04: "Caminata por la selva conociendo flora y fauna y la biodiversidad existente en el área",
-        },
-        tradicion4d3n: {
-          act01: "Caminata Catarata Bayoz, Catarata Velo de la Novia, Comunidad Asháninka",
+				},
+				tradicion4d3n: {
+					act01: "Caminata Catarata Bayoz, Catarata Velo de la Novia, Comunidad Asháninka",
 					act02: "Aprenderemos porqué Chanchamayo es llamada 'Capital cafetalera del Perú'",
 					act03: "Conoceremos el río Yezú",
 					act04: "Realizaremos un recorrido para conocer las plantaciones de café que se cultivan en Villa Rica",
-        },
-        selvaTropical4d3n: {
-          act01: "Navegarán el Amazonas",
+				},
+				selvaTropical4d3n: {
+					act01: "Navegarán el Amazonas",
 					act02: "Conocerán la flora y fauna",
 					act03: "Excursión para visitar a morador ribereño donde apreciarán boas constrictoras no venenosas, oso perezoso, tortugas entre otros",
 					act04: "Observación de la Victoria Regia, planta acuática más grande del mundo",
-        },
-        cumacebCurakaInn: {
-          act01: "Navegaremos el Amazonas rio arriba hasta el Cumaceba Curaka Inn",
+				},
+				cumacebCurakaInn: {
+					act01: "Navegaremos el Amazonas rio arriba hasta el Cumaceba Curaka Inn",
 					act02: "Pesca a orillas del rio Amazonas, pez gato, pirañas entre otros",
 					act03: "Excursión en canoa a orillas del Amazonas observando aves, iguanas",
-        },
-        tarapoto6d5n: {
-          act01: "Visita a la Plaza de Armas, el CASTILLO NICOLA FELICE, visita el Barrio Nativo el Wayku.",
+				},
+				tarapoto6d5n: {
+					act01: "Visita a la Plaza de Armas, el CASTILLO NICOLA FELICE, visita el Barrio Nativo el Wayku.",
 					act02: "Recorrido por el Orquideario el Oriente, Chacra Vieja, la plaza de armas de Moyobamba",
 					act03: "Conocerás Parque TAYTAMAKI",
-          act04: "Almuerzo campestre y tarde de piscina en HACIENDA VIMALU",
-        },
-        majestuosoRio5d4n: {
-          act01: "Conocerás el Zoológico de Quistococha",
+					act04: "Almuerzo campestre y tarde de piscina en HACIENDA VIMALU",
+				},
+				majestuosoRio5d4n: {
+					act01: "Conocerás el Zoológico de Quistococha",
 					act02: "Conocerás el rio NANAY para visitar al grupo étnico de los Boras, y conocer de su cultura y danzas folclóricas",
 					act03: "Tour de Visita al Centro de rescate de animales, donde podremos conocer diversas especies tales como: perezosos, monos, anacondas, guacamayos, tucanes y otros animales etc.",
-          act04: "Visita a la tribu indígena de los YAGUAS",
-        },
-        icaParacas6d5n: {
-          act01: "Recorrido en la Bodega semi industrial 'TACAMA'",
+					act04: "Visita a la tribu indígena de los YAGUAS",
+				},
+				icaParacas6d5n: {
+					act01: "Recorrido en la Bodega semi industrial 'TACAMA'",
 					act02: "Conocerás el Taller De Tejas Rosalía, en donde aprenderán la elaboración de las tejas y chocotejas tradicionales de Ica",
 					act03: "Visitarás 'El Oasis de América'",
-          act04: "Practicarán Sandboarding",
-          act05: "Conocerás las Islas Ballestas, la playa Chaco, la Casa Hacienda San José",
-          act06: "Recorrido por su museo de armas, torreón del rey, la casa del gobernador, replica de la casa de la respuesta donde Francisco Bolognesi y la Fortaleza Real Felipe",
-          act07: "Caminata por las calles del Callao, Plaza Grau, Muelle Dársena, el faro, Callao Monumental y su famosa Calle Gálvez, arte-urbano, Plaza Constitución, entre otros",
-        },
-        iquitosCeiba5d4n: {
-          act01: "Conocerás el Bosque de Huayo",
+					act04: "Practicarán Sandboarding",
+					act05: "Conocerás las Islas Ballestas, la playa Chaco, la Casa Hacienda San José",
+					act06: "Recorrido por su museo de armas, torreón del rey, la casa del gobernador, replica de la casa de la respuesta donde Francisco Bolognesi y la Fortaleza Real Felipe",
+					act07: "Caminata por las calles del Callao, Plaza Grau, Muelle Dársena, el faro, Callao Monumental y su famosa Calle Gálvez, arte-urbano, Plaza Constitución, entre otros",
+				},
+				iquitosCeiba5d4n: {
+					act01: "Conocerás el Bosque de Huayo",
 					act02: "Conocerás la icónica Casa de Fierro, Plaza de Armas, Iglesia Matriz, Boulevard y las famosas casonas de la época del caucho",
 					act03: "Recorrido por el puerto de Nanay",
-          act04: "Tour conociendo la comunidad nativa Los Bora, conocer el Mariposario Pilpintuwasi",
-        },
-        puno3d2n: {
-          act01: "Conocerás Arco Destua, el Parque Pino, Calle Lima, la Plaza de Armas, la Catedral, museo Dreyer, Parque Mirador del Cerrito Huajsapata",
+					act04: "Tour conociendo la comunidad nativa Los Bora, conocer el Mariposario Pilpintuwasi",
+				},
+				puno3d2n: {
+					act01: "Conocerás Arco Destua, el Parque Pino, Calle Lima, la Plaza de Armas, la Catedral, museo Dreyer, Parque Mirador del Cerrito Huajsapata",
 					act02: "Visitarás el complejo arqueológico de Sillustani",
 					act03: "Conocerás la Isla de los Uros, Taquile",
-        },
-        limaPiscoIca5d4n: {
-          act01: "Visitarás el Parque de las Leyendas, la Granja Villa",
+				},
+				limaPiscoIca5d4n: {
+					act01: "Visitarás el Parque de las Leyendas, la Granja Villa",
 					act02: "Visitarán las Islas Ballestas Yakupark",
 					act03: "Conocerás la Laguna de la Huacachina y Tubulares",
-        },
-        aventuraAmazonica4d3n: {
-          act01: "Visita al Zoológico de Quistococha",
+				},
+				aventuraAmazonica4d3n: {
+					act01: "Visita al Zoológico de Quistococha",
 					act02: "Tour de Visita al Centro de rescate de animales, donde podremos conocer diversas especies tales como: perezosos, monos, anacondas, guacamayos, tucanes y otros animales",
 					act03: "Visita a la tribu indígena de los YAGUAS",
-        },
+				},
 			},
 		},
 		internacional: {
@@ -422,87 +423,87 @@ export const locales = {
 			services: {
 				tag: "Conoce el Mundo",
 				title: "Tours Internacionales",
-        service01: "6 Días 5 Noches",
-        service02: "17 Días 15 Noches",
-        service03: "5 Días 4 Noches",
+				service01: "6 Días 5 Noches",
+				service02: "17 Días 15 Noches",
+				service03: "5 Días 4 Noches",
 			},
-      tours: {
-        tacnaArica6d5n: {
-          act01: "Conocerás la Catedral, La Fuente Ornamental, El Arco de los Héroes, Museo ferroviario, Mezquita Musulmana, Alameda Bolognesi, El Zoológico de Plantas en el paseo de las aguas, Ruta del Pisco con Cata y degustación de macerados de Damascos y vinos, degustación del pastel de Choclo en Pachia",
-          act02: "Visitarás La plaza Colon, La catedral San Marcos, La casa de la Respuesta de Bolognesi",
-          act03: "Visitarás el Mirador Natural Apacheta, Iglesias coloniales, Matrimonio de Piedra, Plaza de Armas de Tarata, Trekking por camino Inca, Ciudadela Pre inca Santa María, Bosque de piedras de Kala Kala, Baños termales de Ticaco, Andenerías Pre hispánicas, Caídas de Agua",
-          act04: "Visitarás los Humedales deI Te , Museo del desierto y del Mar, En ILO se visita el museo el Museo Chiribaya, Plaza de Armas, la iglesia San Gerónimo, El histórico Muelle fiscal, la glorieta José Gálvez, Malecón, Balnearios como Puerto Ingles",
-        },
-        bogota6d5n: {
-          act01: "Visita a la Ciudad con Monserrate",
-          act02: "Conocerás la Casa de los Comuneros; la Casa de Nariño",
-          act03: "Aprenderás el proceso del café en 'La Finca del Café'",
-          act04: "Conocerás el Mirador de Cocora",
-          act05: "Visitarás el Valle del Cocora y Salento",
-        },
-        miamiOrlando: {
-          act01: "Incluye Traslados en Miami: Aeropuerto - Hotel - Aeropuerto",
-          act02: "Incluye Transporte ida y vuelta a Orlando en buses de lujo con aire acondicionado",
-          act03: "Incluye Almuerzo Buffet en Premium Outlet Mall",
-        },
-        europa17d15n: {
-          act01: "Descubriremos lugares tales como la Plaza de España, la Gran Vía, la Fuente de la diosa Cibeles, la Puerta de Alcalá, la famosa plaza de toros de las Ventas, etc.",
-          act02: "Conocerás “Ciudad de la Luz”, realizando en el camino una parada en Blois",
-          act03: "Excursión en un crucero por el río Sena",
-          act04: "Descubriremos París desde el río y disfrutaremos de la impresionante iluminación de sus monumentos: el Ayuntamiento, los Inválidos, el Arco del Triunfo, la Ópera, la Torre Eiffel y los Campos Elíseos",
-          act05: "Recorrido por la 'Ciudad del Amor'",
-          act06: "Paseo por los Campos Elíseos, la Plaza de la Concordia, el Arco del Triunfo, la Asamblea Nacional, la Ópera, el Museo del Louvre, los Inválidos, el Campo de Marte, la Torre Eiffel",
-          act07: "Conocerás la Catedral de Notre Dame",
-          act08: "Recorreremos el Punte de los Suspiros y la Plaza de San Marcos",
-          act09: "Visitarás los Museos Vaticanos hasta llegar a la Capilla Sixtina",
-          act10: "Disfrutarás del Baptisterio y sus célebres Puertas del Paraíso",
-        },
-        playaNorte5d4n: {
-          act01: "Disfrutarás las playas de Punta Sal y Zorritos",
-          act02: "Recorrido en bote a motor por la zona de manglar y sus islas, Isla de los Pájaros, Isla del Amor, Isla Hueso de Ballena",
-          act03: "Visita a caleta el Ñuro o muelle Los Órganos",
-        },
-        miamiDiversion: {
-          act01: "Traslados en Miami: Aeropuerto - Hotel - Aeropuerto",
-          act02: "Cuatro (4) noches de alojamiento en hotel seleccionado",
-          act03: "Compras en Dolphin Mall",
-          act04: "City Tour + Paseo en Yate por Biscayne Bay",
-        },
-        capEuropa: {
-          act01: "Recorrido por las principales avenidas y monumentos, Piccadilly Circus, Oxford Street, Trafalgar Square, la Abadía de Westminster",
-          act02: "Visita panorámica por la Ópera, el Museo de Orsay, la Plaza de la Concordia, los Campos Elíseos, el Arco del Triunfo, los Inválidos",
-          act03: "Conocerás el Mont Saint Michel",
-          act04: "Visita a Volendam y Marken y almuerzo incluidos en el Europack",
-          act05: "Recorrido el pintoresco Barrio Pequeño 'Malá Strana', la Iglesia de la Victoria del Niño Jesús de Praga, el Puente de Carlos, la Ciudad Vieja y su Reloj Astronómico",
-        },
-        oxapampa: {
-          act01: "Recorrido en el Tirolés",
-          act02: "Conocerás el distrito de Oxapampa, Río Chontabamba, El Río Tigre y el barrio privado El Alpental",
-          act03: "Visitarás el Wharapo",
-          act04: "Conocerás la Catarata Rayantambo, la Cascada Yulitunki, el Barrio Prusia, la Plaza Colonos, la Dorcher Bier, las Pozas de Agua Salda y el Parque Nacional Yanachaga Chemillen",
-          act05: "Haremos deporte extremo, visitaremos el Mariposario de Perene, el Zoológico, el Velo de novia, la Comunidad Nativa Ashaninka y la Catara Bayoz",
-          act06: "Conocerás la plaza principal de Villa Rica, la Laguna El Ocononal, se realizará la catación de café y la chocolatería, el Mirador La Cumbre y la Cascada de León",
-        },
-        crucero: {
-          act01: "Disfrutarás de comida, las especialidades del crucero; de bebidas en el bar del crucero",
-          act02: "Disfrutarás del entretenimiento como mini golf, películas al aire libre, gimnasio, pared de escalar, entre otros",
-          act03: "Disfrutarás entre otras amenidades como piscinas, jacuzzis, teatro, casino, entre otros",
-        },
-        islasGriegas: {
-          act01: "Visitarás Roma, estarás en un crucero",
-          act02: "Conocerás Santorini - Grecia",
-          act03: "Conocerás Ephesus - Turquía",
-          act04: "Conocerás Mykonos - Grecia",
-          act05: "Conocerás Nápoles y Capri - Italia",
-        },
-        habanaVaradero: {
-          act01: "Traslado aeropuerto La Habana / hotel en La Habana",
-          act02: "02 noches de alojamiento en La Habana",
-          act03: "Desayunos diarios en La Habana",
-          act04: "Traslado hotel La Habana / hotel en Varadero / aeropuerto La Habana",
-          act05: "03 noches de alojamiento en Varadero",
-        },
-      },
+			tours: {
+				tacnaArica6d5n: {
+					act01: "Conocerás la Catedral, La Fuente Ornamental, El Arco de los Héroes, Museo ferroviario, Mezquita Musulmana, Alameda Bolognesi, El Zoológico de Plantas en el paseo de las aguas, Ruta del Pisco con Cata y degustación de macerados de Damascos y vinos, degustación del pastel de Choclo en Pachia",
+					act02: "Visitarás La plaza Colon, La catedral San Marcos, La casa de la Respuesta de Bolognesi",
+					act03: "Visitarás el Mirador Natural Apacheta, Iglesias coloniales, Matrimonio de Piedra, Plaza de Armas de Tarata, Trekking por camino Inca, Ciudadela Pre inca Santa María, Bosque de piedras de Kala Kala, Baños termales de Ticaco, Andenerías Pre hispánicas, Caídas de Agua",
+					act04: "Visitarás los Humedales deI Te , Museo del desierto y del Mar, En ILO se visita el museo el Museo Chiribaya, Plaza de Armas, la iglesia San Gerónimo, El histórico Muelle fiscal, la glorieta José Gálvez, Malecón, Balnearios como Puerto Ingles",
+				},
+				bogota6d5n: {
+					act01: "Visita a la Ciudad con Monserrate",
+					act02: "Conocerás la Casa de los Comuneros; la Casa de Nariño",
+					act03: "Aprenderás el proceso del café en 'La Finca del Café'",
+					act04: "Conocerás el Mirador de Cocora",
+					act05: "Visitarás el Valle del Cocora y Salento",
+				},
+				miamiOrlando: {
+					act01: "Incluye Traslados en Miami: Aeropuerto - Hotel - Aeropuerto",
+					act02: "Incluye Transporte ida y vuelta a Orlando en buses de lujo con aire acondicionado",
+					act03: "Incluye Almuerzo Buffet en Premium Outlet Mall",
+				},
+				europa17d15n: {
+					act01: "Descubriremos lugares tales como la Plaza de España, la Gran Vía, la Fuente de la diosa Cibeles, la Puerta de Alcalá, la famosa plaza de toros de las Ventas, etc.",
+					act02: "Conocerás “Ciudad de la Luz”, realizando en el camino una parada en Blois",
+					act03: "Excursión en un crucero por el río Sena",
+					act04: "Descubriremos París desde el río y disfrutaremos de la impresionante iluminación de sus monumentos: el Ayuntamiento, los Inválidos, el Arco del Triunfo, la Ópera, la Torre Eiffel y los Campos Elíseos",
+					act05: "Recorrido por la 'Ciudad del Amor'",
+					act06: "Paseo por los Campos Elíseos, la Plaza de la Concordia, el Arco del Triunfo, la Asamblea Nacional, la Ópera, el Museo del Louvre, los Inválidos, el Campo de Marte, la Torre Eiffel",
+					act07: "Conocerás la Catedral de Notre Dame",
+					act08: "Recorreremos el Punte de los Suspiros y la Plaza de San Marcos",
+					act09: "Visitarás los Museos Vaticanos hasta llegar a la Capilla Sixtina",
+					act10: "Disfrutarás del Baptisterio y sus célebres Puertas del Paraíso",
+				},
+				playaNorte5d4n: {
+					act01: "Disfrutarás las playas de Punta Sal y Zorritos",
+					act02: "Recorrido en bote a motor por la zona de manglar y sus islas, Isla de los Pájaros, Isla del Amor, Isla Hueso de Ballena",
+					act03: "Visita a caleta el Ñuro o muelle Los Órganos",
+				},
+				miamiDiversion: {
+					act01: "Traslados en Miami: Aeropuerto - Hotel - Aeropuerto",
+					act02: "Cuatro (4) noches de alojamiento en hotel seleccionado",
+					act03: "Compras en Dolphin Mall",
+					act04: "City Tour + Paseo en Yate por Biscayne Bay",
+				},
+				capEuropa: {
+					act01: "Recorrido por las principales avenidas y monumentos, Piccadilly Circus, Oxford Street, Trafalgar Square, la Abadía de Westminster",
+					act02: "Visita panorámica por la Ópera, el Museo de Orsay, la Plaza de la Concordia, los Campos Elíseos, el Arco del Triunfo, los Inválidos",
+					act03: "Conocerás el Mont Saint Michel",
+					act04: "Visita a Volendam y Marken y almuerzo incluidos en el Europack",
+					act05: "Recorrido el pintoresco Barrio Pequeño 'Malá Strana', la Iglesia de la Victoria del Niño Jesús de Praga, el Puente de Carlos, la Ciudad Vieja y su Reloj Astronómico",
+				},
+				oxapampa: {
+					act01: "Recorrido en el Tirolés",
+					act02: "Conocerás el distrito de Oxapampa, Río Chontabamba, El Río Tigre y el barrio privado El Alpental",
+					act03: "Visitarás el Wharapo",
+					act04: "Conocerás la Catarata Rayantambo, la Cascada Yulitunki, el Barrio Prusia, la Plaza Colonos, la Dorcher Bier, las Pozas de Agua Salda y el Parque Nacional Yanachaga Chemillen",
+					act05: "Haremos deporte extremo, visitaremos el Mariposario de Perene, el Zoológico, el Velo de novia, la Comunidad Nativa Ashaninka y la Catara Bayoz",
+					act06: "Conocerás la plaza principal de Villa Rica, la Laguna El Ocononal, se realizará la catación de café y la chocolatería, el Mirador La Cumbre y la Cascada de León",
+				},
+				crucero: {
+					act01: "Disfrutarás de comida, las especialidades del crucero; de bebidas en el bar del crucero",
+					act02: "Disfrutarás del entretenimiento como mini golf, películas al aire libre, gimnasio, pared de escalar, entre otros",
+					act03: "Disfrutarás entre otras amenidades como piscinas, jacuzzis, teatro, casino, entre otros",
+				},
+				islasGriegas: {
+					act01: "Visitarás Roma, estarás en un crucero",
+					act02: "Conocerás Santorini - Grecia",
+					act03: "Conocerás Ephesus - Turquía",
+					act04: "Conocerás Mykonos - Grecia",
+					act05: "Conocerás Nápoles y Capri - Italia",
+				},
+				habanaVaradero: {
+					act01: "Traslado aeropuerto La Habana / hotel en La Habana",
+					act02: "02 noches de alojamiento en La Habana",
+					act03: "Desayunos diarios en La Habana",
+					act04: "Traslado hotel La Habana / hotel en Varadero / aeropuerto La Habana",
+					act05: "03 noches de alojamiento en Varadero",
+				},
+			},
 		},
 		estudiantil: {
 			title: "Turismo estudiantil",
@@ -518,32 +519,32 @@ export const locales = {
 				tag_int: "Conoce el Mundo",
 				title_int: "Tours Internacionales",
 			},
-      tours: {
-        ica3d2n: {
-          act01: "Visitarás El centro histórico de Ica. La Casona del Marqués - Torre Hermosa (La Casa de Bolívar). El santuario Señor de Lúren. Degustación de dulces típicos de Ica",
-          act02: "Ingresaremos al recinto de Dromedarius",
-          act03: "Tours Huacachina",
-          act04: "Visitarás Islas Ballestas Parque Acuático Yaku Park",
-          act05: "Visitarás la Reserva de Paracas y Playa la Mina",
-        },
-        camboriu6d5n: {
-          act01: "Paseo a la playa de Laranjeiras por Teleférico UNIPAIAS",
-          act02: "Traslado al Complejo Turístico Panorámico CRISTO LUZ, para disfrutar de una maravillosa Cena de Velas con una majestuosa vista de Camboriú",
-          act03: "Paseo al mayor Parque Temático de América Latina con sus juegos radicales, show, zoológico, aérea temática Dream Word Madagascar, junto a los personajes de la Universal",
-        },
-        camboriuTradicional6n : {
-          act01: "Paseo a la playa de LARANJEIRAS por Teleférico UNIPRAIAS",
-          act02: "Traslado al Complejo Turístico Panorámico CRISTO LUZ, para disfrutar de una maravillosa Cena de Velas con una majestuosa vista de Camboriú",
-          act03: "Haremos clases de surf con surfistas profesionales",
-        },
-        playaNorte5d4n : {
-          act01: "Tour Zorritos / Manglares de Tumbes",
-          act02: "Visita al puerto de pescadores de Puerto Pizarro",
-          act03: "Recorrido en bote a motor por la zona de manglar y sus islas, Isla de los Pájaros, Isla del Amor, Isla Hueso de Ballena",
-          act04: "Tour Nado con tortugas y Punta Veleros",
-          act05: "Visita a caleta El Ñuro o muelle Los Órganos",
-        },
-      },
+			tours: {
+				ica3d2n: {
+					act01: "Visitarás El centro histórico de Ica. La Casona del Marqués - Torre Hermosa (La Casa de Bolívar). El santuario Señor de Lúren. Degustación de dulces típicos de Ica",
+					act02: "Ingresaremos al recinto de Dromedarius",
+					act03: "Tours Huacachina",
+					act04: "Visitarás Islas Ballestas Parque Acuático Yaku Park",
+					act05: "Visitarás la Reserva de Paracas y Playa la Mina",
+				},
+				camboriu6d5n: {
+					act01: "Paseo a la playa de Laranjeiras por Teleférico UNIPAIAS",
+					act02: "Traslado al Complejo Turístico Panorámico CRISTO LUZ, para disfrutar de una maravillosa Cena de Velas con una majestuosa vista de Camboriú",
+					act03: "Paseo al mayor Parque Temático de América Latina con sus juegos radicales, show, zoológico, aérea temática Dream Word Madagascar, junto a los personajes de la Universal",
+				},
+				camboriuTradicional6n: {
+					act01: "Paseo a la playa de LARANJEIRAS por Teleférico UNIPRAIAS",
+					act02: "Traslado al Complejo Turístico Panorámico CRISTO LUZ, para disfrutar de una maravillosa Cena de Velas con una majestuosa vista de Camboriú",
+					act03: "Haremos clases de surf con surfistas profesionales",
+				},
+				playaNorte5d4n: {
+					act01: "Tour Zorritos / Manglares de Tumbes",
+					act02: "Visita al puerto de pescadores de Puerto Pizarro",
+					act03: "Recorrido en bote a motor por la zona de manglar y sus islas, Isla de los Pájaros, Isla del Amor, Isla Hueso de Ballena",
+					act04: "Tour Nado con tortugas y Punta Veleros",
+					act05: "Visita a caleta El Ñuro o muelle Los Órganos",
+				},
+			},
 		},
 		bodas: {
 			title: "Bodas",
@@ -558,21 +559,21 @@ export const locales = {
 				tag: "Bodas de Ensueño",
 				title: "Paquetes",
 			},
-      tours: {
-        bodasInclusive: {
-          act01: "Hemos creado nuestras colecciones de bodas para acentuar perfectamente nuestros hermosos lugares y que sean completamente personalizables",
-        },
-        montaje : {
-          act01: "Incluye 32 sillas avant garde blancas",
-          act02: "Mesas cocteleras bajas con sillas avant garde blancas y mesas cocteleras altas, con mantelería blanca",
-        },
-        forHardRock : {
-          act01: "La pareja recibirá una (1) noche de hotel en cortesía por cada diez (10) noches pagadas, hasta un máximo de siete (7) noches",
-          act02: "Los novios recibirán una (1) categoría superior de habitación a la ya reservada",
-        },
-      },
+			tours: {
+				bodasInclusive: {
+					act01: "Hemos creado nuestras colecciones de bodas para acentuar perfectamente nuestros hermosos lugares y que sean completamente personalizables",
+				},
+				montaje: {
+					act01: "Incluye 32 sillas avant garde blancas",
+					act02: "Mesas cocteleras bajas con sillas avant garde blancas y mesas cocteleras altas, con mantelería blanca",
+				},
+				forHardRock: {
+					act01: "La pareja recibirá una (1) noche de hotel en cortesía por cada diez (10) noches pagadas, hasta un máximo de siete (7) noches",
+					act02: "Los novios recibirán una (1) categoría superior de habitación a la ya reservada",
+				},
+			},
 		},
-    
+
 		itinerario: "Itinerario Completo",
 		descargar: "Descargar Brochure",
 		visa: {
@@ -614,6 +615,7 @@ export const locales = {
 			hongkong: "Hong Kong convention",
 			peru: "know peru",
 			paquetes: "international packages",
+			tours_usa: "tours usa",
 			adicionales: "additional services",
 			estudiantil: "student tourism",
 			bodas: "weddings",
@@ -835,16 +837,16 @@ export const locales = {
 					act04: "You will get to know Vilcas Huamán, the mini forest of puyas of Raimondi de Manallasaq, the baths of the Inca and the Acllawasi",
 				},
 				cusco4d3n: {
-          act01: "You will visit El Qoricancha (Temple of the Sun), Santo Domingo Convent, Sacsayhuaman, Q’enqo, Pukapukara, and Tambomachay.",
-          act02: "You will visit the majestic Ruins of Pisac and the enigmatic Fortress of Ollantaytambo.",
-          act03: "Guided tour of the Machu Picchu Sanctuary.",
-        },
+					act01: "You will visit El Qoricancha (Temple of the Sun), Santo Domingo Convent, Sacsayhuaman, Q’enqo, Pukapukara, and Tambomachay.",
+					act02: "You will visit the majestic Ruins of Pisac and the enigmatic Fortress of Ollantaytambo.",
+					act03: "Guided tour of the Machu Picchu Sanctuary.",
+				},
 				cusco5d4n: {
-          act01: "You will visit El Qoricancha (Temple of the Sun), Santo Domingo Convent, Sacsayhuaman, Q’enqo, Pukapukara, and Tambomachay.",
-          act02: "You will visit the majestic Ruins of Pisac and the enigmatic Fortress of Ollantaytambo.",
-          act03: "Guided tour of the Machu Picchu Sanctuary.",
-          act04: "You will get to know the community of PHULAWASIPATA.",
-        },    
+					act01: "You will visit El Qoricancha (Temple of the Sun), Santo Domingo Convent, Sacsayhuaman, Q’enqo, Pukapukara, and Tambomachay.",
+					act02: "You will visit the majestic Ruins of Pisac and the enigmatic Fortress of Ollantaytambo.",
+					act03: "Guided tour of the Machu Picchu Sanctuary.",
+					act04: "You will get to know the community of PHULAWASIPATA.",
+				},
 				lima2d1n: {
 					act01: "You will know the Oracle of Pachacamac",
 					act02: "You will visit the Pucllana Pyramid",
@@ -916,107 +918,107 @@ export const locales = {
 					act04: "You will get to know Llanganuco",
 					act05: "You will get to know the Paroni Lagoon",
 				},
-        curakaLodge: {
-          act01: "02 nights at Curaka Lodge + 02 nights in the City",
-          act02: "We will sail up the Amazon River to Cumaceba Curaka Inn",
-          act03: "Assignment of private bungalows.",
-          act04: "Birdwatching",
-          act05: "Visit to the Bora Bora native community at night"
-          },
-        tourCuenca6d5n: {
-          act01: "You will visit Turin Barranco viewpoint of Tomebamba, the Blacksmiths' neighborhood, Broken Bridge, Flower Park",
-          act02: "You will see the Seminar Square to the Iguanas Park, Santa Ana Hill",
-          act03: "Ride on the Morgan pirate ship",
-          act04: "Visit Puerto Pizarro, see the mangroves, Bird Island, Crocodile Hatchery, Love Island"
-        },
-        tarapoto5d4n: {
-          act01: "You will visit NICOLA FELICE Castle, the Wayku Native Neighborhood",
-          act02: "Tour to the City of Orchids Moyobamba",
-          act03: "Visit to Oriente Orchidarium, Chacra Vieja",
-          act04: "Rescue Center URKU, where you can observe some wildlife like birds, ocelots, monkeys, parrots"
-        },
-        icaDromedario: {
-          act01: "Visit Ica's historic center, The Marquis's Mansion - Torre Hermosa (Bolívar's House), Señor de Lúren Sanctuary",
-          act02: "Tasting typical Ica sweets",
-          act03: "Visit Paracas National Reserve"
-        },
-        cuscoEncantador5d4n: {
-          act01: "Visit QORICANCHA + 12-Angle Stone and Typical Streets",
-          act02: "Explore Sacsayhuamán, Q’enqo, Puca Pucara, the Valley of the Goblins",
-          act03: "Visit the majestic Pisac Ruins, Machu Picchu Citadel",
-          act04: "Discover Machu Picchu Citadel, Botanical Garden, Temples Plaza, Three Windows, Sun Clock or Intihuatana, Sacred Rock, among others"
-        },
-        selvaCentral4d3n: {
-          act01: "Visit Tirol Waterfall",
-          act02: "Visit Kimiri Hanging Bridge, El Perezoso Botanical Garden, and Butterfly Farm",
-          act03: "Hike to Velo de la Novia Waterfall, Bayoz Waterfall",
-          act04: "Boat ride on the Perene River"
-        },
-        cumacebaCuraka4d3n: {
-          act01: "We will sail up the Amazon River to Cumaceba Curaka Inn",
-          act02: "Fishing on the banks of the Amazon River, catfish, piranhas, among others",
-          act03: "Canoe excursion along the Amazon banks observing birds, iguanas",
-          act04: "Jungle walk exploring the flora, fauna, and biodiversity of the area"
-        },
-        tradicion4d3n: {
-          act01: "Hike to Bayoz Waterfall, Velo de la Novia Waterfall, Asháninka Community",
-          act02: "Learn why Chanchamayo is called the 'Coffee Capital of Peru'",
-          act03: "Explore the Yezú River",
-          act04: "Tour the coffee plantations cultivated in Villa Rica"
-        },
-        selvaTropical4d3n: {
-          act01: "Sail the Amazon River",
-          act02: "Discover flora and fauna",
-          act03: "Excursion to visit a riverside resident observing non-venomous boas, sloths, turtles, among others",
-          act04: "Observation of Victoria Regia, the world's largest aquatic plant"
-        },
-        cumacebCurakaInn: {
-          act01: "We will sail up the Amazon River to Cumaceba Curaka Inn",
-          act02: "Fishing on the banks of the Amazon River, catfish, piranhas, among others",
-          act03: "Canoe excursion along the Amazon banks observing birds, iguanas"
-        },
-        tarapoto6d5n: {
-          act01: "Visit the Main Square, NICOLA FELICE Castle, Wayku Native Neighborhood",
-          act02: "Tour Oriente Orchidarium, Chacra Vieja, Moyobamba Main Square",
-          act03: "Explore TAYTAMAKI Park",
-          act04: "Country lunch and pool time at HACIENDA VIMALU"
-        },
-        majestuosoRio5d4n: {
-          act01: "Visit Quistococha Zoo",
-          act02: "Explore the NANAY River to visit the Bora ethnic group and learn about their culture and folk dances",
-          act03: "Tour the Animal Rescue Center to see various species such as sloths, monkeys, anacondas, macaws, toucans, and others",
-          act04: "Visit the YAGUAS indigenous tribe"
-        },
-        icaParacas6d5n: {
-          act01: "Tour 'TACAMA' semi-industrial winery",
-          act02: "Learn to make traditional Ica sweets at Rosalía Tejas Workshop",
-          act03: "Visit 'The Oasis of America'",
-          act04: "Practice Sandboarding",
-          act05: "Discover the Ballestas Islands, Chaco Beach, San José Hacienda",
-          act06: "Tour weapons museum, King's Tower, Governor's House, Francisco Bolognesi's House Replica, Real Felipe Fortress",
-          act07: "Walk through Callao streets, Plaza Grau, Dársena Pier, Lighthouse, Monumental Callao, and its famous Gálvez Street, urban art, Constitution Plaza, among others"
-        },
-        iquitosCeiba5d4n: {
-          act01: "Explore the Huayo Forest",
-          act02: "Visit the iconic Iron House, Main Square, Church, Boulevard, and famous rubber-era mansions",
-          act03: "Tour Nanay Port",
-          act04: "Visit the Bora native community and Pilpintuwasi Butterfly Farm"
-        },
-        puno3d2n: {
-          act01: "Discover Destua Arch, Pino Park, Lima Street, Main Square, Cathedral, Dreyer Museum, Huajsapata Hill Viewpoint Park",
-          act02: "Visit Sillustani Archaeological Complex",
-          act03: "Explore Uros and Taquile Islands"
-        },
-        limaPiscoIca5d4n: {
-          act01: "Visit the Legends Park, Villa Farm",
-          act02: "Tour the Ballestas Islands and Yakupark",
-          act03: "Explore Huacachina Lagoon and Tubular rides"
-        },
-        aventuraAmazonica4d3n: {
-          act01: "Visit Quistococha Zoo",
-          act02: "Tour the Animal Rescue Center to learn about various species such as sloths, monkeys, anacondas, macaws, toucans, and others",
-          act03: "Visit the YAGUAS indigenous tribe"
-        },
+				curakaLodge: {
+					act01: "02 nights at Curaka Lodge + 02 nights in the City",
+					act02: "We will sail up the Amazon River to Cumaceba Curaka Inn",
+					act03: "Assignment of private bungalows.",
+					act04: "Birdwatching",
+					act05: "Visit to the Bora Bora native community at night"
+				},
+				tourCuenca6d5n: {
+					act01: "You will visit Turin Barranco viewpoint of Tomebamba, the Blacksmiths' neighborhood, Broken Bridge, Flower Park",
+					act02: "You will see the Seminar Square to the Iguanas Park, Santa Ana Hill",
+					act03: "Ride on the Morgan pirate ship",
+					act04: "Visit Puerto Pizarro, see the mangroves, Bird Island, Crocodile Hatchery, Love Island"
+				},
+				tarapoto5d4n: {
+					act01: "You will visit NICOLA FELICE Castle, the Wayku Native Neighborhood",
+					act02: "Tour to the City of Orchids Moyobamba",
+					act03: "Visit to Oriente Orchidarium, Chacra Vieja",
+					act04: "Rescue Center URKU, where you can observe some wildlife like birds, ocelots, monkeys, parrots"
+				},
+				icaDromedario: {
+					act01: "Visit Ica's historic center, The Marquis's Mansion - Torre Hermosa (Bolívar's House), Señor de Lúren Sanctuary",
+					act02: "Tasting typical Ica sweets",
+					act03: "Visit Paracas National Reserve"
+				},
+				cuscoEncantador5d4n: {
+					act01: "Visit QORICANCHA + 12-Angle Stone and Typical Streets",
+					act02: "Explore Sacsayhuamán, Q’enqo, Puca Pucara, the Valley of the Goblins",
+					act03: "Visit the majestic Pisac Ruins, Machu Picchu Citadel",
+					act04: "Discover Machu Picchu Citadel, Botanical Garden, Temples Plaza, Three Windows, Sun Clock or Intihuatana, Sacred Rock, among others"
+				},
+				selvaCentral4d3n: {
+					act01: "Visit Tirol Waterfall",
+					act02: "Visit Kimiri Hanging Bridge, El Perezoso Botanical Garden, and Butterfly Farm",
+					act03: "Hike to Velo de la Novia Waterfall, Bayoz Waterfall",
+					act04: "Boat ride on the Perene River"
+				},
+				cumacebaCuraka4d3n: {
+					act01: "We will sail up the Amazon River to Cumaceba Curaka Inn",
+					act02: "Fishing on the banks of the Amazon River, catfish, piranhas, among others",
+					act03: "Canoe excursion along the Amazon banks observing birds, iguanas",
+					act04: "Jungle walk exploring the flora, fauna, and biodiversity of the area"
+				},
+				tradicion4d3n: {
+					act01: "Hike to Bayoz Waterfall, Velo de la Novia Waterfall, Asháninka Community",
+					act02: "Learn why Chanchamayo is called the 'Coffee Capital of Peru'",
+					act03: "Explore the Yezú River",
+					act04: "Tour the coffee plantations cultivated in Villa Rica"
+				},
+				selvaTropical4d3n: {
+					act01: "Sail the Amazon River",
+					act02: "Discover flora and fauna",
+					act03: "Excursion to visit a riverside resident observing non-venomous boas, sloths, turtles, among others",
+					act04: "Observation of Victoria Regia, the world's largest aquatic plant"
+				},
+				cumacebCurakaInn: {
+					act01: "We will sail up the Amazon River to Cumaceba Curaka Inn",
+					act02: "Fishing on the banks of the Amazon River, catfish, piranhas, among others",
+					act03: "Canoe excursion along the Amazon banks observing birds, iguanas"
+				},
+				tarapoto6d5n: {
+					act01: "Visit the Main Square, NICOLA FELICE Castle, Wayku Native Neighborhood",
+					act02: "Tour Oriente Orchidarium, Chacra Vieja, Moyobamba Main Square",
+					act03: "Explore TAYTAMAKI Park",
+					act04: "Country lunch and pool time at HACIENDA VIMALU"
+				},
+				majestuosoRio5d4n: {
+					act01: "Visit Quistococha Zoo",
+					act02: "Explore the NANAY River to visit the Bora ethnic group and learn about their culture and folk dances",
+					act03: "Tour the Animal Rescue Center to see various species such as sloths, monkeys, anacondas, macaws, toucans, and others",
+					act04: "Visit the YAGUAS indigenous tribe"
+				},
+				icaParacas6d5n: {
+					act01: "Tour 'TACAMA' semi-industrial winery",
+					act02: "Learn to make traditional Ica sweets at Rosalía Tejas Workshop",
+					act03: "Visit 'The Oasis of America'",
+					act04: "Practice Sandboarding",
+					act05: "Discover the Ballestas Islands, Chaco Beach, San José Hacienda",
+					act06: "Tour weapons museum, King's Tower, Governor's House, Francisco Bolognesi's House Replica, Real Felipe Fortress",
+					act07: "Walk through Callao streets, Plaza Grau, Dársena Pier, Lighthouse, Monumental Callao, and its famous Gálvez Street, urban art, Constitution Plaza, among others"
+				},
+				iquitosCeiba5d4n: {
+					act01: "Explore the Huayo Forest",
+					act02: "Visit the iconic Iron House, Main Square, Church, Boulevard, and famous rubber-era mansions",
+					act03: "Tour Nanay Port",
+					act04: "Visit the Bora native community and Pilpintuwasi Butterfly Farm"
+				},
+				puno3d2n: {
+					act01: "Discover Destua Arch, Pino Park, Lima Street, Main Square, Cathedral, Dreyer Museum, Huajsapata Hill Viewpoint Park",
+					act02: "Visit Sillustani Archaeological Complex",
+					act03: "Explore Uros and Taquile Islands"
+				},
+				limaPiscoIca5d4n: {
+					act01: "Visit the Legends Park, Villa Farm",
+					act02: "Tour the Ballestas Islands and Yakupark",
+					act03: "Explore Huacachina Lagoon and Tubular rides"
+				},
+				aventuraAmazonica4d3n: {
+					act01: "Visit Quistococha Zoo",
+					act02: "Tour the Animal Rescue Center to learn about various species such as sloths, monkeys, anacondas, macaws, toucans, and others",
+					act03: "Visit the YAGUAS indigenous tribe"
+				},
 			},
 		},
 		internacional: {
@@ -1028,93 +1030,93 @@ export const locales = {
 			services: {
 				tag: "Know the World",
 				title: "International Tours",
-        service01: "6 Days 5 Nights",
-        service02: "17 Days 15 Nights",
-        service03: "5 Days 4 Nights",
+				service01: "6 Days 5 Nights",
+				service02: "17 Days 15 Nights",
+				service03: "5 Days 4 Nights",
 			},
-      tours: {
-        tacnaArica6d5n: {
-          act01: "You will visit the Cathedral, Ornamental Fountain, Heroes' Arch, Railway Museum, Muslim Mosque, Bolognesi Promenade, Plant Zoo at the Water Walkway, Pisco Route with tasting of apricot infusions and wines, and enjoy corn cake in Pachia.",
-          act02: "You will visit Colon Square, San Marcos Cathedral, and the House of Bolognesi's Reply.",
-          act03: "You will visit the Apacheta Natural Lookout, colonial churches, Stone Marriage, Tarata Main Square, trek along the Inca Trail, Santa María Pre-Inca Citadel, Kala Kala Stone Forest, Ticaco Thermal Baths, Pre-Hispanic Terraces, and Waterfalls.",
-          act04: "You will visit the Wetlands of El Tibe, Desert and Sea Museum. In ILO, you will visit the Chiribaya Museum, Main Square, San Jeronimo Church, historic Fiscal Pier, José Gálvez gazebo, boardwalk, and beaches like Puerto Inglés.",
-        },
-        bogota6d5n: {
-          act01: "City tour with a visit to Monserrate.",
-          act02: "You will visit the House of the Comuneros and Nariño's House.",
-          act03: "Learn about the coffee-making process at 'La Finca del Café.'",
-          act04: "Visit the Cocora Lookout.",
-          act05: "Explore the Cocora Valley and Salento.",
-        },
-        miamiOrlando: {
-          act01: "Includes transfers in Miami: Airport - Hotel - Airport.",
-          act02: "Includes round-trip transportation to Orlando in luxury buses with air conditioning.",
-          act03: "Includes buffet lunch at Premium Outlet Mall.",
-        },
-        europa17d15n: {
-          act01: "Discover places such as Plaza de España, Gran Vía, Fuente de la Diosa Cibeles, Puerta de Alcalá, and the famous Las Ventas bullring.",
-          act02: "Visit the 'City of Light,' with a stop in Blois along the way.",
-          act03: "Enjoy a cruise on the Seine River.",
-          act04: "Explore Paris by night and admire the illumination of landmarks like City Hall, Les Invalides, Arc de Triomphe, the Opera House, Eiffel Tower, and Champs-Élysées.",
-          act05: "Tour the 'City of Love.'",
-          act06: "Stroll through Champs-Élysées, Place de la Concorde, Arc de Triomphe, the National Assembly, the Opera House, Louvre Museum, Les Invalides, Champ de Mars, and Eiffel Tower.",
-          act07: "Visit Notre Dame Cathedral.",
-          act08: "Walk across the Bridge of Sighs and San Marcos Square.",
-          act09: "Visit the Vatican Museums and Sistine Chapel.",
-          act10: "Admire the Baptistery and its famous Gates of Paradise.",
-        },
-        playaNorte5d4n: {
-          act01: "Relax on the beaches of Punta Sal and Zorritos.",
-          act02: "Motorboat tour through the mangrove area and its islands: Bird Island, Love Island, and Whale Bone Island.",
-          act03: "Visit El Ñuro Cove or Los Órganos Pier.",
-        },
-        miamiDiversion: {
-          act01: "Transfers in Miami: Airport - Hotel - Airport.",
-          act02: "Four (4) nights of accommodation in the selected hotel.",
-          act03: "Shopping at Dolphin Mall.",
-          act04: "City Tour + Yacht Ride through Biscayne Bay.",
-        },
-        capEuropa: {
-          act01: "Tour of main avenues and monuments, including Piccadilly Circus, Oxford Street, Trafalgar Square, and Westminster Abbey.",
-          act02: "Panoramic tour of the Opera House, Orsay Museum, Place de la Concorde, Champs-Élysées, Arc de Triomphe, and Les Invalides.",
-          act03: "Discover Mont Saint Michel.",
-          act04: "Visit Volendam and Marken, including lunch with the Europack.",
-          act05: "Explore the picturesque 'Malá Strana' District, Church of the Infant Jesus of Prague, Charles Bridge, Old Town, and its Astronomical Clock.",
-        },
-        oxapampa: {
-          act01: "Ziplining adventure.",
-          act02: "Explore Oxapampa district, Chontabamba River, Tigre River, and the private Alpental neighborhood.",
-          act03: "Visit the Wharapo.",
-          act04: "Discover Rayantambo Waterfall, Yulitunki Falls, Prussian District, Colonist Square, Dorcher Bier, Salty Water Pools, and Yanachaga Chemillen National Park.",
-          act05: "Engage in extreme sports, visit Perene Butterfly Farm, the Zoo, Bridal Veil Falls, Ashaninka Native Community, and Bayoz Falls.",
-          act06: "Tour Villa Rica's main square, El Oconal Lagoon, coffee and chocolate tasting, La Cumbre Lookout, and León Falls.",
-        },
-        crucero: {
-          act01: "Enjoy gourmet dining and specialty dishes onboard, along with drinks at the cruise bar.",
-          act02: "Experience entertainment like mini-golf, open-air movies, gym, climbing wall, and more.",
-          act03: "Relax with amenities such as pools, jacuzzis, theater, casino, and more.",
-        },
-        islasGriegas: {
-          act01: "Visit Rome while aboard a cruise.",
-          act02: "Discover Santorini - Greece.",
-          act03: "Explore Ephesus - Turkey.",
-          act04: "Visit Mykonos - Greece.",
-          act05: "Experience Naples and Capri - Italy.",
-        },
-        habanaVaradero: {
-          act01: "Transfer from Havana Airport to your hotel in Havana.",
-          act02: "02 nights of accommodation in Havana.",
-          act03: "Daily breakfasts in Havana.",
-          act04: "Transfer from Havana hotel to Varadero hotel to Havana Airport.",
-          act05: "03 nights of accommodation in Varadero.",
-        },
-        Orlando6d5n: {
-          act01: "Característica 1",
-          act02: "Característica 2",
-          act03: "Característica 3",
-          act04: "Característica 4",
-        },
-      },
+			tours: {
+				tacnaArica6d5n: {
+					act01: "You will visit the Cathedral, Ornamental Fountain, Heroes' Arch, Railway Museum, Muslim Mosque, Bolognesi Promenade, Plant Zoo at the Water Walkway, Pisco Route with tasting of apricot infusions and wines, and enjoy corn cake in Pachia.",
+					act02: "You will visit Colon Square, San Marcos Cathedral, and the House of Bolognesi's Reply.",
+					act03: "You will visit the Apacheta Natural Lookout, colonial churches, Stone Marriage, Tarata Main Square, trek along the Inca Trail, Santa María Pre-Inca Citadel, Kala Kala Stone Forest, Ticaco Thermal Baths, Pre-Hispanic Terraces, and Waterfalls.",
+					act04: "You will visit the Wetlands of El Tibe, Desert and Sea Museum. In ILO, you will visit the Chiribaya Museum, Main Square, San Jeronimo Church, historic Fiscal Pier, José Gálvez gazebo, boardwalk, and beaches like Puerto Inglés.",
+				},
+				bogota6d5n: {
+					act01: "City tour with a visit to Monserrate.",
+					act02: "You will visit the House of the Comuneros and Nariño's House.",
+					act03: "Learn about the coffee-making process at 'La Finca del Café.'",
+					act04: "Visit the Cocora Lookout.",
+					act05: "Explore the Cocora Valley and Salento.",
+				},
+				miamiOrlando: {
+					act01: "Includes transfers in Miami: Airport - Hotel - Airport.",
+					act02: "Includes round-trip transportation to Orlando in luxury buses with air conditioning.",
+					act03: "Includes buffet lunch at Premium Outlet Mall.",
+				},
+				europa17d15n: {
+					act01: "Discover places such as Plaza de España, Gran Vía, Fuente de la Diosa Cibeles, Puerta de Alcalá, and the famous Las Ventas bullring.",
+					act02: "Visit the 'City of Light,' with a stop in Blois along the way.",
+					act03: "Enjoy a cruise on the Seine River.",
+					act04: "Explore Paris by night and admire the illumination of landmarks like City Hall, Les Invalides, Arc de Triomphe, the Opera House, Eiffel Tower, and Champs-Élysées.",
+					act05: "Tour the 'City of Love.'",
+					act06: "Stroll through Champs-Élysées, Place de la Concorde, Arc de Triomphe, the National Assembly, the Opera House, Louvre Museum, Les Invalides, Champ de Mars, and Eiffel Tower.",
+					act07: "Visit Notre Dame Cathedral.",
+					act08: "Walk across the Bridge of Sighs and San Marcos Square.",
+					act09: "Visit the Vatican Museums and Sistine Chapel.",
+					act10: "Admire the Baptistery and its famous Gates of Paradise.",
+				},
+				playaNorte5d4n: {
+					act01: "Relax on the beaches of Punta Sal and Zorritos.",
+					act02: "Motorboat tour through the mangrove area and its islands: Bird Island, Love Island, and Whale Bone Island.",
+					act03: "Visit El Ñuro Cove or Los Órganos Pier.",
+				},
+				miamiDiversion: {
+					act01: "Transfers in Miami: Airport - Hotel - Airport.",
+					act02: "Four (4) nights of accommodation in the selected hotel.",
+					act03: "Shopping at Dolphin Mall.",
+					act04: "City Tour + Yacht Ride through Biscayne Bay.",
+				},
+				capEuropa: {
+					act01: "Tour of main avenues and monuments, including Piccadilly Circus, Oxford Street, Trafalgar Square, and Westminster Abbey.",
+					act02: "Panoramic tour of the Opera House, Orsay Museum, Place de la Concorde, Champs-Élysées, Arc de Triomphe, and Les Invalides.",
+					act03: "Discover Mont Saint Michel.",
+					act04: "Visit Volendam and Marken, including lunch with the Europack.",
+					act05: "Explore the picturesque 'Malá Strana' District, Church of the Infant Jesus of Prague, Charles Bridge, Old Town, and its Astronomical Clock.",
+				},
+				oxapampa: {
+					act01: "Ziplining adventure.",
+					act02: "Explore Oxapampa district, Chontabamba River, Tigre River, and the private Alpental neighborhood.",
+					act03: "Visit the Wharapo.",
+					act04: "Discover Rayantambo Waterfall, Yulitunki Falls, Prussian District, Colonist Square, Dorcher Bier, Salty Water Pools, and Yanachaga Chemillen National Park.",
+					act05: "Engage in extreme sports, visit Perene Butterfly Farm, the Zoo, Bridal Veil Falls, Ashaninka Native Community, and Bayoz Falls.",
+					act06: "Tour Villa Rica's main square, El Oconal Lagoon, coffee and chocolate tasting, La Cumbre Lookout, and León Falls.",
+				},
+				crucero: {
+					act01: "Enjoy gourmet dining and specialty dishes onboard, along with drinks at the cruise bar.",
+					act02: "Experience entertainment like mini-golf, open-air movies, gym, climbing wall, and more.",
+					act03: "Relax with amenities such as pools, jacuzzis, theater, casino, and more.",
+				},
+				islasGriegas: {
+					act01: "Visit Rome while aboard a cruise.",
+					act02: "Discover Santorini - Greece.",
+					act03: "Explore Ephesus - Turkey.",
+					act04: "Visit Mykonos - Greece.",
+					act05: "Experience Naples and Capri - Italy.",
+				},
+				habanaVaradero: {
+					act01: "Transfer from Havana Airport to your hotel in Havana.",
+					act02: "02 nights of accommodation in Havana.",
+					act03: "Daily breakfasts in Havana.",
+					act04: "Transfer from Havana hotel to Varadero hotel to Havana Airport.",
+					act05: "03 nights of accommodation in Varadero.",
+				},
+				Orlando6d5n: {
+					act01: "Característica 1",
+					act02: "Característica 2",
+					act03: "Característica 3",
+					act04: "Característica 4",
+				},
+			},
 		},
 		estudiantil: {
 			title: "student tourism",
@@ -1130,32 +1132,32 @@ export const locales = {
 				tag_int: "Know the World",
 				title_int: "International Tours",
 			},
-      tours: {
-        ica3d2n: {
-          act01: "You will visit the historic center of Ica, including La Casona del Marqués - Torre Hermosa (Bolívar's House), the Señor de Lúren Sanctuary, and enjoy a tasting of Ica's traditional sweets",
-          act02: "We will enter the Dromedarius compound",
-          act03: "Tour to Huacachina",
-          act04: "You will visit Ballestas Islands and Yaku Park Water Park",
-          act05: "You will visit Paracas National Reserve and Playa la Mina",
-        },
-        camboriu6d5n: {
-          act01: "Trip to Laranjeiras Beach via UNIPAIAS Cable Car",
-          act02: "Transfer to the Panoramic Tourist Complex CRISTO LUZ for a delightful Candlelight Dinner with a breathtaking view of Camboriú",
-          act03: "Visit the largest Theme Park in Latin America, featuring thrilling rides, shows, a zoo, and the Dream World Madagascar thematic area with Universal characters",
-        },
-        camboriuTradicional6n: {
-          act01: "Trip to Laranjeiras Beach via UNIPRAIAS Cable Car.",
-          act02: "Transfer to the Panoramic Tourist Complex CRISTO LUZ for a delightful Candlelight Dinner with a breathtaking view of Camboriú",
-          act03: "Surfing lessons with professional surfers",
-        },
-        playaNorte5d4n: {
-          act01: "Tour to Zorritos and Tumbes Mangroves",
-          act02: "Visit the fishing port of Puerto Pizarro",
-          act03: "Motorboat tour through the mangrove area and its islands: Bird Island, Love Island, and Whale Bone Island",
-          act04: "Tour: Swimming with turtles and visit to Punta Veleros",
-          act05: "Visit El Ñuro Cove or Los Órganos Pier",
-        },
-      },
+			tours: {
+				ica3d2n: {
+					act01: "You will visit the historic center of Ica, including La Casona del Marqués - Torre Hermosa (Bolívar's House), the Señor de Lúren Sanctuary, and enjoy a tasting of Ica's traditional sweets",
+					act02: "We will enter the Dromedarius compound",
+					act03: "Tour to Huacachina",
+					act04: "You will visit Ballestas Islands and Yaku Park Water Park",
+					act05: "You will visit Paracas National Reserve and Playa la Mina",
+				},
+				camboriu6d5n: {
+					act01: "Trip to Laranjeiras Beach via UNIPAIAS Cable Car",
+					act02: "Transfer to the Panoramic Tourist Complex CRISTO LUZ for a delightful Candlelight Dinner with a breathtaking view of Camboriú",
+					act03: "Visit the largest Theme Park in Latin America, featuring thrilling rides, shows, a zoo, and the Dream World Madagascar thematic area with Universal characters",
+				},
+				camboriuTradicional6n: {
+					act01: "Trip to Laranjeiras Beach via UNIPRAIAS Cable Car.",
+					act02: "Transfer to the Panoramic Tourist Complex CRISTO LUZ for a delightful Candlelight Dinner with a breathtaking view of Camboriú",
+					act03: "Surfing lessons with professional surfers",
+				},
+				playaNorte5d4n: {
+					act01: "Tour to Zorritos and Tumbes Mangroves",
+					act02: "Visit the fishing port of Puerto Pizarro",
+					act03: "Motorboat tour through the mangrove area and its islands: Bird Island, Love Island, and Whale Bone Island",
+					act04: "Tour: Swimming with turtles and visit to Punta Veleros",
+					act05: "Visit El Ñuro Cove or Los Órganos Pier",
+				},
+			},
 		},
 		bodas: {
 			title: "Weddings",
@@ -1170,21 +1172,21 @@ export const locales = {
 				tag: "Dream Weddings",
 				title: "Packages",
 			},
-      tours: {
-        bodasInclusive: {
-          act01: "We have created our wedding collections to perfectly highlight our beautiful venues, making them fully customizable.",
-        },
-        montaje : {
-          act01: "Includes 32 white avant-garde chairs",
-          act02: "Low cocktail tables with white avant-garde chairs and high cocktail tables with white tablecloths",
-        },
-        forHardRock : {
-          act01: "The couple will receive one (1) complimentary hotel night for every ten (10) paid nights, up to a maximum of seven (7) nights",
-          act02: "The newlyweds will receive a one (1) category room upgrade from the room already reserved",
-        },
-      },
+			tours: {
+				bodasInclusive: {
+					act01: "We have created our wedding collections to perfectly highlight our beautiful venues, making them fully customizable.",
+				},
+				montaje: {
+					act01: "Includes 32 white avant-garde chairs",
+					act02: "Low cocktail tables with white avant-garde chairs and high cocktail tables with white tablecloths",
+				},
+				forHardRock: {
+					act01: "The couple will receive one (1) complimentary hotel night for every ten (10) paid nights, up to a maximum of seven (7) nights",
+					act02: "The newlyweds will receive a one (1) category room upgrade from the room already reserved",
+				},
+			},
 		},
-    
+
 		itinerario: "Full Itinerary",
 		descargar: "Download Brochure",
 		visa: {

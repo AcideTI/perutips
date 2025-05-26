@@ -22,6 +22,7 @@ function loadNavbar() {
                 </div>
                 <a href="conoce-peru.html" class="nav-item nav-link text-truncate fw-bold" data-i18n="nav.peru">Conoce el Perú</a>
                 <a href="paquetes-internacionales.html" class="nav-item nav-link text-truncate fw-bold" data-i18n="nav.paquetes">Paquetes Internacionales</a>
+                <a href="tours-usa.html" class="nav-item nav-link text-truncate fw-bold" data-i18n="nav.tours_usa">Tours USA</a>
                 <div class="nav-item dropdown">
                     <div style="cursor: pointer;" class="nav-link dropdown-toggle text-truncate fw-bold" data-bs-toggle="dropdown" data-i18n="nav.adicionales">Servicios Adicionales</div>
                     <div class="dropdown-menu bg-light m-0">
@@ -41,7 +42,7 @@ function loadNavbar() {
 
     // Actualizar la clase 'active' según la página actual
     const currentPage = window.location.pathname.split('/').pop();
-    
+
     // Remover todas las clases active existentes
     const navLinks = document.querySelectorAll('.nav-link, .dropdown-item');
     navLinks.forEach(link => {
@@ -53,7 +54,7 @@ function loadNavbar() {
         const href = link.getAttribute('href');
         if (href === currentPage) {
             link.classList.add('active');
-            
+
             // Si es un elemento del menú desplegable, también activar el dropdown padre
             const dropdownParent = link.closest('.dropdown');
             if (dropdownParent) {
